@@ -1,0 +1,259 @@
+<!-- Add your content of head and header -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta content="IE=edge" http-equiv="X-UA-Compatible" />
+    <meta content="width=device-width,initial-scale=1" name="viewport" />
+    <meta content="description" name="description" />
+    <meta name="google" content="notranslate" />
+    <meta
+      content="Mashup templates have been developped by Orson.io team"
+      name="author"
+    />
+
+    <!-- Disable tap highlight on IE -->
+    <meta name="msapplication-tap-highlight" content="no" />
+
+    <link href="/assets/apple-touch-icon.png" rel="apple-touch-icon" />
+    <link href="/assets/favicon.ico" rel="icon" />
+
+    <title>Title page</title>
+
+    <link href="/css/main.97292821.css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <!-- Add your content of header -->
+    <header>
+      <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          </div>
+
+          <div class="navbar-collapse">
+            <button type="button" class="close" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+            <ul class="nav navbar-nav navbar-right">
+              <li>
+                <a href="/dash" title="" class="anchor-link">Shop</a>
+              </li>
+              <li>
+                <a href="/guidence" title="" class="anchor-link"
+                  >Guidance</a
+                >
+              </li>
+              <li>
+                <a href="/prediction" class="anchor-link">Prediction</a>
+              </li>
+              <!-- <li>
+                <p>
+                  <a href="./components.html" class="btn btn-default navbar-btn"
+                    >Components</a
+                  >
+                </p>
+              </li> -->
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Add your site or app content here -->
+    <div
+      class="background-image-container white-text-container"
+      style="background-image: url('/images/gid.jpg')"
+    >
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12">
+            <h1>Get Guidance</h1>
+           
+            <a
+              href="#contact-section-container"
+              class="btn btn-primary btn-lg anchor-link"
+              title=""
+              >Get Started</a
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-container">
+      <div class="container contact-form-container">
+        <div class="row">
+          <div class="col-xs-12 col-md-offset-2 col-md-8">
+            <div class="section-container-spacer">
+              <h2 class="text-center">Get Guidance</h2>
+            </div>
+            <form action="/guidence" method="post">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input
+                        type="text"
+                        class="form-control"
+                        id="inputDefault" 
+                        name="area" 
+                        placeholder="enter area" 
+                        required
+                      />
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input
+                        type="text"
+                        class="form-control"
+                        name="crop" 
+                        placeholder="enter crop" 
+                        required
+                      />
+                  </div>
+                </div>
+              </div>
+              <button type="submit" name="submit" class="btn btn-primary">Go</button>
+            </form>
+            <br />
+            <div class="section-container-spacer">
+              <h2 class="text-center">Quantities Required</h2>
+              <div class="container">
+                <h3>Water: <%= amount%></h3>
+                <h3>Fertilizer: <%= famount%></h3>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Guidance Results HERE -->
+    <div class="section-container">
+      <h1></h1>
+      <div class="container">
+        <h2><%= crops.name%></h2>
+      </div>
+      <div class="container">
+        <img
+              src="/images/<%= crops.pic%>"
+              alt=""
+              class="img-responsive"
+             style="width: 700px;"/>
+      </div>
+
+      <div class="container">
+        <h3><%= crops.week1%></h3>
+        <p>
+         <%= crops.desc1%>
+        </p>
+      </div>
+      <div class="container">
+        <h3><%= crops.week2%></h3>
+        <p><%= crops.desc2%></p>
+      </div>
+      <div class="container">
+        <h3><%= crops.week3%></h3>
+        <p><%= crops.desc3%></p>
+      </div>
+      <div class="container">
+        <h3><%= crops.week4%></h3>
+        <p><%= crops.desc4%></p>
+      </div>
+      <div class="container">
+        <h3><%= crops.week5%></h3>
+        <p><%= crops.desc5%></p>
+      </div>
+      <div class="container">
+        <h3><%= crops.week6%></h3>
+        <p><%= crops.desc6%></p>
+      </div>
+    </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function (event) {
+        googleMapInit();
+        scrollToAnchor();
+        scrollRevelation("reveal");
+      });
+    </script>
+
+    <footer class="footer-container white-text-container">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <h4>About us</h4>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit
+              amet consectetur dolor
+            </p>
+          </div>
+
+          <div class="col-md-4">
+            <h4>Do you like ? Share this !</h4>
+            <div>
+              <p>
+                <a href="https://www.twitter.com" class="fa-icon" title="">
+                  <i class="fab fa-twitter" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.facebook.com" class="fa-icon" title="">
+                  <i class="fab fa-facebook" aria-hidden="true"></i>
+                </a>
+                <a href="https://www.linkedin.com" class="fa-icon" title="">
+                  <i class="fab fa-linkedin" aria-hidden="true"></i>
+                </a>
+              </p>
+            </div>
+            <div>
+              <p>
+                <small
+                  >© Untitled | Website created with
+                  <a
+                    href="http://www.mashup-template.com/"
+                    title="Create website with free html template"
+                    >Mashup Template</a
+                  >/<a
+                    href="https://www.unsplash.com/"
+                    title="Beautiful Free Images"
+                    >Unsplash</a
+                  ></small
+                >
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <h4>Subscribe to newsletter</h4>
+
+            <div class="form-group">
+              <div class="input-group">
+                <input type="text" class="form-control footer-input-text" />
+                <div class="input-group-btn">
+                  <button type="button" class="btn btn-default btn-newsletter">
+                    OK
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function (event) {
+        navbarToggleSidebar();
+      });
+    </script>
+
+    <script type="text/javascript" src="./main.faaf51f9.js"></script>
+  </body>
+</html>

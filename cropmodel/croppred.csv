@@ -1,0 +1,5156 @@
+state_name,district_name,season,crop
+Andhra Pradesh,ANANTAPUR,january,rice
+Andhra Pradesh,ANANTAPUR,february,wheat 
+Andhra Pradesh,ANANTAPUR,march,bajra
+Andhra Pradesh,ANANTAPUR,april,rice
+Andhra Pradesh,ANANTAPUR,may,bottlegourd
+Andhra Pradesh,ANANTAPUR,june,okra
+Andhra Pradesh,ANANTAPUR,july,pomegrenate
+Andhra Pradesh,ANANTAPUR,august,groundnut
+Andhra Pradesh,ANANTAPUR,september,apple
+Andhra Pradesh,ANANTAPUR,october,mango
+Andhra Pradesh,ANANTAPUR,november,potato
+Andhra Pradesh,ANANTAPUR,december,tomato
+Andhra Pradesh,ANANTAPUR,january,wheat 
+Andhra Pradesh,ANANTAPUR,february,bajra
+Andhra Pradesh,ANANTAPUR,march,rice
+Andhra Pradesh,ANANTAPUR,april,bottlegourd
+Andhra Pradesh,ANANTAPUR,may,okra
+Andhra Pradesh,ANANTAPUR,june,wheat 
+Andhra Pradesh,ANANTAPUR,july,bajra
+Andhra Pradesh,ANANTAPUR,august,rice
+Andhra Pradesh,ANANTAPUR,september,bottlegourd
+Andhra Pradesh,ANANTAPUR,october,okra
+Andhra Pradesh,ANANTAPUR,november,pomegrenate
+Andhra Pradesh,ANANTAPUR,december,groundnut
+Andhra Pradesh,ANANTAPUR,february,apple
+Andhra Pradesh,ANANTAPUR,march,mango
+Andhra Pradesh,ANANTAPUR,march,potato
+Andhra Pradesh,ANANTAPUR,may,tomato
+Andhra Pradesh,ANANTAPUR,june,wheat 
+Andhra Pradesh,ANANTAPUR,june,bajra
+Andhra Pradesh,ANANTAPUR,july,rice
+Andhra Pradesh,ANANTAPUR,november,bottlegourd
+Andhra Pradesh,ANANTAPUR,october,okra
+Andhra Pradesh,ANANTAPUR,november,wheat 
+Andhra Pradesh,ANANTAPUR,december,bajra
+Andhra Pradesh,CHITTOOR,january,rice
+Andhra Pradesh,CHITTOOR,february,bottlegourd
+Andhra Pradesh,CHITTOOR,march,okra
+Andhra Pradesh,CHITTOOR,april,pomegrenate
+Andhra Pradesh,CHITTOOR,may,groundnut
+Andhra Pradesh,CHITTOOR,june,apple
+Andhra Pradesh,CHITTOOR,july,mango
+Andhra Pradesh,CHITTOOR,august,potato
+Andhra Pradesh,CHITTOOR,september,tomato
+Andhra Pradesh,CHITTOOR,october,wheat 
+Andhra Pradesh,CHITTOOR,november,bajra
+Andhra Pradesh,CHITTOOR,december,rice
+Andhra Pradesh,CHITTOOR,january,bottlegourd
+Andhra Pradesh,CHITTOOR,february,okra
+Andhra Pradesh,CHITTOOR,march,wheat 
+Andhra Pradesh,CHITTOOR,april,bajra
+Andhra Pradesh,CHITTOOR,may,rice
+Andhra Pradesh,CHITTOOR,june,bottlegourd
+Andhra Pradesh,CHITTOOR,july,okra
+Andhra Pradesh,CHITTOOR,august,pomegrenate
+Andhra Pradesh,CHITTOOR,september,groundnut
+Andhra Pradesh,CHITTOOR,october,apple
+Andhra Pradesh,CHITTOOR,november,mango
+Andhra Pradesh,CHITTOOR,december,potato
+Andhra Pradesh,CHITTOOR,february,tomato
+Andhra Pradesh,CHITTOOR,march,wheat 
+Andhra Pradesh,CHITTOOR,march,bajra
+Andhra Pradesh,CHITTOOR,may,rice
+Andhra Pradesh,CHITTOOR,june,bottlegourd
+Andhra Pradesh,CHITTOOR,june,okra
+Andhra Pradesh,CHITTOOR,july,wheat 
+Andhra Pradesh,CHITTOOR,november,bajra
+Andhra Pradesh,CHITTOOR,october,rice
+Andhra Pradesh,CHITTOOR,november,bottlegourd
+Andhra Pradesh,CHITTOOR,december,okra
+Andhra Pradesh,EAST GODAVARI,january,pomegrenate
+Andhra Pradesh,EAST GODAVARI,february,groundnut
+Andhra Pradesh,EAST GODAVARI,march,apple
+Andhra Pradesh,EAST GODAVARI,april,mango
+Andhra Pradesh,EAST GODAVARI,may,potato
+Andhra Pradesh,EAST GODAVARI,june,tomato
+Andhra Pradesh,EAST GODAVARI,july,wheat 
+Andhra Pradesh,EAST GODAVARI,august,bajra
+Andhra Pradesh,EAST GODAVARI,september,rice
+Andhra Pradesh,EAST GODAVARI,october,bottlegourd
+Andhra Pradesh,EAST GODAVARI,november,okra
+Andhra Pradesh,EAST GODAVARI,december,wheat 
+Andhra Pradesh,EAST GODAVARI,january,bajra
+Andhra Pradesh,EAST GODAVARI,february,rice
+Andhra Pradesh,EAST GODAVARI,march,bottlegourd
+Andhra Pradesh,EAST GODAVARI,april,okra
+Andhra Pradesh,EAST GODAVARI,may,pomegrenate
+Andhra Pradesh,EAST GODAVARI,june,groundnut
+Andhra Pradesh,EAST GODAVARI,july,apple
+Andhra Pradesh,EAST GODAVARI,august,mango
+Andhra Pradesh,EAST GODAVARI,september,potato
+Andhra Pradesh,EAST GODAVARI,october,tomato
+Andhra Pradesh,EAST GODAVARI,november,wheat 
+Andhra Pradesh,EAST GODAVARI,december,bajra
+Andhra Pradesh,EAST GODAVARI,february,rice
+Andhra Pradesh,EAST GODAVARI,march,bottlegourd
+Andhra Pradesh,EAST GODAVARI,march,okra
+Andhra Pradesh,EAST GODAVARI,may,wheat 
+Andhra Pradesh,EAST GODAVARI,june,bajra
+Andhra Pradesh,EAST GODAVARI,june,rice
+Andhra Pradesh,EAST GODAVARI,july,bottlegourd
+Andhra Pradesh,EAST GODAVARI,november,okra
+Andhra Pradesh,EAST GODAVARI,october,pomegrenate
+Andhra Pradesh,EAST GODAVARI,november,groundnut
+Andhra Pradesh,EAST GODAVARI,december,apple
+Andhra Pradesh,GUNTUR,january,mango
+Andhra Pradesh,GUNTUR,february,potato
+Andhra Pradesh,GUNTUR,march,tomato
+Andhra Pradesh,GUNTUR,april,wheat 
+Andhra Pradesh,GUNTUR,may,bajra
+Andhra Pradesh,GUNTUR,june,rice
+Andhra Pradesh,GUNTUR,july,bottlegourd
+Andhra Pradesh,GUNTUR,august,okra
+Andhra Pradesh,GUNTUR,september,wheat 
+Andhra Pradesh,GUNTUR,october,bajra
+Andhra Pradesh,GUNTUR,november,rice
+Andhra Pradesh,GUNTUR,december,bottlegourd
+Andhra Pradesh,GUNTUR,january,okra
+Andhra Pradesh,GUNTUR,february,pomegrenate
+Andhra Pradesh,GUNTUR,march,groundnut
+Andhra Pradesh,GUNTUR,april,apple
+Andhra Pradesh,GUNTUR,may,mango
+Andhra Pradesh,GUNTUR,june,potato
+Andhra Pradesh,GUNTUR,july,tomato
+Andhra Pradesh,GUNTUR,august,wheat 
+Andhra Pradesh,GUNTUR,september,bajra
+Andhra Pradesh,GUNTUR,october,rice
+Andhra Pradesh,GUNTUR,november,bottlegourd
+Andhra Pradesh,GUNTUR,december,okra
+Andhra Pradesh,GUNTUR,february,wheat 
+Andhra Pradesh,GUNTUR,march,bajra
+Andhra Pradesh,GUNTUR,march,rice
+Andhra Pradesh,GUNTUR,may,bottlegourd
+Andhra Pradesh,GUNTUR,june,okra
+Andhra Pradesh,GUNTUR,june,pomegrenate
+Andhra Pradesh,GUNTUR,july,groundnut
+Andhra Pradesh,GUNTUR,november,apple
+Andhra Pradesh,GUNTUR,october,mango
+Andhra Pradesh,GUNTUR,november,potato
+Andhra Pradesh,GUNTUR,december,tomato
+Andhra Pradesh,VISAKHAPATANAM,january,wheat 
+Andhra Pradesh,VISAKHAPATANAM,february,bajra
+Andhra Pradesh,VISAKHAPATANAM,march,rice
+Andhra Pradesh,VISAKHAPATANAM,april,bottlegourd
+Andhra Pradesh,VISAKHAPATANAM,may,okra
+Andhra Pradesh,VISAKHAPATANAM,june,wheat 
+Andhra Pradesh,VISAKHAPATANAM,july,bajra
+Andhra Pradesh,VISAKHAPATANAM,august,rice
+Andhra Pradesh,VISAKHAPATANAM,september,bottlegourd
+Andhra Pradesh,VISAKHAPATANAM,october,okra
+Andhra Pradesh,VISAKHAPATANAM,november,pomegrenate
+Andhra Pradesh,VISAKHAPATANAM,december,groundnut
+Andhra Pradesh,VISAKHAPATANAM,january,apple
+Andhra Pradesh,VISAKHAPATANAM,february,mango
+Andhra Pradesh,VISAKHAPATANAM,march,potato
+Andhra Pradesh,VISAKHAPATANAM,april,tomato
+Andhra Pradesh,VISAKHAPATANAM,may,wheat 
+Andhra Pradesh,VISAKHAPATANAM,june,bajra
+Andhra Pradesh,VISAKHAPATANAM,july,rice
+Andhra Pradesh,VISAKHAPATANAM,august,bottlegourd
+Andhra Pradesh,VISAKHAPATANAM,september,okra
+Andhra Pradesh,VISAKHAPATANAM,october,wheat 
+Andhra Pradesh,VISAKHAPATANAM,november,bajra
+Andhra Pradesh,VISAKHAPATANAM,december,rice
+Andhra Pradesh,VISAKHAPATANAM,february,bottlegourd
+Andhra Pradesh,VISAKHAPATANAM,march,okra
+Andhra Pradesh,VISAKHAPATANAM,march,pomegrenate
+Andhra Pradesh,VISAKHAPATANAM,may,groundnut
+Andhra Pradesh,VISAKHAPATANAM,june,apple
+Andhra Pradesh,VISAKHAPATANAM,june,mango
+Andhra Pradesh,VISAKHAPATANAM,july,potato
+Andhra Pradesh,VISAKHAPATANAM,november,tomato
+Andhra Pradesh,VISAKHAPATANAM,october,wheat 
+Andhra Pradesh,VISAKHAPATANAM,november,bajra
+Andhra Pradesh,VISAKHAPATANAM,december,rice
+Andhra Pradesh,VIZIANAGARAM,january,bottlegourd
+Andhra Pradesh,VIZIANAGARAM,february,okra
+Andhra Pradesh,VIZIANAGARAM,march,wheat 
+Andhra Pradesh,VIZIANAGARAM,april,bajra
+Andhra Pradesh,VIZIANAGARAM,may,rice
+Andhra Pradesh,VIZIANAGARAM,june,bottlegourd
+Andhra Pradesh,VIZIANAGARAM,july,okra
+Andhra Pradesh,VIZIANAGARAM,august,pomegrenate
+Andhra Pradesh,VIZIANAGARAM,september,groundnut
+Andhra Pradesh,VIZIANAGARAM,october,apple
+Andhra Pradesh,VIZIANAGARAM,november,mango
+Andhra Pradesh,VIZIANAGARAM,december,potato
+Andhra Pradesh,VIZIANAGARAM,january,tomato
+Andhra Pradesh,VIZIANAGARAM,february,wheat 
+Andhra Pradesh,VIZIANAGARAM,march,bajra
+Andhra Pradesh,VIZIANAGARAM,april,rice
+Andhra Pradesh,VIZIANAGARAM,may,bottlegourd
+Andhra Pradesh,VIZIANAGARAM,june,okra
+Andhra Pradesh,VIZIANAGARAM,july,wheat 
+Andhra Pradesh,VIZIANAGARAM,august,bajra
+Andhra Pradesh,VIZIANAGARAM,september,rice
+Andhra Pradesh,VIZIANAGARAM,october,bottlegourd
+Andhra Pradesh,VIZIANAGARAM,november,okra
+Andhra Pradesh,VIZIANAGARAM,december,pomegrenate
+Andhra Pradesh,VIZIANAGARAM,february,groundnut
+Andhra Pradesh,VIZIANAGARAM,march,apple
+Andhra Pradesh,VIZIANAGARAM,march,mango
+Andhra Pradesh,VIZIANAGARAM,may,potato
+Andhra Pradesh,VIZIANAGARAM,june,tomato
+Andhra Pradesh,VIZIANAGARAM,june,wheat 
+Andhra Pradesh,VIZIANAGARAM,july,bajra
+Andhra Pradesh,VIZIANAGARAM,november,rice
+Andhra Pradesh,VIZIANAGARAM,october,bottlegourd
+Andhra Pradesh,VIZIANAGARAM,november,okra
+Andhra Pradesh,VIZIANAGARAM,december,wheat 
+Andhra Pradesh,WEST GODAVARI,january,bajra
+Andhra Pradesh,WEST GODAVARI,february,rice
+Andhra Pradesh,WEST GODAVARI,march,bottlegourd
+Andhra Pradesh,WEST GODAVARI,april,okra
+Andhra Pradesh,WEST GODAVARI,may,pomegrenate
+Andhra Pradesh,WEST GODAVARI,june,groundnut
+Andhra Pradesh,WEST GODAVARI,july,apple
+Andhra Pradesh,WEST GODAVARI,august,mango
+Andhra Pradesh,WEST GODAVARI,september,potato
+Andhra Pradesh,WEST GODAVARI,october,tomato
+Andhra Pradesh,WEST GODAVARI,november,wheat 
+Andhra Pradesh,WEST GODAVARI,december,bajra
+Andhra Pradesh,WEST GODAVARI,january,rice
+Andhra Pradesh,WEST GODAVARI,february,bottlegourd
+Andhra Pradesh,WEST GODAVARI,march,okra
+Andhra Pradesh,WEST GODAVARI,april,wheat 
+Andhra Pradesh,WEST GODAVARI,may,bajra
+Andhra Pradesh,WEST GODAVARI,june,rice
+Andhra Pradesh,WEST GODAVARI,july,bottlegourd
+Andhra Pradesh,WEST GODAVARI,august,okra
+Andhra Pradesh,WEST GODAVARI,september,pomegrenate
+Andhra Pradesh,WEST GODAVARI,october,groundnut
+Andhra Pradesh,WEST GODAVARI,november,apple
+Andhra Pradesh,WEST GODAVARI,december,mango
+Andhra Pradesh,WEST GODAVARI,february,potato
+Andhra Pradesh,WEST GODAVARI,march,tomato
+Andhra Pradesh,WEST GODAVARI,march,wheat 
+Andhra Pradesh,WEST GODAVARI,may,bajra
+Andhra Pradesh,WEST GODAVARI,june,rice
+Andhra Pradesh,WEST GODAVARI,june,bottlegourd
+Andhra Pradesh,WEST GODAVARI,july,okra
+Andhra Pradesh,WEST GODAVARI,november,wheat 
+Andhra Pradesh,WEST GODAVARI,october,bajra
+Andhra Pradesh,WEST GODAVARI,november,rice
+Andhra Pradesh,WEST GODAVARI,december,bottlegourd
+Arunachal Pradesh,ANJAW,january,okra
+Arunachal Pradesh,ANJAW,february,pomegrenate
+Arunachal Pradesh,ANJAW,march,groundnut
+Arunachal Pradesh,ANJAW,april,apple
+Arunachal Pradesh,ANJAW,may,mango
+Arunachal Pradesh,ANJAW,june,potato
+Arunachal Pradesh,ANJAW,july,tomato
+Arunachal Pradesh,ANJAW,august,wheat 
+Arunachal Pradesh,ANJAW,september,bajra
+Arunachal Pradesh,ANJAW,october,rice
+Arunachal Pradesh,ANJAW,november,bottlegourd
+Arunachal Pradesh,ANJAW,december,okra
+Arunachal Pradesh,ANJAW,june,wheat 
+Arunachal Pradesh,ANJAW,july,bajra
+Arunachal Pradesh,ANJAW,may,rice
+Arunachal Pradesh,ANJAW,november,bottlegourd
+Arunachal Pradesh,ANJAW,december,okra
+Arunachal Pradesh,ANJAW,january,pomegrenate
+Arunachal Pradesh,ANJAW,february,groundnut
+Arunachal Pradesh,ANJAW,march,apple
+Arunachal Pradesh,ANJAW,december,mango
+Arunachal Pradesh,ANJAW,january,potato
+Arunachal Pradesh,ANJAW,january,tomato
+Arunachal Pradesh,ANJAW,february,wheat 
+Arunachal Pradesh,ANJAW,march,bajra
+Arunachal Pradesh,ANJAW,june,rice
+Arunachal Pradesh,ANJAW,july,bottlegourd
+Arunachal Pradesh,ANJAW,august,okra
+Arunachal Pradesh,ANJAW,february,wheat 
+Arunachal Pradesh,ANJAW,march,bajra
+Arunachal Pradesh,ANJAW,june,rice
+Arunachal Pradesh,ANJAW,july,bottlegourd
+Arunachal Pradesh,ANJAW,august,okra
+Arunachal Pradesh,ANJAW,september,pomegrenate
+Arunachal Pradesh,CHANGLANG,january,groundnut
+Arunachal Pradesh,CHANGLANG,february,apple
+Arunachal Pradesh,CHANGLANG,march,mango
+Arunachal Pradesh,CHANGLANG,april,potato
+Arunachal Pradesh,CHANGLANG,may,tomato
+Arunachal Pradesh,CHANGLANG,june,wheat 
+Arunachal Pradesh,CHANGLANG,july,bajra
+Arunachal Pradesh,CHANGLANG,august,rice
+Arunachal Pradesh,CHANGLANG,september,bottlegourd
+Arunachal Pradesh,CHANGLANG,october,okra
+Arunachal Pradesh,CHANGLANG,november,wheat 
+Arunachal Pradesh,CHANGLANG,december,bajra
+Arunachal Pradesh,CHANGLANG,june,rice
+Arunachal Pradesh,CHANGLANG,july,bottlegourd
+Arunachal Pradesh,CHANGLANG,may,okra
+Arunachal Pradesh,CHANGLANG,november,pomegrenate
+Arunachal Pradesh,CHANGLANG,december,groundnut
+Arunachal Pradesh,CHANGLANG,january,apple
+Arunachal Pradesh,CHANGLANG,february,mango
+Arunachal Pradesh,CHANGLANG,march,potato
+Arunachal Pradesh,CHANGLANG,december,tomato
+Arunachal Pradesh,CHANGLANG,january,wheat 
+Arunachal Pradesh,CHANGLANG,january,bajra
+Arunachal Pradesh,CHANGLANG,february,rice
+Arunachal Pradesh,CHANGLANG,march,bottlegourd
+Arunachal Pradesh,CHANGLANG,june,okra
+Arunachal Pradesh,CHANGLANG,july,wheat 
+Arunachal Pradesh,CHANGLANG,august,bajra
+Arunachal Pradesh,CHANGLANG,february,rice
+Arunachal Pradesh,CHANGLANG,march,bottlegourd
+Arunachal Pradesh,CHANGLANG,june,okra
+Arunachal Pradesh,CHANGLANG,july,pomegrenate
+Arunachal Pradesh,CHANGLANG,august,groundnut
+Arunachal Pradesh,CHANGLANG,september,apple
+Arunachal Pradesh,DIBANG VALLEY,january,mango
+Arunachal Pradesh,DIBANG VALLEY,february,potato
+Arunachal Pradesh,DIBANG VALLEY,march,tomato
+Arunachal Pradesh,DIBANG VALLEY,april,wheat 
+Arunachal Pradesh,DIBANG VALLEY,may,bajra
+Arunachal Pradesh,DIBANG VALLEY,june,rice
+Arunachal Pradesh,DIBANG VALLEY,july,bottlegourd
+Arunachal Pradesh,DIBANG VALLEY,august,okra
+Arunachal Pradesh,DIBANG VALLEY,september,wheat 
+Arunachal Pradesh,DIBANG VALLEY,october,bajra
+Arunachal Pradesh,DIBANG VALLEY,november,rice
+Arunachal Pradesh,DIBANG VALLEY,december,bottlegourd
+Arunachal Pradesh,DIBANG VALLEY,june,okra
+Arunachal Pradesh,DIBANG VALLEY,july,pomegrenate
+Arunachal Pradesh,DIBANG VALLEY,may,groundnut
+Arunachal Pradesh,DIBANG VALLEY,november,apple
+Arunachal Pradesh,DIBANG VALLEY,december,mango
+Arunachal Pradesh,DIBANG VALLEY,january,potato
+Arunachal Pradesh,DIBANG VALLEY,february,tomato
+Arunachal Pradesh,DIBANG VALLEY,march,wheat 
+Arunachal Pradesh,DIBANG VALLEY,december,bajra
+Arunachal Pradesh,DIBANG VALLEY,january,rice
+Arunachal Pradesh,DIBANG VALLEY,january,bottlegourd
+Arunachal Pradesh,DIBANG VALLEY,february,okra
+Arunachal Pradesh,DIBANG VALLEY,march,wheat 
+Arunachal Pradesh,DIBANG VALLEY,june,bajra
+Arunachal Pradesh,DIBANG VALLEY,july,rice
+Arunachal Pradesh,DIBANG VALLEY,august,bottlegourd
+Arunachal Pradesh,DIBANG VALLEY,february,okra
+Arunachal Pradesh,DIBANG VALLEY,march,pomegrenate
+Arunachal Pradesh,DIBANG VALLEY,june,groundnut
+Arunachal Pradesh,DIBANG VALLEY,july,apple
+Arunachal Pradesh,DIBANG VALLEY,august,mango
+Arunachal Pradesh,DIBANG VALLEY,september,potato
+Arunachal Pradesh,EAST KAMENG,january,tomato
+Arunachal Pradesh,EAST KAMENG,february,wheat 
+Arunachal Pradesh,EAST KAMENG,march,bajra
+Arunachal Pradesh,EAST KAMENG,april,rice
+Arunachal Pradesh,EAST KAMENG,may,bottlegourd
+Arunachal Pradesh,EAST KAMENG,june,okra
+Arunachal Pradesh,EAST KAMENG,july,wheat 
+Arunachal Pradesh,EAST KAMENG,august,bajra
+Arunachal Pradesh,EAST KAMENG,september,rice
+Arunachal Pradesh,EAST KAMENG,october,bottlegourd
+Arunachal Pradesh,EAST KAMENG,november,okra
+Arunachal Pradesh,EAST KAMENG,december,pomegrenate
+Arunachal Pradesh,EAST KAMENG,june,groundnut
+Arunachal Pradesh,EAST KAMENG,july,apple
+Arunachal Pradesh,EAST KAMENG,may,mango
+Arunachal Pradesh,EAST KAMENG,november,potato
+Arunachal Pradesh,EAST KAMENG,december,tomato
+Arunachal Pradesh,EAST KAMENG,january,wheat 
+Arunachal Pradesh,EAST KAMENG,february,bajra
+Arunachal Pradesh,EAST KAMENG,march,rice
+Arunachal Pradesh,EAST KAMENG,december,bottlegourd
+Arunachal Pradesh,EAST KAMENG,january,okra
+Arunachal Pradesh,EAST KAMENG,january,wheat 
+Arunachal Pradesh,EAST KAMENG,february,bajra
+Arunachal Pradesh,EAST KAMENG,march,rice
+Arunachal Pradesh,EAST KAMENG,june,bottlegourd
+Arunachal Pradesh,EAST KAMENG,july,okra
+Arunachal Pradesh,EAST KAMENG,august,pomegrenate
+Arunachal Pradesh,EAST KAMENG,february,groundnut
+Arunachal Pradesh,EAST KAMENG,march,apple
+Arunachal Pradesh,EAST KAMENG,june,mango
+Arunachal Pradesh,EAST KAMENG,july,potato
+Arunachal Pradesh,EAST KAMENG,august,tomato
+Arunachal Pradesh,EAST KAMENG,september,wheat 
+Arunachal Pradesh,EAST SIANG,january,bajra
+Arunachal Pradesh,EAST SIANG,february,rice
+Arunachal Pradesh,EAST SIANG,march,bottlegourd
+Arunachal Pradesh,EAST SIANG,april,okra
+Arunachal Pradesh,EAST SIANG,may,wheat 
+Arunachal Pradesh,EAST SIANG,june,bajra
+Arunachal Pradesh,EAST SIANG,july,rice
+Arunachal Pradesh,EAST SIANG,august,bottlegourd
+Arunachal Pradesh,EAST SIANG,september,okra
+Arunachal Pradesh,EAST SIANG,october,pomegrenate
+Arunachal Pradesh,EAST SIANG,november,groundnut
+Arunachal Pradesh,EAST SIANG,december,apple
+Arunachal Pradesh,EAST SIANG,june,mango
+Arunachal Pradesh,EAST SIANG,july,potato
+Arunachal Pradesh,EAST SIANG,may,tomato
+Arunachal Pradesh,EAST SIANG,november,wheat 
+Arunachal Pradesh,EAST SIANG,december,bajra
+Arunachal Pradesh,EAST SIANG,january,rice
+Arunachal Pradesh,EAST SIANG,february,bottlegourd
+Arunachal Pradesh,EAST SIANG,march,okra
+Arunachal Pradesh,EAST SIANG,december,wheat 
+Arunachal Pradesh,EAST SIANG,january,bajra
+Arunachal Pradesh,EAST SIANG,january,rice
+Arunachal Pradesh,EAST SIANG,february,bottlegourd
+Arunachal Pradesh,EAST SIANG,march,okra
+Arunachal Pradesh,EAST SIANG,june,pomegrenate
+Arunachal Pradesh,EAST SIANG,july,groundnut
+Arunachal Pradesh,EAST SIANG,august,apple
+Arunachal Pradesh,EAST SIANG,february,mango
+Arunachal Pradesh,EAST SIANG,march,potato
+Arunachal Pradesh,EAST SIANG,june,tomato
+Arunachal Pradesh,EAST SIANG,july,wheat 
+Arunachal Pradesh,EAST SIANG,august,bajra
+Arunachal Pradesh,EAST SIANG,september,rice
+Arunachal Pradesh,KURUNG KUMEY,january,bottlegourd
+Arunachal Pradesh,KURUNG KUMEY,february,okra
+Arunachal Pradesh,KURUNG KUMEY,march,wheat 
+Arunachal Pradesh,KURUNG KUMEY,april,bajra
+Arunachal Pradesh,KURUNG KUMEY,may,rice
+Arunachal Pradesh,KURUNG KUMEY,june,bottlegourd
+Arunachal Pradesh,KURUNG KUMEY,july,okra
+Arunachal Pradesh,KURUNG KUMEY,august,pomegrenate
+Arunachal Pradesh,KURUNG KUMEY,september,groundnut
+Arunachal Pradesh,KURUNG KUMEY,october,apple
+Arunachal Pradesh,KURUNG KUMEY,november,mango
+Arunachal Pradesh,KURUNG KUMEY,december,potato
+Arunachal Pradesh,KURUNG KUMEY,june,tomato
+Arunachal Pradesh,KURUNG KUMEY,july,wheat 
+Arunachal Pradesh,KURUNG KUMEY,may,bajra
+Arunachal Pradesh,KURUNG KUMEY,november,rice
+Arunachal Pradesh,KURUNG KUMEY,december,bottlegourd
+Arunachal Pradesh,KURUNG KUMEY,january,okra
+Arunachal Pradesh,KURUNG KUMEY,february,wheat 
+Arunachal Pradesh,KURUNG KUMEY,march,bajra
+Arunachal Pradesh,KURUNG KUMEY,december,rice
+Arunachal Pradesh,KURUNG KUMEY,january,bottlegourd
+Arunachal Pradesh,KURUNG KUMEY,january,okra
+Arunachal Pradesh,KURUNG KUMEY,february,pomegrenate
+Arunachal Pradesh,KURUNG KUMEY,march,groundnut
+Arunachal Pradesh,KURUNG KUMEY,june,apple
+Arunachal Pradesh,KURUNG KUMEY,july,mango
+Arunachal Pradesh,KURUNG KUMEY,august,potato
+Arunachal Pradesh,KURUNG KUMEY,february,tomato
+Arunachal Pradesh,KURUNG KUMEY,march,wheat 
+Arunachal Pradesh,KURUNG KUMEY,june,bajra
+Arunachal Pradesh,KURUNG KUMEY,july,rice
+Arunachal Pradesh,KURUNG KUMEY,august,okra
+Arunachal Pradesh,KURUNG KUMEY,september,pomegrenate
+Arunachal Pradesh,LOHIT,january,groundnut
+Arunachal Pradesh,LOHIT,february,apple
+Arunachal Pradesh,LOHIT,march,mango
+Arunachal Pradesh,LOHIT,april,potato
+Arunachal Pradesh,LOHIT,may,tomato
+Arunachal Pradesh,LOHIT,june,wheat 
+Arunachal Pradesh,LOHIT,july,bajra
+Arunachal Pradesh,LOHIT,august,rice
+Arunachal Pradesh,LOHIT,september,okra
+Arunachal Pradesh,LOHIT,october,pomegrenate
+Arunachal Pradesh,LOHIT,november,groundnut
+Arunachal Pradesh,LOHIT,december,apple
+Arunachal Pradesh,LOHIT,june,mango
+Arunachal Pradesh,LOHIT,july,potato
+Arunachal Pradesh,LOHIT,may,tomato
+Arunachal Pradesh,LOHIT,november,wheat 
+Arunachal Pradesh,LOHIT,december,bajra
+Arunachal Pradesh,LOHIT,january,rice
+Arunachal Pradesh,LOHIT,february,okra
+Arunachal Pradesh,LOHIT,march,pomegrenate
+Arunachal Pradesh,LOHIT,december,groundnut
+Arunachal Pradesh,LOHIT,january,apple
+Arunachal Pradesh,LOHIT,january,mango
+Arunachal Pradesh,LOHIT,february,potato
+Arunachal Pradesh,LOHIT,march,tomato
+Arunachal Pradesh,LOHIT,june,wheat 
+Arunachal Pradesh,LOHIT,july,bajra
+Arunachal Pradesh,LOHIT,august,rice
+Arunachal Pradesh,LOHIT,february,okra
+Arunachal Pradesh,LOHIT,march,pomegrenate
+Arunachal Pradesh,LOHIT,june,groundnut
+Arunachal Pradesh,LOHIT,july,apple
+Arunachal Pradesh,LOHIT,august,mango
+Arunachal Pradesh,LOHIT,september,potato
+Arunachal Pradesh,LOWER DIBANG VALLEY,january,tomato
+Arunachal Pradesh,LOWER DIBANG VALLEY,february,wheat 
+Arunachal Pradesh,LOWER DIBANG VALLEY,march,bajra
+Arunachal Pradesh,LOWER DIBANG VALLEY,april,rice
+Arunachal Pradesh,LOWER DIBANG VALLEY,may,okra
+Arunachal Pradesh,LOWER DIBANG VALLEY,june,pomegrenate
+Arunachal Pradesh,LOWER DIBANG VALLEY,july,groundnut
+Arunachal Pradesh,LOWER DIBANG VALLEY,august,apple
+Arunachal Pradesh,LOWER DIBANG VALLEY,september,mango
+Arunachal Pradesh,LOWER DIBANG VALLEY,october,potato
+Arunachal Pradesh,LOWER DIBANG VALLEY,november,tomato
+Arunachal Pradesh,LOWER DIBANG VALLEY,december,wheat 
+Arunachal Pradesh,LOWER DIBANG VALLEY,june,bajra
+Arunachal Pradesh,LOWER DIBANG VALLEY,july,rice
+Arunachal Pradesh,LOWER DIBANG VALLEY,may,okra
+Arunachal Pradesh,LOWER DIBANG VALLEY,november,pomegrenate
+Arunachal Pradesh,LOWER DIBANG VALLEY,december,groundnut
+Arunachal Pradesh,LOWER DIBANG VALLEY,january,apple
+Arunachal Pradesh,LOWER DIBANG VALLEY,february,mango
+Arunachal Pradesh,LOWER DIBANG VALLEY,march,potato
+Arunachal Pradesh,LOWER DIBANG VALLEY,december,tomato
+Arunachal Pradesh,LOWER DIBANG VALLEY,january,wheat 
+Arunachal Pradesh,LOWER DIBANG VALLEY,january,bajra
+Arunachal Pradesh,LOWER DIBANG VALLEY,february,rice
+Arunachal Pradesh,LOWER DIBANG VALLEY,march,okra
+Arunachal Pradesh,LOWER DIBANG VALLEY,june,pomegrenate
+Arunachal Pradesh,LOWER DIBANG VALLEY,july,groundnut
+Arunachal Pradesh,LOWER DIBANG VALLEY,august,apple
+Arunachal Pradesh,LOWER DIBANG VALLEY,february,mango
+Arunachal Pradesh,LOWER DIBANG VALLEY,march,potato
+Arunachal Pradesh,LOWER DIBANG VALLEY,june,tomato
+Arunachal Pradesh,LOWER DIBANG VALLEY,july,wheat 
+Arunachal Pradesh,LOWER DIBANG VALLEY,august,bajra
+Arunachal Pradesh,LOWER DIBANG VALLEY,september,rice
+Arunachal Pradesh,TAWANG,january,okra
+Arunachal Pradesh,TAWANG,february,pomegrenate
+Arunachal Pradesh,TAWANG,march,groundnut
+Arunachal Pradesh,TAWANG,april,apple
+Arunachal Pradesh,TAWANG,may,mango
+Arunachal Pradesh,TAWANG,june,potato
+Arunachal Pradesh,TAWANG,july,tomato
+Arunachal Pradesh,TAWANG,august,wheat 
+Arunachal Pradesh,TAWANG,september,bajra
+Arunachal Pradesh,TAWANG,october,rice
+Arunachal Pradesh,TAWANG,november,okra
+Arunachal Pradesh,TAWANG,december,pomegrenate
+Arunachal Pradesh,TAWANG,june,groundnut
+Arunachal Pradesh,TAWANG,july,apple
+Arunachal Pradesh,TAWANG,may,mango
+Arunachal Pradesh,TAWANG,november,potato
+Arunachal Pradesh,TAWANG,december,tomato
+Arunachal Pradesh,TAWANG,january,wheat 
+Arunachal Pradesh,TAWANG,february,bajra
+Arunachal Pradesh,TAWANG,march,rice
+Arunachal Pradesh,TAWANG,december,okra
+Arunachal Pradesh,TAWANG,january,pomegrenate
+Arunachal Pradesh,TAWANG,january,groundnut
+Arunachal Pradesh,TAWANG,february,apple
+Arunachal Pradesh,TAWANG,march,mango
+Arunachal Pradesh,TAWANG,june,potato
+Arunachal Pradesh,TAWANG,july,tomato
+Arunachal Pradesh,TAWANG,august,wheat 
+Arunachal Pradesh,TAWANG,february,bajra
+Arunachal Pradesh,TAWANG,march,rice
+Arunachal Pradesh,TAWANG,june,okra
+Arunachal Pradesh,TAWANG,july,pomegrenate
+Arunachal Pradesh,TAWANG,august,groundnut
+Arunachal Pradesh,TAWANG,september,apple
+Assam,BAKSA,january,mango
+Assam,BAKSA,february,potato
+Assam,BAKSA,march,tomato
+Assam,BAKSA,april,wheat 
+Assam,BAKSA,may,bajra
+Assam,BAKSA,june,rice
+Assam,BAKSA,july,okra
+Assam,BAKSA,august,pomegrenate
+Assam,BAKSA,september,groundnut
+Assam,BAKSA,october,apple
+Assam,BAKSA,november,mango
+Assam,BAKSA,december,potato
+Assam,BAKSA,march,tomato
+Assam,BAKSA,april,wheat 
+Assam,BAKSA,may,bajra
+Assam,BAKSA,march,rice
+Assam,BAKSA,january,okra
+Assam,BAKSA,february,pomegrenate
+Assam,BAKSA,march,groundnut
+Assam,BAKSA,april,apple
+Assam,BAKSA,may,mango
+Assam,BAKSA,june,potato
+Assam,BAKSA,november,tomato
+Assam,BAKSA,september,wheat 
+Assam,BAKSA,october,bajra
+Assam,BAKSA,november,rice
+Assam,BAKSA,february,okra
+Assam,BAKSA,march,pomegrenate
+Assam,BAKSA,march,groundnut
+Assam,BAKSA,april,apple
+Assam,BAKSA,september,mango
+Assam,BAKSA,october,potato
+Assam,BAKSA,november,tomato
+Assam,BAKSA,december,wheat 
+Assam,BARPETA,january,bajra
+Assam,BARPETA,february,rice
+Assam,BARPETA,march,okra
+Assam,BARPETA,april,pomegrenate
+Assam,BARPETA,may,groundnut
+Assam,BARPETA,june,apple
+Assam,BARPETA,july,mango
+Assam,BARPETA,august,potato
+Assam,BARPETA,september,tomato
+Assam,BARPETA,october,wheat 
+Assam,BARPETA,november,bajra
+Assam,BARPETA,december,rice
+Assam,BARPETA,march,okra
+Assam,BARPETA,april,pomegrenate
+Assam,BARPETA,may,groundnut
+Assam,BARPETA,march,apple
+Assam,BARPETA,january,mango
+Assam,BARPETA,february,potato
+Assam,BARPETA,march,tomato
+Assam,BARPETA,april,wheat 
+Assam,BARPETA,may,bajra
+Assam,BARPETA,june,rice
+Assam,BARPETA,november,okra
+Assam,BARPETA,september,pomegrenate
+Assam,BARPETA,october,groundnut
+Assam,BARPETA,november,apple
+Assam,BARPETA,february,mango
+Assam,BARPETA,march,potato
+Assam,BARPETA,march,tomato
+Assam,BARPETA,april,wheat 
+Assam,BARPETA,september,bajra
+Assam,BARPETA,october,rice
+Assam,BARPETA,november,okra
+Assam,BARPETA,december,pomegrenate
+Assam,DARRANG,january,groundnut
+Assam,DARRANG,february,apple
+Assam,DARRANG,march,mango
+Assam,DARRANG,april,potato
+Assam,DARRANG,may,tomato
+Assam,DARRANG,june,wheat 
+Assam,DARRANG,july,bajra
+Assam,DARRANG,august,rice
+Assam,DARRANG,september,okra
+Assam,DARRANG,october,pomegrenate
+Assam,DARRANG,november,groundnut
+Assam,DARRANG,december,apple
+Assam,DARRANG,march,mango
+Assam,DARRANG,april,potato
+Assam,DARRANG,may,tomato
+Assam,DARRANG,march,wheat 
+Assam,DARRANG,january,bajra
+Assam,DARRANG,february,rice
+Assam,DARRANG,march,okra
+Assam,DARRANG,april,pomegrenate
+Assam,DARRANG,may,groundnut
+Assam,DARRANG,june,apple
+Assam,DARRANG,november,mango
+Assam,DARRANG,september,potato
+Assam,DARRANG,october,tomato
+Assam,DARRANG,november,wheat 
+Assam,DARRANG,february,bajra
+Assam,DARRANG,march,rice
+Assam,DARRANG,march,okra
+Assam,DARRANG,april,pomegrenate
+Assam,DARRANG,september,groundnut
+Assam,DARRANG,october,apple
+Assam,DARRANG,november,mango
+Assam,DARRANG,december,potato
+Assam,GOALPARA,january,tomato
+Assam,GOALPARA,february,wheat 
+Assam,GOALPARA,march,bajra
+Assam,GOALPARA,april,rice
+Assam,GOALPARA,may,okra
+Assam,GOALPARA,june,pomegrenate
+Assam,GOALPARA,july,groundnut
+Assam,GOALPARA,august,apple
+Assam,GOALPARA,september,mango
+Assam,GOALPARA,october,potato
+Assam,GOALPARA,november,tomato
+Assam,GOALPARA,december,wheat 
+Assam,GOALPARA,march,bajra
+Assam,GOALPARA,april,rice
+Assam,GOALPARA,may,okra
+Assam,GOALPARA,march,pomegrenate
+Assam,GOALPARA,january,groundnut
+Assam,GOALPARA,february,apple
+Assam,GOALPARA,march,mango
+Assam,GOALPARA,april,potato
+Assam,GOALPARA,may,tomato
+Assam,GOALPARA,june,wheat 
+Assam,GOALPARA,november,bajra
+Assam,GOALPARA,september,rice
+Assam,GOALPARA,october,okra
+Assam,GOALPARA,november,pomegrenate
+Assam,GOALPARA,february,groundnut
+Assam,GOALPARA,march,apple
+Assam,GOALPARA,march,mango
+Assam,GOALPARA,april,potato
+Assam,GOALPARA,september,tomato
+Assam,GOALPARA,october,wheat 
+Assam,GOALPARA,november,bajra
+Assam,GOALPARA,december,rice
+Assam,NAGAON,january,okra
+Assam,NAGAON,february,pomegrenate
+Assam,NAGAON,march,groundnut
+Assam,NAGAON,april,apple
+Assam,NAGAON,may,mango
+Assam,NAGAON,june,potato
+Assam,NAGAON,july,tomato
+Assam,NAGAON,august,wheat 
+Assam,NAGAON,september,bajra
+Assam,NAGAON,october,rice
+Assam,NAGAON,november,okra
+Assam,NAGAON,december,pomegrenate
+Assam,NAGAON,march,groundnut
+Assam,NAGAON,april,apple
+Assam,NAGAON,may,mango
+Assam,NAGAON,march,potato
+Assam,NAGAON,january,tomato
+Assam,NAGAON,february,wheat 
+Assam,NAGAON,march,bajra
+Assam,NAGAON,april,rice
+Assam,NAGAON,may,okra
+Assam,NAGAON,june,pomegrenate
+Assam,NAGAON,november,groundnut
+Assam,NAGAON,september,apple
+Assam,NAGAON,october,mango
+Assam,NAGAON,november,potato
+Assam,NAGAON,february,tomato
+Assam,NAGAON,march,wheat 
+Assam,NAGAON,march,bajra
+Assam,NAGAON,april,rice
+Assam,NAGAON,september,okra
+Assam,NAGAON,october,pomegrenate
+Assam,NAGAON,november,groundnut
+Assam,NAGAON,december,apple
+Bihar,ARARIA,january,mango
+Bihar,ARARIA,february,potato
+Bihar,ARARIA,march,tomato
+Bihar,ARARIA,april,wheat 
+Bihar,ARARIA,may,bajra
+Bihar,ARARIA,june,rice
+Bihar,ARARIA,july,okra
+Bihar,ARARIA,august,pomegrenate
+Bihar,ARARIA,september,groundnut
+Bihar,ARARIA,october,apple
+Bihar,ARARIA,november,mango
+Bihar,ARARIA,december,potato
+Bihar,ARARIA,march,tomato
+Bihar,ARARIA,june,wheat 
+Bihar,ARARIA,july,bajra
+Bihar,ARARIA,june,rice
+Bihar,ARARIA,july,okra
+Bihar,ARARIA,september,pomegrenate
+Bihar,ARARIA,november,groundnut
+Bihar,ARARIA,december,apple
+Bihar,ARARIA,october,mango
+Bihar,ARARIA,november,potato
+Bihar,ARARIA,december,tomato
+Bihar,ARARIA,april,wheat 
+Bihar,ARARIA,may,bajra
+Bihar,ARARIA,june,rice
+Bihar,ARARIA,november,okra
+Bihar,ARARIA,september,pomegrenate
+Bihar,ARARIA,october,groundnut
+Bihar,ARARIA,november,apple
+Bihar,ARARIA,february,mango
+Bihar,ARARIA,march,potato
+Bihar,ARARIA,march,tomato
+Bihar,ARARIA,april,wheat 
+Bihar,ARARIA,october,bajra
+Bihar,ARARIA,november,rice
+Bihar,ARARIA,december,okra
+Bihar,ARARIA,october,pomegrenate
+Bihar,ARARIA,november,groundnut
+Bihar,ARARIA,december,apple
+Bihar,ARARIA,october,mango
+Bihar,ARARIA,november,potato
+Bihar,ARARIA,january,tomato
+Bihar,ARARIA,february,wheat 
+Bihar,ARARIA,march,bajra
+Bihar,ARARIA,september,rice
+Bihar,ARARIA,october,okra
+Bihar,ARARIA,september,pomegrenate
+Bihar,ARARIA,november,groundnut
+Bihar,ARARIA,february,apple
+Bihar,ARARIA,march,mango
+Bihar,ARARIA,june,potato
+Bihar,ARARIA,july,tomato
+Bihar,ARARIA,august,wheat 
+Bihar,ARARIA,september,bajra
+Bihar,ARARIA,october,rice
+Bihar,ARARIA,november,okra
+Bihar,ARARIA,december,pomegrenate
+Bihar,ARARIA,october,groundnut
+Bihar,ARARIA,september,apple
+Bihar,ARARIA,october,mango
+Bihar,ARARIA,november,potato
+Bihar,ARARIA,august,tomato
+Bihar,ARARIA,september,wheat 
+Bihar,ARARIA,october,bajra
+Bihar,ARARIA,november,rice
+Bihar,ARARIA,january,okra
+Bihar,ARARIA,october,pomegrenate
+Bihar,ARARIA,november,groundnut
+Bihar,AURANGABAD,january,apple
+Bihar,AURANGABAD,february,mango
+Bihar,AURANGABAD,march,potato
+Bihar,AURANGABAD,april,tomato
+Bihar,AURANGABAD,may,wheat 
+Bihar,AURANGABAD,june,bajra
+Bihar,AURANGABAD,july,rice
+Bihar,AURANGABAD,august,okra
+Bihar,AURANGABAD,september,pomegrenate
+Bihar,AURANGABAD,october,groundnut
+Bihar,AURANGABAD,november,apple
+Bihar,AURANGABAD,december,mango
+Bihar,AURANGABAD,march,potato
+Bihar,AURANGABAD,june,tomato
+Bihar,AURANGABAD,july,wheat 
+Bihar,AURANGABAD,june,bajra
+Bihar,AURANGABAD,july,rice
+Bihar,AURANGABAD,september,okra
+Bihar,AURANGABAD,november,pomegrenate
+Bihar,AURANGABAD,december,groundnut
+Bihar,AURANGABAD,october,apple
+Bihar,AURANGABAD,november,mango
+Bihar,AURANGABAD,december,potato
+Bihar,AURANGABAD,april,tomato
+Bihar,AURANGABAD,may,wheat 
+Bihar,AURANGABAD,june,bajra
+Bihar,AURANGABAD,november,rice
+Bihar,AURANGABAD,september,okra
+Bihar,AURANGABAD,october,pomegrenate
+Bihar,AURANGABAD,november,groundnut
+Bihar,AURANGABAD,february,apple
+Bihar,AURANGABAD,march,mango
+Bihar,AURANGABAD,march,potato
+Bihar,AURANGABAD,april,tomato
+Bihar,AURANGABAD,october,wheat 
+Bihar,AURANGABAD,november,bajra
+Bihar,AURANGABAD,december,rice
+Bihar,AURANGABAD,october,okra
+Bihar,AURANGABAD,november,pomegrenate
+Bihar,AURANGABAD,december,groundnut
+Bihar,AURANGABAD,october,apple
+Bihar,AURANGABAD,november,mango
+Bihar,AURANGABAD,january,potato
+Bihar,AURANGABAD,february,tomato
+Bihar,AURANGABAD,march,wheat 
+Bihar,AURANGABAD,september,bajra
+Bihar,AURANGABAD,october,rice
+Bihar,AURANGABAD,september,okra
+Bihar,AURANGABAD,november,pomegrenate
+Bihar,AURANGABAD,february,groundnut
+Bihar,AURANGABAD,march,apple
+Bihar,AURANGABAD,june,mango
+Bihar,AURANGABAD,july,potato
+Bihar,AURANGABAD,august,tomato
+Bihar,AURANGABAD,september,wheat 
+Bihar,AURANGABAD,october,bajra
+Bihar,AURANGABAD,november,rice
+Bihar,AURANGABAD,december,okra
+Bihar,AURANGABAD,october,pomegrenate
+Bihar,AURANGABAD,september,groundnut
+Bihar,AURANGABAD,october,apple
+Bihar,AURANGABAD,november,mango
+Bihar,AURANGABAD,august,potato
+Bihar,AURANGABAD,september,tomato
+Bihar,AURANGABAD,october,wheat 
+Bihar,AURANGABAD,november,bajra
+Bihar,AURANGABAD,january,rice
+Bihar,AURANGABAD,october,okra
+Bihar,AURANGABAD,november,pomegrenate
+Bihar,BEGUSARAI,january,groundnut
+Bihar,BEGUSARAI,february,apple
+Bihar,BEGUSARAI,march,mango
+Bihar,BEGUSARAI,april,potato
+Bihar,BEGUSARAI,may,tomato
+Bihar,BEGUSARAI,june,wheat 
+Bihar,BEGUSARAI,july,bajra
+Bihar,BEGUSARAI,august,rice
+Bihar,BEGUSARAI,september,okra
+Bihar,BEGUSARAI,october,pomegrenate
+Bihar,BEGUSARAI,november,groundnut
+Bihar,BEGUSARAI,december,apple
+Bihar,BEGUSARAI,march,mango
+Bihar,BEGUSARAI,june,potato
+Bihar,BEGUSARAI,july,tomato
+Bihar,BEGUSARAI,june,wheat 
+Bihar,BEGUSARAI,july,bajra
+Bihar,BEGUSARAI,september,rice
+Bihar,BEGUSARAI,november,okra
+Bihar,BEGUSARAI,december,pomegrenate
+Bihar,BEGUSARAI,october,groundnut
+Bihar,BEGUSARAI,november,apple
+Bihar,BEGUSARAI,december,mango
+Bihar,BEGUSARAI,april,potato
+Bihar,BEGUSARAI,may,tomato
+Bihar,BEGUSARAI,june,wheat 
+Bihar,BEGUSARAI,november,bajra
+Bihar,BEGUSARAI,september,rice
+Bihar,BEGUSARAI,october,okra
+Bihar,BEGUSARAI,november,pomegrenate
+Bihar,BEGUSARAI,february,groundnut
+Bihar,BEGUSARAI,march,apple
+Bihar,BEGUSARAI,march,mango
+Bihar,BEGUSARAI,april,potato
+Bihar,BEGUSARAI,october,tomato
+Bihar,BEGUSARAI,november,wheat 
+Bihar,BEGUSARAI,december,bajra
+Bihar,BEGUSARAI,october,rice
+Bihar,BEGUSARAI,november,okra
+Bihar,BEGUSARAI,december,pomegrenate
+Bihar,BEGUSARAI,october,groundnut
+Bihar,BEGUSARAI,november,apple
+Bihar,BEGUSARAI,january,mango
+Bihar,BEGUSARAI,february,potato
+Bihar,BEGUSARAI,march,tomato
+Bihar,BEGUSARAI,september,wheat 
+Bihar,BEGUSARAI,october,bajra
+Bihar,BEGUSARAI,september,rice
+Bihar,BEGUSARAI,november,okra
+Bihar,BEGUSARAI,february,pomegrenate
+Bihar,BEGUSARAI,march,groundnut
+Bihar,BEGUSARAI,june,apple
+Bihar,BEGUSARAI,july,mango
+Bihar,BEGUSARAI,august,potato
+Bihar,BEGUSARAI,september,tomato
+Bihar,BEGUSARAI,october,wheat 
+Bihar,BEGUSARAI,november,bajra
+Bihar,BEGUSARAI,december,rice
+Bihar,BEGUSARAI,october,okra
+Bihar,BEGUSARAI,september,pomegrenate
+Bihar,BEGUSARAI,october,groundnut
+Bihar,BEGUSARAI,november,apple
+Bihar,BEGUSARAI,august,mango
+Bihar,BEGUSARAI,september,potato
+Bihar,BEGUSARAI,october,tomato
+Bihar,BEGUSARAI,november,wheat 
+Bihar,BEGUSARAI,january,bajra
+Bihar,BEGUSARAI,october,rice
+Bihar,BEGUSARAI,november,okra
+Bihar,BHAGALPUR,january,pomegrenate
+Bihar,BHAGALPUR,february,groundnut
+Bihar,BHAGALPUR,march,apple
+Bihar,BHAGALPUR,april,mango
+Bihar,BHAGALPUR,may,potato
+Bihar,BHAGALPUR,june,tomato
+Bihar,BHAGALPUR,july,wheat 
+Bihar,BHAGALPUR,august,bajra
+Bihar,BHAGALPUR,september,rice
+Bihar,BHAGALPUR,october,okra
+Bihar,BHAGALPUR,november,pomegrenate
+Bihar,BHAGALPUR,december,groundnut
+Bihar,BHAGALPUR,march,apple
+Bihar,BHAGALPUR,june,mango
+Bihar,BHAGALPUR,july,potato
+Bihar,BHAGALPUR,june,tomato
+Bihar,BHAGALPUR,july,wheat 
+Bihar,BHAGALPUR,september,bajra
+Bihar,BHAGALPUR,november,rice
+Bihar,BHAGALPUR,december,okra
+Bihar,BHAGALPUR,october,pomegrenate
+Bihar,BHAGALPUR,november,groundnut
+Bihar,BHAGALPUR,december,apple
+Bihar,BHAGALPUR,april,mango
+Bihar,BHAGALPUR,may,potato
+Bihar,BHAGALPUR,june,tomato
+Bihar,BHAGALPUR,november,wheat 
+Bihar,BHAGALPUR,september,bajra
+Bihar,BHAGALPUR,october,rice
+Bihar,BHAGALPUR,november,okra
+Bihar,BHAGALPUR,february,pomegrenate
+Bihar,BHAGALPUR,march,groundnut
+Bihar,BHAGALPUR,march,apple
+Bihar,BHAGALPUR,april,mango
+Bihar,BHAGALPUR,october,potato
+Bihar,BHAGALPUR,november,tomato
+Bihar,BHAGALPUR,december,wheat 
+Bihar,BHAGALPUR,october,bajra
+Bihar,BHAGALPUR,november,rice
+Bihar,BHAGALPUR,december,okra
+Bihar,BHAGALPUR,october,pomegrenate
+Bihar,BHAGALPUR,november,groundnut
+Bihar,BHAGALPUR,january,apple
+Bihar,BHAGALPUR,february,mango
+Bihar,BHAGALPUR,march,potato
+Bihar,BHAGALPUR,september,tomato
+Bihar,BHAGALPUR,october,wheat 
+Bihar,BHAGALPUR,september,bajra
+Bihar,BHAGALPUR,november,rice
+Bihar,BHAGALPUR,february,okra
+Bihar,BHAGALPUR,march,pomegrenate
+Bihar,BHAGALPUR,june,groundnut
+Bihar,BHAGALPUR,july,apple
+Bihar,BHAGALPUR,august,mango
+Bihar,BHAGALPUR,september,potato
+Bihar,BHAGALPUR,october,tomato
+Bihar,BHAGALPUR,november,wheat 
+Bihar,BHAGALPUR,december,bajra
+Bihar,BHAGALPUR,october,rice
+Bihar,BHAGALPUR,september,okra
+Bihar,BHAGALPUR,october,pomegrenate
+Bihar,BHAGALPUR,november,groundnut
+Bihar,BHAGALPUR,august,apple
+Bihar,BHAGALPUR,september,mango
+Bihar,BHAGALPUR,october,potato
+Bihar,BHAGALPUR,november,tomato
+Bihar,BHAGALPUR,january,wheat 
+Bihar,BHAGALPUR,october,bajra
+Bihar,BHAGALPUR,november,rice
+Bihar,BHOJPUR,january,okra
+Bihar,BHOJPUR,february,pomegrenate
+Bihar,BHOJPUR,march,groundnut
+Bihar,BHOJPUR,april,apple
+Bihar,BHOJPUR,may,mango
+Bihar,BHOJPUR,june,potato
+Bihar,BHOJPUR,july,tomato
+Bihar,BHOJPUR,august,wheat 
+Bihar,BHOJPUR,september,bajra
+Bihar,BHOJPUR,october,rice
+Bihar,BHOJPUR,november,okra
+Bihar,BHOJPUR,december,pomegrenate
+Bihar,BHOJPUR,march,groundnut
+Bihar,BHOJPUR,june,apple
+Bihar,BHOJPUR,july,mango
+Bihar,BHOJPUR,june,potato
+Bihar,BHOJPUR,july,tomato
+Bihar,BHOJPUR,september,wheat 
+Bihar,BHOJPUR,november,bajra
+Bihar,BHOJPUR,december,rice
+Bihar,BHOJPUR,october,okra
+Bihar,BHOJPUR,november,pomegrenate
+Bihar,BHOJPUR,december,groundnut
+Bihar,BHOJPUR,april,apple
+Bihar,BHOJPUR,may,mango
+Bihar,BHOJPUR,june,potato
+Bihar,BHOJPUR,november,tomato
+Bihar,BHOJPUR,september,wheat 
+Bihar,BHOJPUR,october,bajra
+Bihar,BHOJPUR,november,rice
+Bihar,BHOJPUR,february,mango
+Bihar,BHOJPUR,march,potato
+Bihar,BHOJPUR,march,tomato
+Bihar,BHOJPUR,april,wheat 
+Bihar,BHOJPUR,october,bajra
+Bihar,BHOJPUR,november,rice
+Bihar,BHOJPUR,december,mango
+Bihar,BHOJPUR,october,potato
+Bihar,BHOJPUR,november,tomato
+Bihar,BHOJPUR,december,wheat 
+Bihar,BHOJPUR,october,bajra
+Bihar,BHOJPUR,november,rice
+Bihar,BHOJPUR,january,mango
+Bihar,BHOJPUR,february,potato
+Bihar,BHOJPUR,march,tomato
+Bihar,BHOJPUR,september,wheat 
+Bihar,BHOJPUR,october,bajra
+Bihar,BHOJPUR,september,rice
+Bihar,BHOJPUR,november,mango
+Bihar,BHOJPUR,february,potato
+Bihar,BHOJPUR,march,tomato
+Bihar,BHOJPUR,june,wheat 
+Bihar,BHOJPUR,july,bajra
+Bihar,BHOJPUR,august,rice
+Bihar,BHOJPUR,september,mango
+Bihar,BHOJPUR,october,potato
+Bihar,BHOJPUR,november,tomato
+Bihar,BHOJPUR,december,wheat 
+Bihar,BHOJPUR,october,bajra
+Bihar,BHOJPUR,september,rice
+Bihar,BHOJPUR,october,mango
+Bihar,BHOJPUR,november,potato
+Bihar,BHOJPUR,august,tomato
+Bihar,BHOJPUR,september,wheat 
+Bihar,BHOJPUR,october,bajra
+Bihar,BHOJPUR,november,rice
+Bihar,BHOJPUR,january,mango
+Bihar,BHOJPUR,october,potato
+Bihar,BHOJPUR,november,tomato
+Bihar,BUXAR,january,wheat 
+Bihar,BUXAR,february,bajra
+Bihar,BUXAR,march,rice
+Bihar,BUXAR,april,mango
+Bihar,BUXAR,may,potato
+Bihar,BUXAR,june,tomato
+Bihar,BUXAR,july,wheat 
+Bihar,BUXAR,august,bajra
+Bihar,BUXAR,september,rice
+Bihar,BUXAR,october,mango
+Bihar,BUXAR,november,potato
+Bihar,BUXAR,december,tomato
+Bihar,BUXAR,march,wheat 
+Bihar,BUXAR,june,bajra
+Bihar,BUXAR,july,rice
+Bihar,BUXAR,june,mango
+Bihar,BUXAR,july,potato
+Bihar,BUXAR,september,tomato
+Bihar,BUXAR,november,wheat 
+Bihar,BUXAR,december,bajra
+Bihar,BUXAR,october,rice
+Bihar,BUXAR,november,mango
+Bihar,BUXAR,december,potato
+Bihar,BUXAR,april,tomato
+Bihar,BUXAR,may,wheat 
+Bihar,BUXAR,june,bajra
+Bihar,BUXAR,november,rice
+Bihar,BUXAR,september,mango
+Bihar,BUXAR,october,potato
+Bihar,BUXAR,november,tomato
+Bihar,BUXAR,february,wheat 
+Bihar,BUXAR,march,bajra
+Bihar,BUXAR,march,rice
+Bihar,BUXAR,april,mango
+Bihar,BUXAR,october,potato
+Bihar,BUXAR,november,tomato
+Bihar,BUXAR,december,wheat 
+Bihar,BUXAR,october,bajra
+Bihar,BUXAR,november,rice
+Bihar,BUXAR,december,mango
+Bihar,BUXAR,october,potato
+Bihar,BUXAR,november,tomato
+Bihar,BUXAR,january,wheat 
+Bihar,BUXAR,february,bajra
+Bihar,BUXAR,march,rice
+Bihar,BUXAR,september,mango
+Bihar,BUXAR,october,potato
+Bihar,BUXAR,september,tomato
+Bihar,BUXAR,november,wheat 
+Bihar,BUXAR,february,bajra
+Bihar,BUXAR,march,rice
+Bihar,BUXAR,june,mango
+Bihar,BUXAR,july,potato
+Bihar,BUXAR,august,tomato
+Bihar,BUXAR,september,wheat 
+Bihar,BUXAR,october,bajra
+Bihar,BUXAR,november,rice
+Bihar,BUXAR,december,mango
+Bihar,BUXAR,october,potato
+Bihar,BUXAR,september,tomato
+Bihar,BUXAR,october,wheat 
+Bihar,BUXAR,november,bajra
+Bihar,BUXAR,august,rice
+Bihar,BUXAR,september,mango
+Bihar,BUXAR,october,potato
+Bihar,BUXAR,november,tomato
+Bihar,BUXAR,january,wheat 
+Bihar,BUXAR,october,bajra
+Bihar,BUXAR,november,rice
+Bihar,DARBHANGA,january,mango
+Bihar,DARBHANGA,february,potato
+Bihar,DARBHANGA,march,tomato
+Bihar,DARBHANGA,april,wheat 
+Bihar,DARBHANGA,may,bajra
+Bihar,DARBHANGA,june,rice
+Bihar,DARBHANGA,july,mango
+Bihar,DARBHANGA,august,potato
+Bihar,DARBHANGA,september,tomato
+Bihar,DARBHANGA,october,wheat 
+Bihar,DARBHANGA,november,bajra
+Bihar,DARBHANGA,december,rice
+Bihar,DARBHANGA,march,mango
+Bihar,DARBHANGA,june,potato
+Bihar,DARBHANGA,july,tomato
+Bihar,DARBHANGA,june,wheat 
+Bihar,DARBHANGA,july,bajra
+Bihar,DARBHANGA,september,rice
+Bihar,DARBHANGA,november,mango
+Bihar,DARBHANGA,december,potato
+Bihar,DARBHANGA,october,tomato
+Bihar,DARBHANGA,november,wheat 
+Bihar,DARBHANGA,december,bajra
+Bihar,DARBHANGA,april,rice
+Bihar,DARBHANGA,may,mango
+Bihar,DARBHANGA,june,potato
+Bihar,DARBHANGA,november,tomato
+Bihar,DARBHANGA,september,wheat 
+Bihar,DARBHANGA,october,bajra
+Bihar,DARBHANGA,november,rice
+Bihar,DARBHANGA,february,mango
+Bihar,DARBHANGA,march,potato
+Bihar,DARBHANGA,march,tomato
+Bihar,DARBHANGA,april,wheat 
+Bihar,DARBHANGA,october,bajra
+Bihar,DARBHANGA,november,rice
+Bihar,DARBHANGA,december,mango
+Bihar,DARBHANGA,october,potato
+Bihar,DARBHANGA,november,tomato
+Bihar,DARBHANGA,december,wheat 
+Bihar,DARBHANGA,october,bajra
+Bihar,DARBHANGA,november,rice
+Bihar,DARBHANGA,january,mango
+Bihar,DARBHANGA,february,potato
+Bihar,DARBHANGA,march,tomato
+Bihar,DARBHANGA,september,wheat 
+Bihar,DARBHANGA,october,bajra
+Bihar,DARBHANGA,september,rice
+Bihar,DARBHANGA,november,mango
+Bihar,DARBHANGA,february,potato
+Bihar,DARBHANGA,march,tomato
+Bihar,DARBHANGA,june,wheat 
+Bihar,DARBHANGA,july,bajra
+Bihar,DARBHANGA,august,rice
+Bihar,DARBHANGA,september,mango
+Bihar,DARBHANGA,october,potato
+Bihar,DARBHANGA,november,tomato
+Bihar,DARBHANGA,december,wheat 
+Bihar,DARBHANGA,october,bajra
+Bihar,DARBHANGA,september,rice
+Bihar,DARBHANGA,october,mango
+Bihar,DARBHANGA,november,potato
+Bihar,DARBHANGA,august,tomato
+Bihar,DARBHANGA,september,wheat 
+Bihar,DARBHANGA,october,bajra
+Bihar,DARBHANGA,november,rice
+Bihar,DARBHANGA,january,mango
+Bihar,DARBHANGA,october,potato
+Bihar,DARBHANGA,november,tomato
+Bihar,GAYA,january,wheat 
+Bihar,GAYA,february,bajra
+Bihar,GAYA,march,rice
+Bihar,GAYA,april,mango
+Bihar,GAYA,may,potato
+Bihar,GAYA,june,tomato
+Bihar,GAYA,july,wheat 
+Bihar,GAYA,august,bajra
+Bihar,GAYA,september,rice
+Bihar,GAYA,october,mango
+Bihar,GAYA,november,potato
+Bihar,GAYA,december,tomato
+Bihar,GAYA,march,wheat 
+Bihar,GAYA,june,bajra
+Bihar,GAYA,july,rice
+Bihar,GAYA,june,mango
+Bihar,GAYA,july,potato
+Bihar,GAYA,september,tomato
+Bihar,GAYA,november,wheat 
+Bihar,GAYA,december,bajra
+Bihar,GAYA,october,rice
+Bihar,GAYA,november,mango
+Bihar,GAYA,december,potato
+Bihar,GAYA,april,tomato
+Bihar,GAYA,may,wheat 
+Bihar,GAYA,june,bajra
+Bihar,GAYA,november,rice
+Bihar,GAYA,september,mango
+Bihar,GAYA,october,potato
+Bihar,GAYA,november,tomato
+Bihar,GAYA,february,wheat 
+Bihar,GAYA,march,bajra
+Bihar,GAYA,march,rice
+Bihar,GAYA,april,mango
+Bihar,GAYA,october,potato
+Bihar,GAYA,november,tomato
+Bihar,GAYA,december,wheat 
+Bihar,GAYA,october,bajra
+Bihar,GAYA,november,rice
+Bihar,GAYA,december,mango
+Bihar,GAYA,october,potato
+Bihar,GAYA,november,tomato
+Bihar,GAYA,january,wheat 
+Bihar,GAYA,february,bajra
+Bihar,GAYA,march,rice
+Bihar,GAYA,september,mango
+Bihar,GAYA,october,potato
+Bihar,GAYA,september,tomato
+Bihar,GAYA,november,wheat 
+Bihar,GAYA,february,bajra
+Bihar,GAYA,march,rice
+Bihar,GAYA,june,mango
+Bihar,GAYA,july,potato
+Bihar,GAYA,august,tomato
+Bihar,GAYA,september,wheat 
+Bihar,GAYA,october,bajra
+Bihar,GAYA,november,rice
+Bihar,GAYA,december,mango
+Bihar,GAYA,october,potato
+Bihar,GAYA,september,tomato
+Bihar,GAYA,october,wheat 
+Bihar,GAYA,november,bajra
+Bihar,GAYA,august,rice
+Bihar,GAYA,september,mango
+Bihar,GAYA,october,potato
+Bihar,GAYA,november,tomato
+Bihar,GAYA,january,wheat 
+Bihar,GAYA,october,bajra
+Bihar,GAYA,november,rice
+Bihar,GOPALGANJ,january,mango
+Bihar,GOPALGANJ,february,potato
+Bihar,GOPALGANJ,march,tomato
+Bihar,GOPALGANJ,april,wheat 
+Bihar,GOPALGANJ,may,bajra
+Bihar,GOPALGANJ,june,rice
+Bihar,GOPALGANJ,july,mango
+Bihar,GOPALGANJ,august,potato
+Bihar,GOPALGANJ,september,tomato
+Bihar,GOPALGANJ,october,wheat 
+Bihar,GOPALGANJ,november,bajra
+Bihar,GOPALGANJ,december,rice
+Bihar,GOPALGANJ,march,mango
+Bihar,GOPALGANJ,june,potato
+Bihar,GOPALGANJ,july,tomato
+Bihar,GOPALGANJ,june,wheat 
+Bihar,GOPALGANJ,july,bajra
+Bihar,GOPALGANJ,september,rice
+Bihar,GOPALGANJ,november,mango
+Bihar,GOPALGANJ,december,potato
+Bihar,GOPALGANJ,october,tomato
+Bihar,GOPALGANJ,november,wheat 
+Bihar,GOPALGANJ,december,bajra
+Bihar,GOPALGANJ,april,rice
+Bihar,GOPALGANJ,may,mango
+Bihar,GOPALGANJ,june,potato
+Bihar,GOPALGANJ,november,tomato
+Bihar,GOPALGANJ,september,wheat 
+Bihar,GOPALGANJ,october,bajra
+Bihar,GOPALGANJ,november,rice
+Bihar,GOPALGANJ,february,mango
+Bihar,GOPALGANJ,march,potato
+Bihar,GOPALGANJ,march,tomato
+Bihar,GOPALGANJ,april,wheat 
+Bihar,GOPALGANJ,october,bajra
+Bihar,GOPALGANJ,november,rice
+Bihar,GOPALGANJ,december,mango
+Bihar,GOPALGANJ,october,potato
+Bihar,GOPALGANJ,november,tomato
+Bihar,GOPALGANJ,december,wheat 
+Bihar,GOPALGANJ,october,bajra
+Bihar,GOPALGANJ,november,rice
+Bihar,GOPALGANJ,january,mango
+Bihar,GOPALGANJ,february,potato
+Bihar,GOPALGANJ,march,tomato
+Bihar,GOPALGANJ,september,wheat 
+Bihar,GOPALGANJ,october,bajra
+Bihar,GOPALGANJ,september,rice
+Bihar,GOPALGANJ,november,mango
+Bihar,GOPALGANJ,february,potato
+Bihar,GOPALGANJ,march,tomato
+Bihar,GOPALGANJ,june,wheat 
+Bihar,GOPALGANJ,july,bajra
+Bihar,GOPALGANJ,august,rice
+Bihar,GOPALGANJ,september,mango
+Bihar,GOPALGANJ,october,potato
+Bihar,GOPALGANJ,november,tomato
+Bihar,GOPALGANJ,december,wheat 
+Bihar,GOPALGANJ,october,bajra
+Bihar,GOPALGANJ,september,rice
+Bihar,GOPALGANJ,october,mango
+Bihar,GOPALGANJ,november,potato
+Bihar,GOPALGANJ,august,tomato
+Bihar,GOPALGANJ,september,wheat 
+Bihar,GOPALGANJ,october,bajra
+Bihar,GOPALGANJ,november,rice
+Bihar,GOPALGANJ,january,mango
+Bihar,GOPALGANJ,october,potato
+Bihar,GOPALGANJ,november,tomato
+Bihar,KISHANGANJ,january,wheat 
+Bihar,KISHANGANJ,february,bajra
+Bihar,KISHANGANJ,march,rice
+Bihar,KISHANGANJ,april,mango
+Bihar,KISHANGANJ,may,potato
+Bihar,KISHANGANJ,june,tomato
+Bihar,KISHANGANJ,july,wheat 
+Bihar,KISHANGANJ,august,bajra
+Bihar,KISHANGANJ,september,rice
+Bihar,KISHANGANJ,october,mango
+Bihar,KISHANGANJ,november,potato
+Bihar,KISHANGANJ,december,tomato
+Bihar,KISHANGANJ,march,wheat 
+Bihar,KISHANGANJ,june,bajra
+Bihar,KISHANGANJ,july,rice
+Bihar,KISHANGANJ,june,mango
+Bihar,KISHANGANJ,july,potato
+Bihar,KISHANGANJ,september,tomato
+Bihar,KISHANGANJ,november,wheat 
+Bihar,KISHANGANJ,december,bajra
+Bihar,KISHANGANJ,october,rice
+Bihar,KISHANGANJ,november,mango
+Bihar,KISHANGANJ,december,potato
+Bihar,KISHANGANJ,april,tomato
+Bihar,KISHANGANJ,may,wheat 
+Bihar,KISHANGANJ,june,bajra
+Bihar,KISHANGANJ,november,rice
+Bihar,KISHANGANJ,september,mango
+Bihar,KISHANGANJ,october,potato
+Bihar,KISHANGANJ,november,tomato
+Bihar,KISHANGANJ,february,wheat 
+Bihar,KISHANGANJ,march,bajra
+Bihar,KISHANGANJ,march,rice
+Bihar,KISHANGANJ,april,mango
+Bihar,KISHANGANJ,october,potato
+Bihar,KISHANGANJ,november,tomato
+Bihar,KISHANGANJ,december,wheat 
+Bihar,KISHANGANJ,october,bajra
+Bihar,KISHANGANJ,november,rice
+Bihar,KISHANGANJ,december,mango
+Bihar,KISHANGANJ,october,potato
+Bihar,KISHANGANJ,november,tomato
+Bihar,KISHANGANJ,january,wheat 
+Bihar,KISHANGANJ,february,bajra
+Bihar,KISHANGANJ,march,rice
+Bihar,KISHANGANJ,september,mango
+Bihar,KISHANGANJ,october,potato
+Bihar,KISHANGANJ,september,tomato
+Bihar,KISHANGANJ,november,wheat 
+Bihar,KISHANGANJ,february,bajra
+Bihar,KISHANGANJ,march,rice
+Bihar,KISHANGANJ,june,mango
+Bihar,KISHANGANJ,july,potato
+Bihar,KISHANGANJ,august,tomato
+Bihar,KISHANGANJ,september,wheat 
+Bihar,KISHANGANJ,october,bajra
+Bihar,KISHANGANJ,november,rice
+Bihar,KISHANGANJ,december,mango
+Bihar,KISHANGANJ,october,potato
+Bihar,KISHANGANJ,september,tomato
+Bihar,KISHANGANJ,october,wheat 
+Bihar,KISHANGANJ,november,bajra
+Bihar,KISHANGANJ,august,rice
+Bihar,KISHANGANJ,september,mango
+Bihar,KISHANGANJ,october,potato
+Bihar,KISHANGANJ,november,tomato
+Bihar,KISHANGANJ,january,wheat 
+Bihar,KISHANGANJ,october,bajra
+Bihar,KISHANGANJ,november,rice
+Bihar,MADHUBANI,january,mango
+Bihar,MADHUBANI,february,potato
+Bihar,MADHUBANI,march,tomato
+Bihar,MADHUBANI,april,wheat 
+Bihar,MADHUBANI,may,bajra
+Bihar,MADHUBANI,june,rice
+Bihar,MADHUBANI,july,mango
+Bihar,MADHUBANI,august,potato
+Bihar,MADHUBANI,september,tomato
+Bihar,MADHUBANI,october,wheat 
+Bihar,MADHUBANI,november,bajra
+Bihar,MADHUBANI,december,rice
+Bihar,MADHUBANI,march,mango
+Bihar,MADHUBANI,june,potato
+Bihar,MADHUBANI,july,tomato
+Bihar,MADHUBANI,june,wheat 
+Bihar,MADHUBANI,july,bajra
+Bihar,MADHUBANI,september,rice
+Bihar,MADHUBANI,november,mango
+Bihar,MADHUBANI,december,potato
+Bihar,MADHUBANI,october,tomato
+Bihar,MADHUBANI,november,wheat 
+Bihar,MADHUBANI,december,bajra
+Bihar,MADHUBANI,april,rice
+Bihar,MADHUBANI,may,mango
+Bihar,MADHUBANI,june,potato
+Bihar,MADHUBANI,november,tomato
+Bihar,MADHUBANI,september,wheat 
+Bihar,MADHUBANI,october,bajra
+Bihar,MADHUBANI,november,rice
+Bihar,MADHUBANI,february,mango
+Bihar,MADHUBANI,march,potato
+Bihar,MADHUBANI,march,tomato
+Bihar,MADHUBANI,april,wheat 
+Bihar,MADHUBANI,october,bajra
+Bihar,MADHUBANI,november,rice
+Bihar,MADHUBANI,december,mango
+Bihar,MADHUBANI,october,potato
+Bihar,MADHUBANI,november,tomato
+Bihar,MADHUBANI,december,wheat 
+Bihar,MADHUBANI,october,bajra
+Bihar,MADHUBANI,november,rice
+Bihar,MADHUBANI,january,mango
+Bihar,MADHUBANI,february,potato
+Bihar,MADHUBANI,march,tomato
+Bihar,MADHUBANI,september,wheat 
+Bihar,MADHUBANI,october,bajra
+Bihar,MADHUBANI,september,rice
+Bihar,MADHUBANI,november,mango
+Bihar,MADHUBANI,february,potato
+Bihar,MADHUBANI,march,tomato
+Bihar,MADHUBANI,june,wheat 
+Bihar,MADHUBANI,july,bajra
+Bihar,MADHUBANI,august,rice
+Bihar,MADHUBANI,september,mango
+Bihar,MADHUBANI,october,potato
+Bihar,MADHUBANI,november,tomato
+Bihar,MADHUBANI,december,wheat 
+Bihar,MADHUBANI,october,bajra
+Bihar,MADHUBANI,september,rice
+Bihar,MADHUBANI,october,mango
+Bihar,MADHUBANI,november,potato
+Bihar,MADHUBANI,august,tomato
+Bihar,MADHUBANI,september,wheat 
+Bihar,MADHUBANI,october,bajra
+Bihar,MADHUBANI,november,rice
+Bihar,MADHUBANI,january,mango
+Bihar,MADHUBANI,october,potato
+Bihar,MADHUBANI,november,tomato
+Bihar,NAWADA,january,wheat 
+Bihar,NAWADA,february,bajra
+Bihar,NAWADA,march,rice
+Bihar,NAWADA,april,mango
+Bihar,NAWADA,may,potato
+Bihar,NAWADA,june,tomato
+Bihar,NAWADA,july,wheat 
+Bihar,NAWADA,august,bajra
+Bihar,NAWADA,september,rice
+Bihar,NAWADA,october,mango
+Bihar,NAWADA,november,potato
+Bihar,NAWADA,december,tomato
+Bihar,NAWADA,march,wheat 
+Bihar,NAWADA,june,bajra
+Bihar,NAWADA,july,rice
+Bihar,NAWADA,june,mango
+Bihar,NAWADA,july,potato
+Bihar,NAWADA,september,tomato
+Bihar,NAWADA,november,wheat 
+Bihar,NAWADA,december,bajra
+Bihar,NAWADA,october,rice
+Bihar,NAWADA,november,mango
+Bihar,NAWADA,december,potato
+Bihar,NAWADA,april,tomato
+Bihar,NAWADA,may,wheat 
+Bihar,NAWADA,june,bajra
+Bihar,NAWADA,november,rice
+Bihar,NAWADA,september,mango
+Bihar,NAWADA,october,potato
+Bihar,NAWADA,november,tomato
+Bihar,NAWADA,february,wheat 
+Bihar,NAWADA,march,bajra
+Bihar,NAWADA,march,rice
+Bihar,NAWADA,april,mango
+Bihar,NAWADA,october,potato
+Bihar,NAWADA,november,tomato
+Bihar,NAWADA,december,wheat 
+Bihar,NAWADA,october,bajra
+Bihar,NAWADA,november,rice
+Bihar,NAWADA,december,mango
+Bihar,NAWADA,october,potato
+Bihar,NAWADA,november,tomato
+Bihar,NAWADA,january,wheat 
+Bihar,NAWADA,february,bajra
+Bihar,NAWADA,march,rice
+Bihar,NAWADA,september,mango
+Bihar,NAWADA,october,potato
+Bihar,NAWADA,september,tomato
+Bihar,NAWADA,november,wheat 
+Bihar,NAWADA,february,bajra
+Bihar,NAWADA,march,rice
+Bihar,NAWADA,june,mango
+Bihar,NAWADA,july,potato
+Bihar,NAWADA,august,tomato
+Bihar,NAWADA,september,wheat 
+Bihar,NAWADA,october,bajra
+Bihar,NAWADA,november,rice
+Bihar,NAWADA,december,mango
+Bihar,NAWADA,october,potato
+Bihar,NAWADA,september,tomato
+Bihar,NAWADA,october,wheat 
+Bihar,NAWADA,november,bajra
+Bihar,NAWADA,august,rice
+Bihar,NAWADA,september,mango
+Bihar,NAWADA,october,potato
+Bihar,NAWADA,november,tomato
+Bihar,NAWADA,january,wheat 
+Bihar,NAWADA,october,bajra
+Bihar,NAWADA,november,rice
+Bihar,PATNA,january,mango
+Bihar,PATNA,february,potato
+Bihar,PATNA,march,tomato
+Bihar,PATNA,april,wheat 
+Bihar,PATNA,may,bajra
+Bihar,PATNA,june,rice
+Bihar,PATNA,july,mango
+Bihar,PATNA,august,potato
+Bihar,PATNA,september,tomato
+Bihar,PATNA,october,wheat 
+Bihar,PATNA,november,bajra
+Bihar,PATNA,december,rice
+Bihar,PATNA,march,mango
+Bihar,PATNA,june,potato
+Bihar,PATNA,july,tomato
+Bihar,PATNA,june,wheat 
+Bihar,PATNA,july,bajra
+Bihar,PATNA,september,rice
+Bihar,PATNA,november,mango
+Bihar,PATNA,december,potato
+Bihar,PATNA,october,tomato
+Bihar,PATNA,november,wheat 
+Bihar,PATNA,december,bajra
+Bihar,PATNA,april,rice
+Bihar,PATNA,may,mango
+Bihar,PATNA,june,potato
+Bihar,PATNA,november,tomato
+Bihar,PATNA,september,wheat 
+Bihar,PATNA,october,bajra
+Bihar,PATNA,november,rice
+Bihar,PATNA,february,mango
+Bihar,PATNA,march,potato
+Bihar,PATNA,march,tomato
+Bihar,PATNA,april,wheat 
+Bihar,PATNA,october,bajra
+Bihar,PATNA,november,rice
+Bihar,PATNA,december,mango
+Bihar,PATNA,october,potato
+Bihar,PATNA,november,tomato
+Bihar,PATNA,december,wheat 
+Bihar,PATNA,october,bajra
+Bihar,PATNA,november,rice
+Bihar,PATNA,january,mango
+Bihar,PATNA,february,potato
+Bihar,PATNA,march,tomato
+Bihar,PATNA,september,wheat 
+Bihar,PATNA,october,bajra
+Bihar,PATNA,september,rice
+Bihar,PATNA,november,mango
+Bihar,PATNA,february,potato
+Bihar,PATNA,march,tomato
+Bihar,PATNA,june,wheat 
+Bihar,PATNA,july,bajra
+Bihar,PATNA,august,rice
+Bihar,PATNA,september,mango
+Bihar,PATNA,october,potato
+Bihar,PATNA,november,tomato
+Bihar,PATNA,december,wheat 
+Bihar,PATNA,october,bajra
+Bihar,PATNA,september,rice
+Bihar,PATNA,october,mango
+Bihar,PATNA,november,potato
+Bihar,PATNA,august,tomato
+Bihar,PATNA,september,wheat 
+Bihar,PATNA,october,bajra
+Bihar,PATNA,november,rice
+Bihar,PATNA,january,mango
+Bihar,PATNA,october,potato
+Bihar,PATNA,november,tomato
+Bihar,ROHTAS,january,wheat 
+Bihar,ROHTAS,february,bajra
+Bihar,ROHTAS,march,rice
+Bihar,ROHTAS,april,mango
+Bihar,ROHTAS,may,potato
+Bihar,ROHTAS,june,tomato
+Bihar,ROHTAS,july,wheat 
+Bihar,ROHTAS,august,bajra
+Bihar,ROHTAS,september,rice
+Bihar,ROHTAS,october,mango
+Bihar,ROHTAS,november,potato
+Bihar,ROHTAS,december,tomato
+Bihar,ROHTAS,march,wheat 
+Bihar,ROHTAS,june,bajra
+Bihar,ROHTAS,july,rice
+Bihar,ROHTAS,june,mango
+Bihar,ROHTAS,july,potato
+Bihar,ROHTAS,september,tomato
+Bihar,ROHTAS,november,wheat 
+Bihar,ROHTAS,december,bajra
+Bihar,ROHTAS,october,rice
+Bihar,ROHTAS,november,mango
+Bihar,ROHTAS,december,potato
+Bihar,ROHTAS,april,tomato
+Bihar,ROHTAS,may,wheat 
+Bihar,ROHTAS,june,bajra
+Bihar,ROHTAS,november,rice
+Bihar,ROHTAS,september,mango
+Bihar,ROHTAS,october,potato
+Bihar,ROHTAS,november,tomato
+Bihar,ROHTAS,february,wheat 
+Bihar,ROHTAS,march,bajra
+Bihar,ROHTAS,march,rice
+Bihar,ROHTAS,april,mango
+Bihar,ROHTAS,october,potato
+Bihar,ROHTAS,november,tomato
+Bihar,ROHTAS,december,wheat 
+Bihar,ROHTAS,october,bajra
+Bihar,ROHTAS,november,rice
+Bihar,ROHTAS,december,mango
+Bihar,ROHTAS,october,potato
+Bihar,ROHTAS,november,tomato
+Bihar,ROHTAS,january,wheat 
+Bihar,ROHTAS,february,bajra
+Bihar,ROHTAS,march,rice
+Bihar,ROHTAS,september,mango
+Bihar,ROHTAS,october,potato
+Bihar,ROHTAS,september,tomato
+Bihar,ROHTAS,november,wheat 
+Bihar,ROHTAS,february,bajra
+Bihar,ROHTAS,march,rice
+Bihar,ROHTAS,june,mango
+Bihar,ROHTAS,july,potato
+Bihar,ROHTAS,august,tomato
+Bihar,ROHTAS,september,wheat 
+Bihar,ROHTAS,october,bajra
+Bihar,ROHTAS,november,rice
+Bihar,ROHTAS,december,mango
+Bihar,ROHTAS,october,potato
+Bihar,ROHTAS,september,tomato
+Bihar,ROHTAS,october,wheat 
+Bihar,ROHTAS,november,bajra
+Bihar,ROHTAS,august,rice
+Bihar,ROHTAS,september,mango
+Bihar,ROHTAS,october,potato
+Bihar,ROHTAS,november,tomato
+Bihar,ROHTAS,january,wheat 
+Bihar,ROHTAS,october,bajra
+Bihar,ROHTAS,november,rice
+Bihar,SITAMARHI,january,mango
+Bihar,SITAMARHI,february,potato
+Bihar,SITAMARHI,march,tomato
+Bihar,SITAMARHI,april,wheat 
+Bihar,SITAMARHI,may,bajra
+Bihar,SITAMARHI,june,rice
+Bihar,SITAMARHI,july,mango
+Bihar,SITAMARHI,august,potato
+Bihar,SITAMARHI,september,tomato
+Bihar,SITAMARHI,october,wheat 
+Bihar,SITAMARHI,november,bajra
+Bihar,SITAMARHI,december,rice
+Bihar,SITAMARHI,march,mango
+Bihar,SITAMARHI,june,potato
+Bihar,SITAMARHI,july,tomato
+Bihar,SITAMARHI,june,wheat 
+Bihar,SITAMARHI,july,bajra
+Bihar,SITAMARHI,september,rice
+Bihar,SITAMARHI,november,mango
+Bihar,SITAMARHI,december,potato
+Bihar,SITAMARHI,october,tomato
+Bihar,SITAMARHI,november,wheat 
+Bihar,SITAMARHI,december,bajra
+Bihar,SITAMARHI,april,rice
+Bihar,SITAMARHI,may,mango
+Bihar,SITAMARHI,june,potato
+Bihar,SITAMARHI,november,tomato
+Bihar,SITAMARHI,september,wheat 
+Bihar,SITAMARHI,october,bajra
+Bihar,SITAMARHI,november,rice
+Bihar,SITAMARHI,february,mango
+Bihar,SITAMARHI,march,potato
+Bihar,SITAMARHI,march,tomato
+Bihar,SITAMARHI,april,wheat 
+Bihar,SITAMARHI,october,bajra
+Bihar,SITAMARHI,november,rice
+Bihar,SITAMARHI,december,mango
+Bihar,SITAMARHI,october,potato
+Bihar,SITAMARHI,november,tomato
+Bihar,SITAMARHI,december,wheat 
+Bihar,SITAMARHI,october,bajra
+Bihar,SITAMARHI,november,rice
+Bihar,SITAMARHI,january,mango
+Bihar,SITAMARHI,february,potato
+Bihar,SITAMARHI,march,tomato
+Bihar,SITAMARHI,september,wheat 
+Bihar,SITAMARHI,october,bajra
+Bihar,SITAMARHI,september,rice
+Bihar,SITAMARHI,november,mango
+Bihar,SITAMARHI,february,potato
+Bihar,SITAMARHI,march,tomato
+Bihar,SITAMARHI,june,wheat 
+Bihar,SITAMARHI,july,bajra
+Bihar,SITAMARHI,august,rice
+Bihar,SITAMARHI,september,mango
+Bihar,SITAMARHI,october,potato
+Bihar,SITAMARHI,november,tomato
+Bihar,SITAMARHI,december,wheat 
+Bihar,SITAMARHI,october,bajra
+Bihar,SITAMARHI,september,rice
+Bihar,SITAMARHI,october,mango
+Bihar,SITAMARHI,november,potato
+Bihar,SITAMARHI,august,tomato
+Bihar,SITAMARHI,september,wheat 
+Bihar,SITAMARHI,october,bajra
+Bihar,SITAMARHI,november,rice
+Bihar,SITAMARHI,january,mango
+Bihar,SITAMARHI,october,potato
+Bihar,SITAMARHI,november,tomato
+Haryana,AMBALA,january,wheat 
+Haryana,AMBALA,february,bajra
+Haryana,AMBALA,march,rice
+Haryana,AMBALA,april,mango
+Haryana,AMBALA,may,potato
+Haryana,AMBALA,june,tomato
+Haryana,AMBALA,july,wheat 
+Haryana,AMBALA,august,bajra
+Haryana,AMBALA,september,rice
+Haryana,AMBALA,october,mango
+Haryana,AMBALA,november,potato
+Haryana,AMBALA,december,tomato
+Haryana,AMBALA,march,wheat 
+Haryana,AMBALA,june,bajra
+Haryana,AMBALA,july,rice
+Haryana,AMBALA,june,mango
+Haryana,AMBALA,july,potato
+Haryana,AMBALA,september,tomato
+Haryana,AMBALA,november,wheat 
+Haryana,AMBALA,december,bajra
+Haryana,AMBALA,october,rice
+Haryana,AMBALA,november,mango
+Haryana,AMBALA,december,potato
+Haryana,AMBALA,april,tomato
+Haryana,AMBALA,may,wheat 
+Haryana,AMBALA,june,bajra
+Haryana,AMBALA,november,rice
+Haryana,AMBALA,september,mango
+Haryana,AMBALA,october,potato
+Haryana,AMBALA,november,tomato
+Haryana,AMBALA,october,wheat 
+Haryana,AMBALA,november,bajra
+Haryana,AMBALA,january,rice
+Haryana,AMBALA,february,mango
+Haryana,AMBALA,march,potato
+Haryana,AMBALA,september,tomato
+Haryana,AMBALA,october,wheat 
+Haryana,AMBALA,september,bajra
+Haryana,AMBALA,november,rice
+Haryana,AMBALA,february,mango
+Haryana,AMBALA,march,potato
+Haryana,AMBALA,june,tomato
+Haryana,AMBALA,july,wheat 
+Haryana,AMBALA,august,bajra
+Haryana,AMBALA,september,rice
+Haryana,AMBALA,october,tomato
+Haryana,AMBALA,november,wheat 
+Haryana,AMBALA,december,bajra
+Haryana,AMBALA,october,rice
+Haryana,AMBALA,september,mango
+Haryana,AMBALA,october,potato
+Haryana,AMBALA,november,tomato
+Haryana,AMBALA,july,wheat 
+Haryana,FARIDABAD,january,bajra
+Haryana,FARIDABAD,february,rice
+Haryana,FARIDABAD,march,mango
+Haryana,FARIDABAD,april,potato
+Haryana,FARIDABAD,may,tomato
+Haryana,FARIDABAD,june,wheat 
+Haryana,FARIDABAD,july,bajra
+Haryana,FARIDABAD,august,rice
+Haryana,FARIDABAD,september,tomato
+Haryana,FARIDABAD,october,wheat 
+Haryana,FARIDABAD,november,bajra
+Haryana,FARIDABAD,december,rice
+Haryana,FARIDABAD,march,mango
+Haryana,FARIDABAD,june,potato
+Haryana,FARIDABAD,july,tomato
+Haryana,FARIDABAD,june,wheat 
+Haryana,FARIDABAD,july,bajra
+Haryana,FARIDABAD,september,rice
+Haryana,FARIDABAD,november,mango
+Haryana,FARIDABAD,december,potato
+Haryana,FARIDABAD,october,tomato
+Haryana,FARIDABAD,november,wheat 
+Haryana,FARIDABAD,december,bajra
+Haryana,FARIDABAD,april,rice
+Haryana,FARIDABAD,may,tomato
+Haryana,FARIDABAD,june,wheat 
+Haryana,FARIDABAD,november,bajra
+Haryana,FARIDABAD,september,rice
+Haryana,FARIDABAD,october,mango
+Haryana,FARIDABAD,november,potato
+Haryana,FARIDABAD,october,tomato
+Haryana,FARIDABAD,november,wheat 
+Haryana,FARIDABAD,january,bajra
+Haryana,FARIDABAD,february,rice
+Haryana,FARIDABAD,march,mango
+Haryana,FARIDABAD,september,potato
+Haryana,FARIDABAD,october,tomato
+Haryana,FARIDABAD,september,wheat 
+Haryana,FARIDABAD,november,bajra
+Haryana,FARIDABAD,february,rice
+Haryana,FARIDABAD,march,tomato
+Haryana,FARIDABAD,june,wheat 
+Haryana,FARIDABAD,july,bajra
+Haryana,FARIDABAD,august,rice
+Haryana,FARIDABAD,september,mango
+Haryana,FARIDABAD,october,potato
+Haryana,FARIDABAD,november,tomato
+Haryana,FARIDABAD,december,wheat 
+Haryana,FARIDABAD,october,bajra
+Haryana,FARIDABAD,september,rice
+Haryana,FARIDABAD,october,mango
+Haryana,FARIDABAD,november,potato
+Haryana,FARIDABAD,july,tomato
+Haryana,GURGAON,january,wheat 
+Haryana,GURGAON,february,bajra
+Haryana,GURGAON,march,rice
+Haryana,GURGAON,april,tomato
+Haryana,GURGAON,may,wheat 
+Haryana,GURGAON,june,bajra
+Haryana,GURGAON,july,rice
+Haryana,GURGAON,august,mango
+Haryana,GURGAON,september,potato
+Haryana,GURGAON,october,tomato
+Haryana,GURGAON,november,wheat 
+Haryana,GURGAON,december,bajra
+Haryana,GURGAON,march,rice
+Haryana,GURGAON,june,mango
+Haryana,GURGAON,july,potato
+Haryana,GURGAON,june,tomato
+Haryana,GURGAON,july,wheat 
+Haryana,GURGAON,september,bajra
+Haryana,GURGAON,november,rice
+Haryana,GURGAON,december,tomato
+Haryana,GURGAON,october,wheat 
+Haryana,GURGAON,november,bajra
+Haryana,GURGAON,december,rice
+Haryana,GURGAON,april,mango
+Haryana,GURGAON,may,potato
+Haryana,GURGAON,june,tomato
+Haryana,GURGAON,november,wheat 
+Haryana,GURGAON,september,bajra
+Haryana,GURGAON,october,rice
+Haryana,GURGAON,november,mango
+Haryana,GURGAON,october,potato
+Haryana,GURGAON,november,tomato
+Haryana,GURGAON,january,wheat 
+Haryana,GURGAON,february,bajra
+Haryana,GURGAON,march,rice
+Haryana,GURGAON,september,tomato
+Haryana,GURGAON,october,wheat 
+Haryana,GURGAON,september,bajra
+Haryana,GURGAON,november,rice
+Haryana,GURGAON,february,mango
+Haryana,GURGAON,march,potato
+Haryana,GURGAON,june,tomato
+Haryana,GURGAON,july,wheat 
+Haryana,GURGAON,august,bajra
+Haryana,GURGAON,september,rice
+Haryana,GURGAON,october,mango
+Haryana,GURGAON,november,potato
+Haryana,GURGAON,december,tomato
+Haryana,GURGAON,october,wheat 
+Haryana,GURGAON,september,bajra
+Haryana,GURGAON,october,rice
+Haryana,GURGAON,november,tomato
+Haryana,GURGAON,july,wheat 
+Haryana,HISAR,january,bajra
+Haryana,HISAR,february,rice
+Haryana,HISAR,march,mango
+Haryana,HISAR,april,potato
+Haryana,HISAR,may,tomato
+Haryana,HISAR,june,wheat 
+Haryana,HISAR,july,bajra
+Haryana,HISAR,august,rice
+Haryana,HISAR,september,mango
+Haryana,HISAR,october,potato
+Haryana,HISAR,november,tomato
+Haryana,HISAR,december,wheat 
+Haryana,HISAR,march,bajra
+Haryana,HISAR,june,rice
+Haryana,HISAR,july,tomato
+Haryana,HISAR,june,wheat 
+Haryana,HISAR,july,bajra
+Haryana,HISAR,september,rice
+Haryana,HISAR,november,mango
+Haryana,HISAR,december,potato
+Haryana,HISAR,october,tomato
+Haryana,HISAR,november,wheat 
+Haryana,HISAR,december,bajra
+Haryana,HISAR,april,rice
+Haryana,HISAR,may,mango
+Haryana,HISAR,june,potato
+Haryana,HISAR,november,tomato
+Haryana,HISAR,september,wheat 
+Haryana,HISAR,october,bajra
+Haryana,HISAR,november,rice
+Haryana,HISAR,october,tomato
+Haryana,HISAR,november,wheat 
+Haryana,HISAR,january,bajra
+Haryana,HISAR,february,rice
+Haryana,HISAR,march,mango
+Haryana,HISAR,september,potato
+Haryana,HISAR,october,tomato
+Haryana,HISAR,september,wheat 
+Haryana,HISAR,november,bajra
+Haryana,HISAR,february,rice
+Haryana,HISAR,march,mango
+Haryana,HISAR,june,potato
+Haryana,HISAR,july,tomato
+Haryana,HISAR,august,wheat 
+Haryana,HISAR,september,bajra
+Haryana,HISAR,october,rice
+Haryana,HISAR,november,tomato
+Haryana,HISAR,december,wheat 
+Haryana,HISAR,october,bajra
+Haryana,HISAR,september,rice
+Haryana,HISAR,october,mango
+Haryana,HISAR,november,potato
+Haryana,HISAR,july,tomato
+Haryana,JHAJJAR,january,wheat 
+Haryana,JHAJJAR,february,bajra
+Haryana,JHAJJAR,march,rice
+Haryana,JHAJJAR,april,mango
+Haryana,JHAJJAR,may,potato
+Haryana,JHAJJAR,june,tomato
+Haryana,JHAJJAR,july,wheat 
+Haryana,JHAJJAR,august,bajra
+Haryana,JHAJJAR,september,rice
+Haryana,JHAJJAR,october,tomato
+Haryana,JHAJJAR,november,wheat 
+Haryana,JHAJJAR,december,bajra
+Haryana,JHAJJAR,march,rice
+Haryana,JHAJJAR,june,mango
+Haryana,JHAJJAR,july,potato
+Haryana,JHAJJAR,june,tomato
+Haryana,JHAJJAR,july,wheat 
+Haryana,JHAJJAR,september,bajra
+Haryana,JHAJJAR,november,rice
+Haryana,JHAJJAR,december,mango
+Haryana,JHAJJAR,october,potato
+Haryana,JHAJJAR,november,tomato
+Haryana,JHAJJAR,december,wheat 
+Haryana,JHAJJAR,april,bajra
+Haryana,JHAJJAR,may,rice
+Haryana,JHAJJAR,june,tomato
+Haryana,JHAJJAR,november,wheat 
+Haryana,JHAJJAR,september,bajra
+Haryana,JHAJJAR,october,rice
+Haryana,JHAJJAR,november,mango
+Haryana,JHAJJAR,october,potato
+Haryana,JHAJJAR,november,tomato
+Haryana,JHAJJAR,january,wheat 
+Haryana,JHAJJAR,february,bajra
+Haryana,JHAJJAR,march,rice
+Haryana,JHAJJAR,september,mango
+Haryana,JHAJJAR,october,potato
+Haryana,JHAJJAR,september,tomato
+Haryana,JHAJJAR,november,wheat 
+Haryana,JHAJJAR,february,bajra
+Haryana,JHAJJAR,march,rice
+Haryana,JHAJJAR,june,tomato
+Haryana,JHAJJAR,july,wheat 
+Haryana,JHAJJAR,august,bajra
+Haryana,JHAJJAR,september,rice
+Haryana,JHAJJAR,october,mango
+Haryana,JHAJJAR,november,potato
+Haryana,JHAJJAR,december,tomato
+Haryana,JHAJJAR,october,wheat 
+Haryana,JHAJJAR,september,bajra
+Haryana,JHAJJAR,october,rice
+Haryana,JHAJJAR,november,mango
+Haryana,JHAJJAR,july,potato
+Haryana,KARNAL,january,tomato
+Haryana,KARNAL,february,wheat 
+Haryana,KARNAL,march,bajra
+Haryana,KARNAL,april,rice
+Haryana,KARNAL,may,tomato
+Haryana,KARNAL,june,wheat 
+Haryana,KARNAL,july,bajra
+Haryana,KARNAL,august,rice
+Haryana,KARNAL,september,mango
+Haryana,KARNAL,october,potato
+Haryana,KARNAL,november,tomato
+Haryana,KARNAL,december,wheat 
+Haryana,KARNAL,march,bajra
+Haryana,KARNAL,june,rice
+Haryana,KARNAL,july,mango
+Haryana,KARNAL,june,potato
+Haryana,KARNAL,july,tomato
+Haryana,KARNAL,september,wheat 
+Haryana,KARNAL,november,bajra
+Haryana,KARNAL,december,rice
+Haryana,KARNAL,october,tomato
+Haryana,KARNAL,november,wheat 
+Haryana,KARNAL,december,bajra
+Haryana,KARNAL,april,rice
+Haryana,KARNAL,may,mango
+Haryana,KARNAL,june,potato
+Haryana,KARNAL,november,tomato
+Haryana,KARNAL,september,wheat 
+Haryana,KARNAL,october,bajra
+Haryana,KARNAL,november,rice
+Haryana,KARNAL,october,mango
+Haryana,KARNAL,november,potato
+Haryana,KARNAL,january,tomato
+Haryana,KARNAL,february,wheat 
+Haryana,KARNAL,march,bajra
+Haryana,KARNAL,september,rice
+Haryana,KARNAL,october,tomato
+Haryana,KARNAL,september,wheat 
+Haryana,KARNAL,november,bajra
+Haryana,KARNAL,february,rice
+Haryana,KARNAL,march,mango
+Haryana,KARNAL,june,potato
+Haryana,KARNAL,july,tomato
+Haryana,KARNAL,august,wheat 
+Haryana,KARNAL,september,bajra
+Haryana,KARNAL,october,rice
+Haryana,KARNAL,november,mango
+Haryana,KARNAL,december,potato
+Haryana,KARNAL,october,tomato
+Haryana,KARNAL,september,wheat 
+Haryana,KARNAL,october,bajra
+Haryana,KARNAL,november,rice
+Haryana,KARNAL,july,tomato
+Haryana,KURUKSHETRA,january,wheat 
+Haryana,KURUKSHETRA,february,bajra
+Haryana,KURUKSHETRA,march,rice
+Haryana,KURUKSHETRA,april,mango
+Haryana,KURUKSHETRA,may,potato
+Haryana,KURUKSHETRA,june,tomato
+Haryana,KURUKSHETRA,july,wheat 
+Haryana,KURUKSHETRA,august,bajra
+Haryana,KURUKSHETRA,september,rice
+Haryana,KURUKSHETRA,october,mango
+Haryana,KURUKSHETRA,november,potato
+Haryana,KURUKSHETRA,december,tomato
+Haryana,KURUKSHETRA,march,wheat 
+Haryana,KURUKSHETRA,june,bajra
+Haryana,KURUKSHETRA,july,rice
+Haryana,KURUKSHETRA,june,tomato
+Haryana,KURUKSHETRA,july,wheat 
+Haryana,KURUKSHETRA,september,bajra
+Haryana,KURUKSHETRA,november,rice
+Haryana,KURUKSHETRA,december,mango
+Haryana,KURUKSHETRA,october,potato
+Haryana,KURUKSHETRA,november,tomato
+Haryana,KURUKSHETRA,december,wheat 
+Haryana,KURUKSHETRA,april,bajra
+Haryana,KURUKSHETRA,may,rice
+Haryana,KURUKSHETRA,june,mango
+Haryana,KURUKSHETRA,november,potato
+Haryana,KURUKSHETRA,september,tomato
+Haryana,KURUKSHETRA,october,wheat 
+Haryana,KURUKSHETRA,november,bajra
+Haryana,KURUKSHETRA,october,rice
+Haryana,KURUKSHETRA,november,tomato
+Haryana,KURUKSHETRA,january,wheat 
+Haryana,KURUKSHETRA,february,bajra
+Haryana,KURUKSHETRA,march,rice
+Haryana,KURUKSHETRA,september,mango
+Haryana,KURUKSHETRA,october,potato
+Haryana,KURUKSHETRA,september,tomato
+Haryana,KURUKSHETRA,november,wheat 
+Haryana,KURUKSHETRA,february,bajra
+Haryana,KURUKSHETRA,march,rice
+Haryana,KURUKSHETRA,june,mango
+Haryana,KURUKSHETRA,july,potato
+Haryana,KURUKSHETRA,august,tomato
+Haryana,KURUKSHETRA,september,wheat 
+Haryana,KURUKSHETRA,october,bajra
+Haryana,KURUKSHETRA,november,rice
+Haryana,KURUKSHETRA,december,tomato
+Haryana,KURUKSHETRA,october,wheat 
+Haryana,KURUKSHETRA,september,bajra
+Haryana,KURUKSHETRA,october,rice
+Haryana,KURUKSHETRA,november,mango
+Haryana,KURUKSHETRA,july,potato
+Haryana,MEWAT,january,tomato
+Haryana,MEWAT,february,wheat 
+Haryana,MEWAT,march,bajra
+Haryana,MEWAT,april,rice
+Haryana,MEWAT,may,mango
+Haryana,MEWAT,june,potato
+Haryana,MEWAT,july,tomato
+Haryana,MEWAT,august,wheat 
+Haryana,MEWAT,september,bajra
+Haryana,MEWAT,october,rice
+Haryana,MEWAT,november,tomato
+Haryana,MEWAT,december,wheat 
+Haryana,MEWAT,march,bajra
+Haryana,MEWAT,june,rice
+Haryana,MEWAT,july,mango
+Haryana,MEWAT,june,potato
+Haryana,MEWAT,july,tomato
+Haryana,MEWAT,september,wheat 
+Haryana,MEWAT,november,bajra
+Haryana,MEWAT,december,rice
+Haryana,MEWAT,october,mango
+Haryana,MEWAT,november,potato
+Haryana,MEWAT,december,tomato
+Haryana,MEWAT,april,wheat 
+Haryana,MEWAT,may,bajra
+Haryana,MEWAT,june,rice
+Haryana,MEWAT,november,tomato
+Haryana,MEWAT,september,wheat 
+Haryana,MEWAT,october,bajra
+Haryana,MEWAT,november,rice
+Haryana,MEWAT,october,mango
+Haryana,MEWAT,november,potato
+Haryana,MEWAT,january,tomato
+Haryana,MEWAT,february,wheat 
+Haryana,MEWAT,march,bajra
+Haryana,MEWAT,september,rice
+Haryana,MEWAT,october,mango
+Haryana,MEWAT,september,potato
+Haryana,MEWAT,november,tomato
+Haryana,MEWAT,february,wheat 
+Haryana,MEWAT,march,bajra
+Haryana,MEWAT,june,rice
+Haryana,MEWAT,july,tomato
+Haryana,MEWAT,august,wheat 
+Haryana,MEWAT,september,bajra
+Haryana,MEWAT,october,rice
+Haryana,MEWAT,november,mango
+Haryana,MEWAT,december,potato
+Haryana,MEWAT,october,tomato
+Haryana,MEWAT,september,wheat 
+Haryana,MEWAT,october,bajra
+Haryana,MEWAT,november,rice
+Haryana,MEWAT,july,mango
+Haryana,PANIPAT,january,potato
+Haryana,PANIPAT,february,tomato
+Haryana,PANIPAT,march,wheat 
+Haryana,PANIPAT,april,bajra
+Haryana,PANIPAT,may,rice
+Haryana,PANIPAT,june,tomato
+Haryana,PANIPAT,july,wheat 
+Haryana,PANIPAT,august,bajra
+Haryana,PANIPAT,september,rice
+Haryana,PANIPAT,october,mango
+Haryana,PANIPAT,november,potato
+Haryana,PANIPAT,december,tomato
+Haryana,PANIPAT,march,wheat 
+Haryana,PANIPAT,june,bajra
+Haryana,PANIPAT,july,rice
+Haryana,PANIPAT,june,mango
+Haryana,PANIPAT,july,potato
+Haryana,PANIPAT,september,tomato
+Haryana,PANIPAT,november,wheat 
+Haryana,PANIPAT,december,bajra
+Haryana,PANIPAT,october,rice
+Haryana,PANIPAT,november,tomato
+Haryana,PANIPAT,december,wheat 
+Haryana,PANIPAT,april,bajra
+Haryana,PANIPAT,may,rice
+Haryana,PANIPAT,june,mango
+Haryana,PANIPAT,november,potato
+Haryana,PANIPAT,september,tomato
+Haryana,PANIPAT,october,wheat 
+Haryana,PANIPAT,november,bajra
+Haryana,PANIPAT,october,rice
+Haryana,PANIPAT,november,mango
+Haryana,PANIPAT,january,potato
+Haryana,PANIPAT,february,tomato
+Haryana,PANIPAT,march,wheat 
+Haryana,PANIPAT,september,bajra
+Haryana,PANIPAT,october,rice
+Haryana,PANIPAT,september,tomato
+Haryana,PANIPAT,november,wheat 
+Haryana,PANIPAT,february,bajra
+Haryana,PANIPAT,march,rice
+Haryana,PANIPAT,june,mango
+Haryana,PANIPAT,july,potato
+Haryana,PANIPAT,august,tomato
+Haryana,PANIPAT,september,wheat 
+Haryana,PANIPAT,october,bajra
+Haryana,PANIPAT,november,rice
+Haryana,PANIPAT,december,mango
+Haryana,PANIPAT,october,potato
+Haryana,PANIPAT,september,tomato
+Haryana,PANIPAT,october,wheat 
+Haryana,PANIPAT,november,bajra
+Haryana,PANIPAT,july,rice
+Haryana,ROHTAK,january,tomato
+Haryana,ROHTAK,february,wheat 
+Haryana,ROHTAK,march,bajra
+Haryana,ROHTAK,april,rice
+Haryana,ROHTAK,may,mango
+Haryana,ROHTAK,june,potato
+Haryana,ROHTAK,july,tomato
+Haryana,ROHTAK,august,wheat 
+Haryana,ROHTAK,september,bajra
+Haryana,ROHTAK,october,rice
+Haryana,ROHTAK,november,mango
+Haryana,ROHTAK,december,potato
+Haryana,ROHTAK,march,tomato
+Haryana,ROHTAK,june,wheat 
+Haryana,ROHTAK,july,bajra
+Haryana,ROHTAK,june,rice
+Haryana,ROHTAK,july,tomato
+Haryana,ROHTAK,september,wheat 
+Haryana,ROHTAK,november,bajra
+Haryana,ROHTAK,december,rice
+Haryana,ROHTAK,october,mango
+Haryana,ROHTAK,november,potato
+Haryana,ROHTAK,december,tomato
+Haryana,ROHTAK,april,wheat 
+Haryana,ROHTAK,may,bajra
+Haryana,ROHTAK,june,rice
+Haryana,ROHTAK,november,mango
+Haryana,ROHTAK,september,potato
+Haryana,ROHTAK,october,tomato
+Haryana,ROHTAK,november,wheat 
+Haryana,ROHTAK,october,bajra
+Haryana,ROHTAK,november,rice
+Haryana,ROHTAK,january,tomato
+Haryana,ROHTAK,february,wheat 
+Haryana,ROHTAK,march,bajra
+Haryana,ROHTAK,september,rice
+Haryana,ROHTAK,october,mango
+Haryana,ROHTAK,september,potato
+Haryana,ROHTAK,november,tomato
+Haryana,ROHTAK,february,wheat 
+Haryana,ROHTAK,march,bajra
+Haryana,ROHTAK,june,rice
+Haryana,ROHTAK,july,mango
+Haryana,ROHTAK,august,potato
+Haryana,ROHTAK,september,tomato
+Haryana,ROHTAK,october,wheat 
+Haryana,ROHTAK,november,bajra
+Haryana,ROHTAK,december,rice
+Haryana,ROHTAK,october,tomato
+Haryana,ROHTAK,september,wheat 
+Haryana,ROHTAK,october,bajra
+Haryana,ROHTAK,november,rice
+Haryana,ROHTAK,july,mango
+Jharkhand,BOKARO,november,potato
+Jharkhand,BOKARO,december,tomato
+Jharkhand,BOKARO,october,wheat 
+Jharkhand,BOKARO,november,bajra
+Jharkhand,BOKARO,december,rice
+Jharkhand,BOKARO,october,mango
+Jharkhand,BOKARO,november,potato
+Jharkhand,BOKARO,january,tomato
+Jharkhand,BOKARO,february,wheat 
+Jharkhand,BOKARO,march,bajra
+Jharkhand,BOKARO,june,rice
+Jharkhand,BOKARO,july,tomato
+Jharkhand,BOKARO,august,wheat 
+Jharkhand,BOKARO,september,bajra
+Jharkhand,BOKARO,october,rice
+Jharkhand,BOKARO,november,mango
+Jharkhand,BOKARO,december,potato
+Jharkhand,BOKARO,march,tomato
+Jharkhand,BOKARO,june,wheat 
+Jharkhand,BOKARO,july,bajra
+Jharkhand,BOKARO,september,rice
+Jharkhand,BOKARO,november,mango
+Jharkhand,BOKARO,february,potato
+Jharkhand,BOKARO,march,tomato
+Jharkhand,BOKARO,june,wheat 
+Jharkhand,BOKARO,july,bajra
+Jharkhand,BOKARO,august,rice
+Jharkhand,BOKARO,september,tomato
+Jharkhand,BOKARO,october,wheat 
+Jharkhand,BOKARO,november,bajra
+Jharkhand,BOKARO,december,rice
+Jharkhand,BOKARO,october,mango
+Jharkhand,BOKARO,november,potato
+Jharkhand,BOKARO,december,tomato
+Jharkhand,BOKARO,october,wheat 
+Jharkhand,BOKARO,november,bajra
+Jharkhand,BOKARO,december,rice
+Jharkhand,DHANBAD,november,mango
+Jharkhand,DHANBAD,december,potato
+Jharkhand,DHANBAD,october,tomato
+Jharkhand,DHANBAD,november,wheat 
+Jharkhand,DHANBAD,december,bajra
+Jharkhand,DHANBAD,october,rice
+Jharkhand,DHANBAD,november,tomato
+Jharkhand,DHANBAD,january,wheat 
+Jharkhand,DHANBAD,february,bajra
+Jharkhand,DHANBAD,march,rice
+Jharkhand,DHANBAD,june,mango
+Jharkhand,DHANBAD,july,potato
+Jharkhand,DHANBAD,august,tomato
+Jharkhand,DHANBAD,september,wheat 
+Jharkhand,DHANBAD,october,bajra
+Jharkhand,DHANBAD,november,rice
+Jharkhand,DHANBAD,december,mango
+Jharkhand,DHANBAD,march,potato
+Jharkhand,DHANBAD,june,tomato
+Jharkhand,DHANBAD,july,wheat 
+Jharkhand,DHANBAD,september,bajra
+Jharkhand,DHANBAD,november,rice
+Jharkhand,DHANBAD,february,tomato
+Jharkhand,DHANBAD,march,wheat 
+Jharkhand,DHANBAD,june,bajra
+Jharkhand,DHANBAD,july,rice
+Jharkhand,DHANBAD,august,mango
+Jharkhand,DHANBAD,september,potato
+Jharkhand,DHANBAD,october,tomato
+Jharkhand,DHANBAD,november,wheat 
+Jharkhand,DHANBAD,december,bajra
+Jharkhand,DHANBAD,october,rice
+Jharkhand,DHANBAD,november,mango
+Jharkhand,DHANBAD,december,potato
+Jharkhand,DHANBAD,october,tomato
+Jharkhand,DHANBAD,november,wheat 
+Jharkhand,DHANBAD,december,bajra
+Jharkhand,DHANBAD,january,rice
+Jharkhand,RANCHI,november,tomato
+Jharkhand,RANCHI,december,wheat 
+Jharkhand,RANCHI,october,bajra
+Jharkhand,RANCHI,november,rice
+Jharkhand,RANCHI,december,mango
+Jharkhand,RANCHI,october,potato
+Jharkhand,RANCHI,november,tomato
+Jharkhand,RANCHI,january,wheat 
+Jharkhand,RANCHI,february,bajra
+Jharkhand,RANCHI,march,rice
+Jharkhand,RANCHI,june,mango
+Jharkhand,RANCHI,july,potato
+Jharkhand,RANCHI,august,tomato
+Jharkhand,RANCHI,september,wheat 
+Jharkhand,RANCHI,october,bajra
+Jharkhand,RANCHI,november,rice
+Jharkhand,RANCHI,december,tomato
+Jharkhand,RANCHI,march,wheat 
+Jharkhand,RANCHI,june,bajra
+Jharkhand,RANCHI,july,rice
+Jharkhand,RANCHI,september,mango
+Jharkhand,RANCHI,november,potato
+Jharkhand,RANCHI,february,tomato
+Jharkhand,RANCHI,march,wheat 
+Jharkhand,RANCHI,june,bajra
+Jharkhand,RANCHI,july,rice
+Jharkhand,RANCHI,august,mango
+Jharkhand,RANCHI,september,potato
+Jharkhand,RANCHI,october,tomato
+Jharkhand,RANCHI,november,wheat 
+Jharkhand,RANCHI,december,bajra
+Jharkhand,RANCHI,october,rice
+Jharkhand,RANCHI,november,tomato
+Jharkhand,RANCHI,december,wheat 
+Jharkhand,RANCHI,october,bajra
+Jharkhand,RANCHI,november,rice
+Jharkhand,RANCHI,december,mango
+Jharkhand,RANCHI,january,potato
+Karnataka,BAGALKOT,january,tomato
+Karnataka,BAGALKOT,february,wheat 
+Karnataka,BAGALKOT,march,bajra
+Karnataka,BAGALKOT,april,rice
+Karnataka,BAGALKOT,may,mango
+Karnataka,BAGALKOT,june,potato
+Karnataka,BAGALKOT,july,tomato
+Karnataka,BAGALKOT,august,wheat 
+Karnataka,BAGALKOT,september,bajra
+Karnataka,BAGALKOT,october,rice
+Karnataka,BAGALKOT,november,tomato
+Karnataka,BAGALKOT,december,wheat 
+Karnataka,BAGALKOT,january,bajra
+Karnataka,BAGALKOT,february,rice
+Karnataka,BAGALKOT,march,mango
+Karnataka,BAGALKOT,april,potato
+Karnataka,BAGALKOT,may,tomato
+Karnataka,BAGALKOT,june,wheat 
+Karnataka,BAGALKOT,july,bajra
+Karnataka,BAGALKOT,august,rice
+Karnataka,BAGALKOT,september,mango
+Karnataka,BAGALKOT,october,potato
+Karnataka,BAGALKOT,november,tomato
+Karnataka,BAGALKOT,december,wheat 
+Karnataka,BAGALKOT,february,bajra
+Karnataka,BAGALKOT,march,rice
+Karnataka,BAGALKOT,march,tomato
+Karnataka,BAGALKOT,may,wheat 
+Karnataka,BAGALKOT,june,bajra
+Karnataka,BAGALKOT,june,rice
+Karnataka,BAGALKOT,july,mango
+Karnataka,BAGALKOT,november,potato
+Karnataka,BAGALKOT,october,tomato
+Karnataka,BAGALKOT,november,wheat 
+Karnataka,BAGALKOT,may,bajra
+Karnataka,BAGALKOT,june,rice
+Karnataka,BAGALKOT,july ,mango
+Karnataka,BAGALKOT,august,potato
+Karnataka,BAGALKOT,june ,tomato
+Karnataka,BAGALKOT,july,wheat 
+Karnataka,BAGALKOT,august,bajra
+Karnataka,BAGALKOT,october,rice
+Karnataka,BAGALKOT,november,tomato
+Karnataka,BAGALKOT,september,wheat 
+Karnataka,BELGAUM,january,bajra
+Karnataka,BELGAUM,february,rice
+Karnataka,BELGAUM,march,mango
+Karnataka,BELGAUM,april,potato
+Karnataka,BELGAUM,may,tomato
+Karnataka,BELGAUM,june,wheat 
+Karnataka,BELGAUM,july,bajra
+Karnataka,BELGAUM,august,rice
+Karnataka,BELGAUM,september,mango
+Karnataka,BELGAUM,october,potato
+Karnataka,BELGAUM,november,tomato
+Karnataka,BELGAUM,december,wheat 
+Karnataka,BELGAUM,january,bajra
+Karnataka,BELGAUM,february,rice
+Karnataka,BELGAUM,march,tomato
+Karnataka,BELGAUM,april,wheat 
+Karnataka,BELGAUM,may,bajra
+Karnataka,BELGAUM,june,rice
+Karnataka,BELGAUM,july,mango
+Karnataka,BELGAUM,august,potato
+Karnataka,BELGAUM,september,tomato
+Karnataka,BELGAUM,october,wheat 
+Karnataka,BELGAUM,november,bajra
+Karnataka,BELGAUM,december,rice
+Karnataka,BELGAUM,february,mango
+Karnataka,BELGAUM,march,potato
+Karnataka,BELGAUM,march,tomato
+Karnataka,BELGAUM,may,wheat 
+Karnataka,BELGAUM,june,bajra
+Karnataka,BELGAUM,june,rice
+Karnataka,BELGAUM,july,tomato
+Karnataka,BELGAUM,november,wheat 
+Karnataka,BELGAUM,october,bajra
+Karnataka,BELGAUM,november,rice
+Karnataka,BELGAUM,may,mango
+Karnataka,BELGAUM,june,potato
+Karnataka,BELGAUM,july ,tomato
+Karnataka,BELGAUM,august,wheat 
+Karnataka,BELGAUM,june ,bajra
+Karnataka,BELGAUM,july,rice
+Karnataka,BELGAUM,august,mango
+Karnataka,BELGAUM,october,potato
+Karnataka,BELGAUM,november,tomato
+Karnataka,BELGAUM,september,wheat 
+Karnataka,DAVANGERE,january,bajra
+Karnataka,DAVANGERE,february,rice
+Karnataka,DAVANGERE,march,tomato
+Karnataka,DAVANGERE,april,wheat 
+Karnataka,DAVANGERE,may,bajra
+Karnataka,DAVANGERE,june,rice
+Karnataka,DAVANGERE,july,mango
+Karnataka,DAVANGERE,august,potato
+Karnataka,DAVANGERE,september,tomato
+Karnataka,DAVANGERE,october,wheat 
+Karnataka,DAVANGERE,november,bajra
+Karnataka,DAVANGERE,december,rice
+Karnataka,DAVANGERE,january,mango
+Karnataka,DAVANGERE,february,potato
+Karnataka,DAVANGERE,march,tomato
+Karnataka,DAVANGERE,april,wheat 
+Karnataka,DAVANGERE,may,bajra
+Karnataka,DAVANGERE,june,rice
+Karnataka,DAVANGERE,july,tomato
+Karnataka,DAVANGERE,august,wheat 
+Karnataka,DAVANGERE,september,bajra
+Karnataka,DAVANGERE,october,rice
+Karnataka,DAVANGERE,november,mango
+Karnataka,DAVANGERE,december,potato
+Karnataka,DAVANGERE,february,tomato
+Karnataka,DAVANGERE,march,wheat 
+Karnataka,DAVANGERE,march,bajra
+Karnataka,DAVANGERE,may,rice
+Karnataka,DAVANGERE,june,mango
+Karnataka,DAVANGERE,june,potato
+Karnataka,DAVANGERE,july,tomato
+Karnataka,DAVANGERE,november,wheat 
+Karnataka,DAVANGERE,october,bajra
+Karnataka,DAVANGERE,november,rice
+Karnataka,DAVANGERE,may,tomato
+Karnataka,DAVANGERE,june,wheat 
+Karnataka,DAVANGERE,july ,bajra
+Karnataka,DAVANGERE,august,rice
+Karnataka,DAVANGERE,june ,mango
+Karnataka,DAVANGERE,july,potato
+Karnataka,DAVANGERE,august,tomato
+Karnataka,DAVANGERE,october,wheat 
+Karnataka,DAVANGERE,november,bajra
+Karnataka,DAVANGERE,september,rice
+Karnataka,MYSORE,january,mango
+Karnataka,MYSORE,february,potato
+Karnataka,MYSORE,march,tomato
+Karnataka,MYSORE,april,wheat 
+Karnataka,MYSORE,may,bajra
+Karnataka,MYSORE,june,rice
+Karnataka,MYSORE,july,tomato
+Karnataka,MYSORE,august,wheat 
+Karnataka,MYSORE,september,bajra
+Karnataka,MYSORE,october,rice
+Karnataka,MYSORE,november,mango
+Karnataka,MYSORE,december,potato
+Karnataka,MYSORE,january,tomato
+Karnataka,MYSORE,february,wheat 
+Karnataka,MYSORE,march,bajra
+Karnataka,MYSORE,april,rice
+Karnataka,MYSORE,may,mango
+Karnataka,MYSORE,june,potato
+Karnataka,MYSORE,july,tomato
+Karnataka,MYSORE,august,wheat 
+Karnataka,MYSORE,september,bajra
+Karnataka,MYSORE,october,rice
+Karnataka,MYSORE,november,tomato
+Karnataka,MYSORE,december,wheat 
+Karnataka,MYSORE,february,bajra
+Karnataka,MYSORE,march,rice
+Karnataka,MYSORE,march,mango
+Karnataka,MYSORE,may,potato
+Karnataka,MYSORE,june,tomato
+Karnataka,MYSORE,june,wheat 
+Karnataka,MYSORE,july,bajra
+Karnataka,MYSORE,november,rice
+Karnataka,MYSORE,october,mango
+Karnataka,MYSORE,november,potato
+Karnataka,MYSORE,may,tomato
+Karnataka,MYSORE,june,wheat 
+Karnataka,MYSORE,july ,bajra
+Karnataka,MYSORE,august,rice
+Karnataka,MYSORE,june ,tomato
+Karnataka,MYSORE,july,wheat 
+Karnataka,MYSORE,august,bajra
+Karnataka,MYSORE,october,rice
+Karnataka,MYSORE,november,mango
+Karnataka,MYSORE,september,potato
+Kerala,ALAPPUZHA,january,tomato
+Kerala,ALAPPUZHA,february,wheat 
+Kerala,ALAPPUZHA,march,bajra
+Kerala,ALAPPUZHA,april,rice
+Kerala,ALAPPUZHA,may,mango
+Kerala,ALAPPUZHA,june,potato
+Kerala,ALAPPUZHA,july,tomato
+Kerala,ALAPPUZHA,august,wheat 
+Kerala,ALAPPUZHA,september,bajra
+Kerala,ALAPPUZHA,october,rice
+Kerala,ALAPPUZHA,november,tomato
+Kerala,ALAPPUZHA,december,wheat 
+Kerala,ALAPPUZHA,january,bajra
+Kerala,ALAPPUZHA,february,rice
+Kerala,ALAPPUZHA,march,mango
+Kerala,ALAPPUZHA,april,potato
+Kerala,ALAPPUZHA,may,tomato
+Kerala,ALAPPUZHA,june,wheat 
+Kerala,ALAPPUZHA,july,bajra
+Kerala,ALAPPUZHA,august,rice
+Kerala,ALAPPUZHA,september,mango
+Kerala,ALAPPUZHA,october,potato
+Kerala,ALAPPUZHA,november,tomato
+Kerala,ALAPPUZHA,december,wheat 
+Kerala,ALAPPUZHA,february,bajra
+Kerala,ALAPPUZHA,march,rice
+Kerala,ALAPPUZHA,march,tomato
+Kerala,ALAPPUZHA,may,wheat 
+Kerala,ALAPPUZHA,june,bajra
+Kerala,ALAPPUZHA,june,rice
+Kerala,ALAPPUZHA,july,mango
+Kerala,ALAPPUZHA,november,potato
+Kerala,ALAPPUZHA,october,tomato
+Kerala,ALAPPUZHA,november,wheat 
+Kerala,ALAPPUZHA,may,bajra
+Kerala,ALAPPUZHA,june,rice
+Kerala,ALAPPUZHA,july ,mango
+Kerala,ALAPPUZHA,august,potato
+Kerala,ALAPPUZHA,june ,tomato
+Kerala,ALAPPUZHA,july,wheat 
+Kerala,ALAPPUZHA,august,bajra
+Kerala,ALAPPUZHA,october,rice
+Kerala,ALAPPUZHA,november,tomato
+Kerala,ALAPPUZHA,september,wheat 
+Kerala,ALAPPUZHA,january,bajra
+Kerala,ALAPPUZHA,february,rice
+Kerala,ALAPPUZHA,march,mango
+Kerala,ALAPPUZHA,december,potato
+Kerala,ALAPPUZHA,january,tomato
+Kerala,ERNAKULAM,january,wheat 
+Kerala,ERNAKULAM,february,bajra
+Kerala,ERNAKULAM,march,rice
+Kerala,ERNAKULAM,april,mango
+Kerala,ERNAKULAM,may,potato
+Kerala,ERNAKULAM,june,tomato
+Kerala,ERNAKULAM,july,wheat 
+Kerala,ERNAKULAM,august,bajra
+Kerala,ERNAKULAM,september,rice
+Kerala,ERNAKULAM,october,tomato
+Kerala,ERNAKULAM,november,wheat 
+Kerala,ERNAKULAM,december,bajra
+Kerala,ERNAKULAM,january,rice
+Kerala,ERNAKULAM,february,mango
+Kerala,ERNAKULAM,march,potato
+Kerala,ERNAKULAM,april,tomato
+Kerala,ERNAKULAM,may,wheat 
+Kerala,ERNAKULAM,june,bajra
+Kerala,ERNAKULAM,july,rice
+Kerala,ERNAKULAM,august,mango
+Kerala,ERNAKULAM,september,potato
+Kerala,ERNAKULAM,october,tomato
+Kerala,ERNAKULAM,november,wheat 
+Kerala,ERNAKULAM,december,bajra
+Kerala,ERNAKULAM,february,rice
+Kerala,ERNAKULAM,march,tomato
+Kerala,ERNAKULAM,march,wheat 
+Kerala,ERNAKULAM,may,bajra
+Kerala,ERNAKULAM,june,rice
+Kerala,ERNAKULAM,june,mango
+Kerala,ERNAKULAM,july,potato
+Kerala,ERNAKULAM,november,tomato
+Kerala,ERNAKULAM,october,wheat 
+Kerala,ERNAKULAM,november,bajra
+Kerala,ERNAKULAM,may,rice
+Kerala,ERNAKULAM,june,mango
+Kerala,ERNAKULAM,july ,potato
+Kerala,ERNAKULAM,august,tomato
+Kerala,ERNAKULAM,june ,wheat 
+Kerala,ERNAKULAM,july,bajra
+Kerala,ERNAKULAM,august,rice
+Kerala,ERNAKULAM,october,tomato
+Kerala,ERNAKULAM,november,wheat 
+Kerala,ERNAKULAM,september,bajra
+Kerala,ERNAKULAM,january,rice
+Kerala,ERNAKULAM,february,mango
+Kerala,ERNAKULAM,march,potato
+Kerala,ERNAKULAM,december,tomato
+Kerala,ERNAKULAM,january,wheat 
+Kerala,KANNUR,january,bajra
+Kerala,KANNUR,february,rice
+Kerala,KANNUR,march,mango
+Kerala,KANNUR,april,potato
+Kerala,KANNUR,may,tomato
+Kerala,KANNUR,june,wheat 
+Kerala,KANNUR,july,bajra
+Kerala,KANNUR,august,rice
+Kerala,KANNUR,september,tomato
+Kerala,KANNUR,october,wheat 
+Kerala,KANNUR,november,bajra
+Kerala,KANNUR,december,rice
+Kerala,KANNUR,january,mango
+Kerala,KANNUR,february,potato
+Kerala,KANNUR,march,tomato
+Kerala,KANNUR,april,wheat 
+Kerala,KANNUR,may,bajra
+Kerala,KANNUR,june,rice
+Kerala,KANNUR,july,mango
+Kerala,KANNUR,august,potato
+Kerala,KANNUR,september,tomato
+Kerala,KANNUR,october,wheat 
+Kerala,KANNUR,november,bajra
+Kerala,KANNUR,december,rice
+Kerala,KANNUR,february,tomato
+Kerala,KANNUR,march,wheat 
+Kerala,KANNUR,march,bajra
+Kerala,KANNUR,may,rice
+Kerala,KANNUR,june,mango
+Kerala,KANNUR,june,potato
+Kerala,KANNUR,july,tomato
+Kerala,KANNUR,november,wheat 
+Kerala,KANNUR,october,bajra
+Kerala,KANNUR,november,rice
+Kerala,KANNUR,may,mango
+Kerala,KANNUR,june,potato
+Kerala,KANNUR,july ,tomato
+Kerala,KANNUR,august,wheat 
+Kerala,KANNUR,june ,bajra
+Kerala,KANNUR,july,rice
+Kerala,KANNUR,august,tomato
+Kerala,KANNUR,october,wheat 
+Kerala,KANNUR,november,bajra
+Kerala,KANNUR,september,rice
+Kerala,KANNUR,january,mango
+Kerala,KANNUR,february,potato
+Kerala,KANNUR,march,tomato
+Kerala,KANNUR,december,wheat 
+Kerala,KANNUR,january,bajra
+Kerala,KOLLAM,january,rice
+Kerala,KOLLAM,february,mango
+Kerala,KOLLAM,march,potato
+Kerala,KOLLAM,april,tomato
+Kerala,KOLLAM,may,wheat 
+Kerala,KOLLAM,june,bajra
+Kerala,KOLLAM,july,rice
+Kerala,KOLLAM,august,tomato
+Kerala,KOLLAM,september,wheat 
+Kerala,KOLLAM,october,bajra
+Kerala,KOLLAM,november,rice
+Kerala,KOLLAM,december,mango
+Kerala,KOLLAM,january,potato
+Kerala,KOLLAM,february,tomato
+Kerala,KOLLAM,march,wheat 
+Kerala,KOLLAM,april,bajra
+Kerala,KOLLAM,may,rice
+Kerala,KOLLAM,june,mango
+Kerala,KOLLAM,july,potato
+Kerala,KOLLAM,august,tomato
+Kerala,KOLLAM,september,wheat 
+Kerala,KOLLAM,october,bajra
+Kerala,KOLLAM,november,rice
+Kerala,KOLLAM,december,tomato
+Kerala,KOLLAM,february,wheat 
+Kerala,KOLLAM,march,bajra
+Kerala,KOLLAM,march,rice
+Kerala,KOLLAM,may,mango
+Kerala,KOLLAM,june,potato
+Kerala,KOLLAM,june,tomato
+Kerala,KOLLAM,july,wheat 
+Kerala,KOLLAM,november,bajra
+Kerala,KOLLAM,october,rice
+Kerala,KOLLAM,november,mango
+Kerala,KOLLAM,may,potato
+Kerala,KOLLAM,june,tomato
+Kerala,KOLLAM,july ,wheat 
+Kerala,KOLLAM,august,bajra
+Kerala,KOLLAM,june ,rice
+Kerala,KOLLAM,july,tomato
+Kerala,KOLLAM,august,wheat 
+Kerala,KOLLAM,october,bajra
+Kerala,KOLLAM,november,rice
+Kerala,KOLLAM,september,mango
+Kerala,KOLLAM,january,potato
+Kerala,KOLLAM,february,tomato
+Kerala,KOLLAM,march,wheat 
+Kerala,KOLLAM,december,bajra
+Kerala,KOLLAM,january,rice
+Kerala,THIRUVANANTHAPURAM,,mango
+Kerala,THIRUVANANTHAPURAM,,potato
+Kerala,THIRUVANANTHAPURAM,,tomato
+Kerala,THIRUVANANTHAPURAM,,wheat 
+Kerala,THIRUVANANTHAPURAM,,bajra
+Kerala,THIRUVANANTHAPURAM,,rice
+Kerala,THIRUVANANTHAPURAM,,tomato
+Kerala,THIRUVANANTHAPURAM,,wheat 
+Kerala,THIRUVANANTHAPURAM,,bajra
+Kerala,THIRUVANANTHAPURAM,,rice
+Kerala,THIRUVANANTHAPURAM,,mango
+Kerala,THIRUVANANTHAPURAM,,potato
+Kerala,THIRUVANANTHAPURAM,,tomato
+Kerala,THIRUVANANTHAPURAM,,wheat 
+Kerala,THIRUVANANTHAPURAM,,bajra
+Kerala,THIRUVANANTHAPURAM,,rice
+Kerala,THIRUVANANTHAPURAM,,mango
+Kerala,THIRUVANANTHAPURAM,,potato
+Kerala,THIRUVANANTHAPURAM,,tomato
+Kerala,THIRUVANANTHAPURAM,,wheat 
+Kerala,THIRUVANANTHAPURAM,,bajra
+Kerala,THIRUVANANTHAPURAM,,rice
+Kerala,THIRUVANANTHAPURAM,,tomato
+Kerala,THIRUVANANTHAPURAM,,wheat 
+Kerala,THIRUVANANTHAPURAM,,bajra
+Kerala,THIRUVANANTHAPURAM,,rice
+Kerala,THIRUVANANTHAPURAM,,mango
+Kerala,THIRUVANANTHAPURAM,,potato
+Kerala,THIRUVANANTHAPURAM,,tomato
+Kerala,THIRUVANANTHAPURAM,,wheat 
+Kerala,THIRUVANANTHAPURAM,,bajra
+Kerala,THIRUVANANTHAPURAM,,rice
+Kerala,THIRUVANANTHAPURAM,,mango
+Kerala,THIRUVANANTHAPURAM,,potato
+Kerala,THIRUVANANTHAPURAM,,tomato
+Kerala,THIRUVANANTHAPURAM,,wheat 
+Kerala,THIRUVANANTHAPURAM,,bajra
+Kerala,THIRUVANANTHAPURAM,,rice
+Kerala,THIRUVANANTHAPURAM,,tomato
+Kerala,THIRUVANANTHAPURAM,,wheat 
+Kerala,THIRUVANANTHAPURAM,,bajra
+Kerala,THIRUVANANTHAPURAM,,rice
+Kerala,THIRUVANANTHAPURAM,,mango
+Kerala,THIRUVANANTHAPURAM,,potato
+Kerala,THIRUVANANTHAPURAM,,tomato
+Kerala,THIRUVANANTHAPURAM,,wheat 
+Kerala,THIRUVANANTHAPURAM,,bajra
+Kerala,THIRUVANANTHAPURAM,,rice
+Kerala,THIRUVANANTHAPURAM,,mango
+Madhya Pradesh,AGAR MALWA,january,potato
+Madhya Pradesh,AGAR MALWA,february,tomato
+Madhya Pradesh,AGAR MALWA,march,wheat 
+Madhya Pradesh,AGAR MALWA,april,bajra
+Madhya Pradesh,AGAR MALWA,may,rice
+Madhya Pradesh,AGAR MALWA,june,tomato
+Madhya Pradesh,AGAR MALWA,july,wheat 
+Madhya Pradesh,AGAR MALWA,august,bajra
+Madhya Pradesh,AGAR MALWA,september,rice
+Madhya Pradesh,AGAR MALWA,october,mango
+Madhya Pradesh,AGAR MALWA,november,potato
+Madhya Pradesh,AGAR MALWA,december,tomato
+Madhya Pradesh,AGAR MALWA,march,wheat 
+Madhya Pradesh,AGAR MALWA,june,bajra
+Madhya Pradesh,AGAR MALWA,july,rice
+Madhya Pradesh,AGAR MALWA,june,mango
+Madhya Pradesh,AGAR MALWA,july,potato
+Madhya Pradesh,AGAR MALWA,september,tomato
+Madhya Pradesh,AGAR MALWA,november,wheat 
+Madhya Pradesh,AGAR MALWA,december,bajra
+Madhya Pradesh,AGAR MALWA,october,rice
+Madhya Pradesh,AGAR MALWA,november,tomato
+Madhya Pradesh,AGAR MALWA,december,wheat 
+Madhya Pradesh,AGAR MALWA,april,bajra
+Madhya Pradesh,AGAR MALWA,may,rice
+Madhya Pradesh,AGAR MALWA,june,mango
+Madhya Pradesh,AGAR MALWA,november,potato
+Madhya Pradesh,AGAR MALWA,september,tomato
+Madhya Pradesh,AGAR MALWA,october,wheat 
+Madhya Pradesh,AGAR MALWA,november,bajra
+Madhya Pradesh,AGAR MALWA,february,rice
+Madhya Pradesh,AGAR MALWA,march,mango
+Madhya Pradesh,AGAR MALWA,march,potato
+Madhya Pradesh,AGAR MALWA,april,tomato
+Madhya Pradesh,AGAR MALWA,october,wheat 
+Madhya Pradesh,AGAR MALWA,november,bajra
+Madhya Pradesh,AGAR MALWA,december,rice
+Madhya Pradesh,AGAR MALWA,october,tomato
+Madhya Pradesh,AGAR MALWA,november,wheat 
+Madhya Pradesh,AGAR MALWA,december,bajra
+Madhya Pradesh,AGAR MALWA,october,rice
+Madhya Pradesh,AGAR MALWA,november,mango
+Madhya Pradesh,AGAR MALWA,january,potato
+Madhya Pradesh,AGAR MALWA,february,tomato
+Madhya Pradesh,AGAR MALWA,march,wheat 
+Madhya Pradesh,AGAR MALWA,september,bajra
+Madhya Pradesh,AGAR MALWA,october,rice
+Madhya Pradesh,AGAR MALWA,september,mango
+Madhya Pradesh,AGAR MALWA,november,potato
+Madhya Pradesh,AGAR MALWA,february,tomato
+Madhya Pradesh,AGAR MALWA,march,wheat 
+Madhya Pradesh,AGAR MALWA,june,bajra
+Madhya Pradesh,AGAR MALWA,july,rice
+Madhya Pradesh,AGAR MALWA,august,tomato
+Madhya Pradesh,AGAR MALWA,september,wheat 
+Madhya Pradesh,AGAR MALWA,october,bajra
+Madhya Pradesh,AGAR MALWA,november,rice
+Madhya Pradesh,AGAR MALWA,december,mango
+Madhya Pradesh,AGAR MALWA,october,potato
+Madhya Pradesh,AGAR MALWA,september,tomato
+Madhya Pradesh,AGAR MALWA,october,wheat 
+Madhya Pradesh,AGAR MALWA,november,bajra
+Madhya Pradesh,AGAR MALWA,august,rice
+Madhya Pradesh,AGAR MALWA,september,mango
+Madhya Pradesh,AGAR MALWA,october,potato
+Madhya Pradesh,AGAR MALWA,november,tomato
+Madhya Pradesh,AGAR MALWA,january,wheat 
+Madhya Pradesh,AGAR MALWA,october,bajra
+Madhya Pradesh,AGAR MALWA,november,rice
+Madhya Pradesh,ASHOKNAGAR,january,tomato
+Madhya Pradesh,ASHOKNAGAR,february,wheat 
+Madhya Pradesh,ASHOKNAGAR,march,bajra
+Madhya Pradesh,ASHOKNAGAR,april,rice
+Madhya Pradesh,ASHOKNAGAR,may,mango
+Madhya Pradesh,ASHOKNAGAR,june,potato
+Madhya Pradesh,ASHOKNAGAR,july,tomato
+Madhya Pradesh,ASHOKNAGAR,august,wheat 
+Madhya Pradesh,ASHOKNAGAR,september,bajra
+Madhya Pradesh,ASHOKNAGAR,october,rice
+Madhya Pradesh,ASHOKNAGAR,november,mango
+Madhya Pradesh,ASHOKNAGAR,december,potato
+Madhya Pradesh,ASHOKNAGAR,march,tomato
+Madhya Pradesh,ASHOKNAGAR,june,wheat 
+Madhya Pradesh,ASHOKNAGAR,july,bajra
+Madhya Pradesh,ASHOKNAGAR,june,rice
+Madhya Pradesh,ASHOKNAGAR,july,tomato
+Madhya Pradesh,ASHOKNAGAR,september,wheat 
+Madhya Pradesh,ASHOKNAGAR,november,bajra
+Madhya Pradesh,ASHOKNAGAR,december,rice
+Madhya Pradesh,ASHOKNAGAR,october,mango
+Madhya Pradesh,ASHOKNAGAR,november,potato
+Madhya Pradesh,ASHOKNAGAR,december,tomato
+Madhya Pradesh,ASHOKNAGAR,april,wheat 
+Madhya Pradesh,ASHOKNAGAR,may,bajra
+Madhya Pradesh,ASHOKNAGAR,june,rice
+Madhya Pradesh,ASHOKNAGAR,november,mango
+Madhya Pradesh,ASHOKNAGAR,september,potato
+Madhya Pradesh,ASHOKNAGAR,october,tomato
+Madhya Pradesh,ASHOKNAGAR,november,wheat 
+Madhya Pradesh,ASHOKNAGAR,february,bajra
+Madhya Pradesh,ASHOKNAGAR,march,rice
+Madhya Pradesh,ASHOKNAGAR,march,tomato
+Madhya Pradesh,ASHOKNAGAR,april,wheat 
+Madhya Pradesh,ASHOKNAGAR,october,bajra
+Madhya Pradesh,ASHOKNAGAR,november,rice
+Madhya Pradesh,ASHOKNAGAR,december,mango
+Madhya Pradesh,ASHOKNAGAR,october,potato
+Madhya Pradesh,ASHOKNAGAR,november,tomato
+Madhya Pradesh,ASHOKNAGAR,december,wheat 
+Madhya Pradesh,ASHOKNAGAR,october,bajra
+Madhya Pradesh,ASHOKNAGAR,november,rice
+Madhya Pradesh,ASHOKNAGAR,january,mango
+Madhya Pradesh,ASHOKNAGAR,february,potato
+Madhya Pradesh,ASHOKNAGAR,march,tomato
+Madhya Pradesh,ASHOKNAGAR,september,wheat 
+Madhya Pradesh,ASHOKNAGAR,october,bajra
+Madhya Pradesh,ASHOKNAGAR,september,rice
+Madhya Pradesh,ASHOKNAGAR,november,tomato
+Madhya Pradesh,ASHOKNAGAR,february,wheat 
+Madhya Pradesh,ASHOKNAGAR,march,bajra
+Madhya Pradesh,ASHOKNAGAR,june,rice
+Madhya Pradesh,ASHOKNAGAR,july,mango
+Madhya Pradesh,ASHOKNAGAR,august,potato
+Madhya Pradesh,ASHOKNAGAR,september,tomato
+Madhya Pradesh,ASHOKNAGAR,october,wheat 
+Madhya Pradesh,ASHOKNAGAR,november,bajra
+Madhya Pradesh,ASHOKNAGAR,december,rice
+Madhya Pradesh,ASHOKNAGAR,october,mango
+Madhya Pradesh,ASHOKNAGAR,september,potato
+Madhya Pradesh,ASHOKNAGAR,october,tomato
+Madhya Pradesh,ASHOKNAGAR,november,wheat 
+Madhya Pradesh,ASHOKNAGAR,august,bajra
+Madhya Pradesh,ASHOKNAGAR,september,rice
+Madhya Pradesh,ASHOKNAGAR,october,tomato
+Madhya Pradesh,ASHOKNAGAR,november,wheat 
+Madhya Pradesh,ASHOKNAGAR,january,bajra
+Madhya Pradesh,ASHOKNAGAR,october,rice
+Madhya Pradesh,ASHOKNAGAR,november,mango
+Madhya Pradesh,INDORE,january,potato
+Madhya Pradesh,INDORE,february,tomato
+Madhya Pradesh,INDORE,march,wheat 
+Madhya Pradesh,INDORE,april,bajra
+Madhya Pradesh,INDORE,may,rice
+Madhya Pradesh,INDORE,june,mango
+Madhya Pradesh,INDORE,july,potato
+Madhya Pradesh,INDORE,august,tomato
+Madhya Pradesh,INDORE,september,wheat 
+Madhya Pradesh,INDORE,october,bajra
+Madhya Pradesh,INDORE,november,rice
+Madhya Pradesh,INDORE,december,tomato
+Madhya Pradesh,INDORE,march,wheat 
+Madhya Pradesh,INDORE,june,bajra
+Madhya Pradesh,INDORE,july,rice
+Madhya Pradesh,INDORE,june,mango
+Madhya Pradesh,INDORE,july,potato
+Madhya Pradesh,INDORE,september,tomato
+Madhya Pradesh,INDORE,november,wheat 
+Madhya Pradesh,INDORE,december,bajra
+Madhya Pradesh,INDORE,october,rice
+Madhya Pradesh,INDORE,november,mango
+Madhya Pradesh,INDORE,december,potato
+Madhya Pradesh,INDORE,april,tomato
+Madhya Pradesh,INDORE,may,wheat 
+Madhya Pradesh,INDORE,june,bajra
+Madhya Pradesh,INDORE,november,rice
+Madhya Pradesh,INDORE,september,tomato
+Madhya Pradesh,INDORE,october,wheat 
+Madhya Pradesh,INDORE,november,bajra
+Madhya Pradesh,INDORE,february,rice
+Madhya Pradesh,INDORE,march,mango
+Madhya Pradesh,INDORE,march,potato
+Madhya Pradesh,INDORE,april,tomato
+Madhya Pradesh,INDORE,october,wheat 
+Madhya Pradesh,INDORE,november,bajra
+Madhya Pradesh,INDORE,december,rice
+Madhya Pradesh,INDORE,october,mango
+Madhya Pradesh,INDORE,november,potato
+Madhya Pradesh,INDORE,december,tomato
+Madhya Pradesh,INDORE,october,wheat 
+Madhya Pradesh,INDORE,november,bajra
+Madhya Pradesh,INDORE,january,rice
+Madhya Pradesh,INDORE,february,tomato
+Madhya Pradesh,INDORE,march,wheat 
+Madhya Pradesh,INDORE,september,bajra
+Madhya Pradesh,INDORE,october,rice
+Madhya Pradesh,INDORE,september,mango
+Madhya Pradesh,INDORE,november,potato
+Madhya Pradesh,INDORE,february,tomato
+Madhya Pradesh,INDORE,march,wheat 
+Madhya Pradesh,INDORE,june,bajra
+Madhya Pradesh,INDORE,july,rice
+Madhya Pradesh,INDORE,august,mango
+Madhya Pradesh,INDORE,september,potato
+Madhya Pradesh,INDORE,october,tomato
+Madhya Pradesh,INDORE,november,wheat 
+Madhya Pradesh,INDORE,december,bajra
+Madhya Pradesh,INDORE,october,rice
+Madhya Pradesh,INDORE,september,tomato
+Madhya Pradesh,INDORE,october,wheat 
+Madhya Pradesh,INDORE,november,bajra
+Madhya Pradesh,INDORE,august,rice
+Madhya Pradesh,INDORE,september,mango
+Madhya Pradesh,INDORE,october,potato
+Madhya Pradesh,INDORE,november,tomato
+Madhya Pradesh,INDORE,january,wheat 
+Madhya Pradesh,INDORE,october,bajra
+Madhya Pradesh,INDORE,november,rice
+Punjab,AMRITSAR,january,mango
+Punjab,AMRITSAR,february,potato
+Punjab,AMRITSAR,march,tomato
+Punjab,AMRITSAR,april,wheat 
+Punjab,AMRITSAR,may,bajra
+Punjab,AMRITSAR,june,rice
+Punjab,AMRITSAR,july,tomato
+Punjab,AMRITSAR,august,wheat 
+Punjab,AMRITSAR,september,bajra
+Punjab,AMRITSAR,october,rice
+Punjab,AMRITSAR,november,mango
+Punjab,AMRITSAR,december,potato
+Punjab,AMRITSAR,march,tomato
+Punjab,AMRITSAR,june,wheat 
+Punjab,AMRITSAR,july,bajra
+Punjab,AMRITSAR,june,rice
+Punjab,AMRITSAR,july,mango
+Punjab,AMRITSAR,september,potato
+Punjab,AMRITSAR,november,tomato
+Punjab,AMRITSAR,december,wheat 
+Punjab,AMRITSAR,october,bajra
+Punjab,AMRITSAR,november,rice
+Punjab,AMRITSAR,december,tomato
+Punjab,AMRITSAR,april,wheat 
+Punjab,AMRITSAR,may,bajra
+Punjab,AMRITSAR,june,rice
+Punjab,AMRITSAR,november,mango
+Punjab,AMRITSAR,september,potato
+Punjab,AMRITSAR,october,tomato
+Punjab,AMRITSAR,november,wheat 
+Punjab,AMRITSAR,october,bajra
+Punjab,AMRITSAR,november,rice
+Punjab,AMRITSAR,january,mango
+Punjab,AMRITSAR,february,potato
+Punjab,AMRITSAR,march,tomato
+Punjab,AMRITSAR,september,wheat 
+Punjab,AMRITSAR,october,bajra
+Punjab,AMRITSAR,september,rice
+Punjab,AMRITSAR,november,tomato
+Punjab,AMRITSAR,february,wheat 
+Punjab,AMRITSAR,march,bajra
+Punjab,AMRITSAR,june,rice
+Punjab,AMRITSAR,july,mango
+Punjab,AMRITSAR,august,potato
+Punjab,AMRITSAR,september,tomato
+Punjab,AMRITSAR,october,wheat 
+Punjab,AMRITSAR,november,bajra
+Punjab,AMRITSAR,december,rice
+Punjab,AMRITSAR,october,mango
+Punjab,AMRITSAR,september,potato
+Punjab,AMRITSAR,october,tomato
+Punjab,AMRITSAR,november,wheat 
+Punjab,AMRITSAR,july,bajra
+Punjab,BATHINDA,january,rice
+Punjab,BATHINDA,february,tomato
+Punjab,BATHINDA,march,wheat 
+Punjab,BATHINDA,april,bajra
+Punjab,BATHINDA,may,rice
+Punjab,BATHINDA,june,mango
+Punjab,BATHINDA,july,potato
+Punjab,BATHINDA,august,tomato
+Punjab,BATHINDA,september,wheat 
+Punjab,BATHINDA,october,bajra
+Punjab,BATHINDA,november,rice
+Punjab,BATHINDA,december,mango
+Punjab,BATHINDA,march,potato
+Punjab,BATHINDA,june,tomato
+Punjab,BATHINDA,july,wheat 
+Punjab,BATHINDA,june,bajra
+Punjab,BATHINDA,july,rice
+Punjab,BATHINDA,september,tomato
+Punjab,BATHINDA,november,wheat 
+Punjab,BATHINDA,december,bajra
+Punjab,BATHINDA,october,rice
+Punjab,BATHINDA,november,mango
+Punjab,BATHINDA,december,potato
+Punjab,BATHINDA,april,tomato
+Punjab,BATHINDA,may,wheat 
+Punjab,BATHINDA,june,bajra
+Punjab,BATHINDA,november,rice
+Punjab,BATHINDA,september,mango
+Punjab,BATHINDA,october,potato
+Punjab,BATHINDA,november,tomato
+Punjab,BATHINDA,october,wheat 
+Punjab,BATHINDA,november,bajra
+Punjab,BATHINDA,january,rice
+Punjab,BATHINDA,february,tomato
+Punjab,BATHINDA,march,wheat 
+Punjab,BATHINDA,september,bajra
+Punjab,BATHINDA,october,rice
+Punjab,BATHINDA,september,mango
+Punjab,BATHINDA,november,potato
+Punjab,BATHINDA,february,tomato
+Punjab,BATHINDA,march,wheat 
+Punjab,BATHINDA,june,bajra
+Punjab,BATHINDA,july,rice
+Punjab,BATHINDA,august,mango
+Punjab,BATHINDA,september,potato
+Punjab,BATHINDA,october,tomato
+Punjab,BATHINDA,november,wheat 
+Punjab,BATHINDA,december,bajra
+Punjab,BATHINDA,october,rice
+Punjab,BATHINDA,september,tomato
+Punjab,BATHINDA,october,wheat 
+Punjab,BATHINDA,november,bajra
+Punjab,BATHINDA,july,rice
+Punjab,FIROZEPUR,january,mango
+Punjab,FIROZEPUR,february,potato
+Punjab,FIROZEPUR,march,tomato
+Punjab,FIROZEPUR,april,wheat 
+Punjab,FIROZEPUR,may,bajra
+Punjab,FIROZEPUR,june,rice
+Punjab,FIROZEPUR,july,mango
+Punjab,FIROZEPUR,august,potato
+Punjab,FIROZEPUR,september,tomato
+Punjab,FIROZEPUR,october,wheat 
+Punjab,FIROZEPUR,november,bajra
+Punjab,FIROZEPUR,december,rice
+Punjab,FIROZEPUR,march,tomato
+Punjab,FIROZEPUR,june,wheat 
+Punjab,FIROZEPUR,july,bajra
+Punjab,FIROZEPUR,june,rice
+Punjab,FIROZEPUR,july,mango
+Punjab,FIROZEPUR,september,potato
+Punjab,FIROZEPUR,november,tomato
+Punjab,FIROZEPUR,december,wheat 
+Punjab,FIROZEPUR,october,bajra
+Punjab,FIROZEPUR,november,rice
+Punjab,FIROZEPUR,december,mango
+Punjab,FIROZEPUR,april,potato
+Punjab,FIROZEPUR,may,tomato
+Punjab,FIROZEPUR,june,wheat 
+Punjab,FIROZEPUR,november,bajra
+Punjab,FIROZEPUR,september,rice
+Punjab,FIROZEPUR,october,tomato
+Punjab,FIROZEPUR,november,wheat 
+Punjab,FIROZEPUR,october,bajra
+Punjab,FIROZEPUR,november,rice
+Punjab,FIROZEPUR,january,mango
+Punjab,FIROZEPUR,february,potato
+Punjab,FIROZEPUR,march,tomato
+Punjab,FIROZEPUR,september,wheat 
+Punjab,FIROZEPUR,october,bajra
+Punjab,FIROZEPUR,september,rice
+Punjab,FIROZEPUR,november,mango
+Punjab,FIROZEPUR,february,potato
+Punjab,FIROZEPUR,march,tomato
+Punjab,FIROZEPUR,june,wheat 
+Punjab,FIROZEPUR,july,bajra
+Punjab,FIROZEPUR,august,rice
+Punjab,FIROZEPUR,september,tomato
+Punjab,FIROZEPUR,october,wheat 
+Punjab,FIROZEPUR,november,bajra
+Punjab,FIROZEPUR,december,rice
+Punjab,FIROZEPUR,october,mango
+Punjab,FIROZEPUR,september,potato
+Punjab,FIROZEPUR,october,tomato
+Punjab,FIROZEPUR,november,wheat 
+Punjab,FIROZEPUR,july,bajra
+Punjab,JALANDHAR,january,rice
+Punjab,JALANDHAR,february,mango
+Punjab,JALANDHAR,march,potato
+Punjab,JALANDHAR,april,tomato
+Punjab,JALANDHAR,may,wheat 
+Punjab,JALANDHAR,june,bajra
+Punjab,JALANDHAR,july,rice
+Punjab,JALANDHAR,august,tomato
+Punjab,JALANDHAR,september,wheat 
+Punjab,JALANDHAR,october,bajra
+Punjab,JALANDHAR,november,rice
+Punjab,JALANDHAR,december,mango
+Punjab,JALANDHAR,march,potato
+Punjab,JALANDHAR,june,tomato
+Punjab,JALANDHAR,july,wheat 
+Punjab,JALANDHAR,june,bajra
+Punjab,JALANDHAR,july,rice
+Punjab,JALANDHAR,september,mango
+Punjab,JALANDHAR,november,potato
+Punjab,JALANDHAR,december,tomato
+Punjab,JALANDHAR,october,wheat 
+Punjab,JALANDHAR,november,bajra
+Punjab,JALANDHAR,december,rice
+Punjab,JALANDHAR,april,tomato
+Punjab,JALANDHAR,may,wheat 
+Punjab,JALANDHAR,june,bajra
+Punjab,JALANDHAR,november,rice
+Punjab,JALANDHAR,september,mango
+Punjab,JALANDHAR,october,potato
+Punjab,JALANDHAR,november,tomato
+Punjab,JALANDHAR,october,wheat 
+Punjab,JALANDHAR,november,bajra
+Punjab,JALANDHAR,january,rice
+Punjab,JALANDHAR,february,mango
+Punjab,JALANDHAR,march,potato
+Punjab,JALANDHAR,september,tomato
+Punjab,JALANDHAR,october,wheat 
+Punjab,JALANDHAR,september,bajra
+Punjab,JALANDHAR,november,rice
+Punjab,JALANDHAR,february,tomato
+Punjab,JALANDHAR,march,wheat 
+Punjab,JALANDHAR,june,bajra
+Punjab,JALANDHAR,july,rice
+Punjab,JALANDHAR,august,mango
+Punjab,JALANDHAR,september,potato
+Punjab,JALANDHAR,october,tomato
+Punjab,JALANDHAR,november,wheat 
+Punjab,JALANDHAR,december,bajra
+Punjab,JALANDHAR,october,rice
+Punjab,JALANDHAR,september,mango
+Punjab,JALANDHAR,october,potato
+Punjab,JALANDHAR,november,tomato
+Punjab,JALANDHAR,july,wheat 
+Punjab,LUDHIANA,january,bajra
+Punjab,LUDHIANA,february,rice
+Punjab,LUDHIANA,march,tomato
+Punjab,LUDHIANA,april,wheat 
+Punjab,LUDHIANA,may,bajra
+Punjab,LUDHIANA,june,rice
+Punjab,LUDHIANA,july,mango
+Punjab,LUDHIANA,august,potato
+Punjab,LUDHIANA,september,tomato
+Punjab,LUDHIANA,october,wheat 
+Punjab,LUDHIANA,november,bajra
+Punjab,LUDHIANA,december,rice
+Punjab,LUDHIANA,march,mango
+Punjab,LUDHIANA,june,potato
+Punjab,LUDHIANA,july,tomato
+Punjab,LUDHIANA,june,wheat 
+Punjab,LUDHIANA,july,bajra
+Punjab,LUDHIANA,september,rice
+Punjab,LUDHIANA,november,tomato
+Punjab,LUDHIANA,december,wheat 
+Punjab,LUDHIANA,october,bajra
+Punjab,LUDHIANA,november,rice
+Punjab,LUDHIANA,december,mango
+Punjab,LUDHIANA,april,potato
+Punjab,LUDHIANA,may,tomato
+Punjab,LUDHIANA,june,wheat 
+Punjab,LUDHIANA,november,bajra
+Punjab,LUDHIANA,september,rice
+Punjab,LUDHIANA,october,mango
+Punjab,LUDHIANA,november,potato
+Punjab,LUDHIANA,october,tomato
+Punjab,LUDHIANA,november,wheat 
+Punjab,LUDHIANA,january,bajra
+Punjab,LUDHIANA,february,rice
+Punjab,LUDHIANA,march,tomato
+Punjab,LUDHIANA,september,wheat 
+Punjab,LUDHIANA,october,bajra
+Punjab,LUDHIANA,september,rice
+Punjab,LUDHIANA,november,mango
+Punjab,LUDHIANA,february,potato
+Punjab,LUDHIANA,march,tomato
+Punjab,LUDHIANA,june,wheat 
+Punjab,LUDHIANA,july,bajra
+Punjab,LUDHIANA,august,rice
+Punjab,LUDHIANA,september,mango
+Punjab,LUDHIANA,october,potato
+Punjab,LUDHIANA,november,tomato
+Punjab,LUDHIANA,december,wheat 
+Punjab,LUDHIANA,october,bajra
+Punjab,LUDHIANA,september,rice
+Punjab,LUDHIANA,october,tomato
+Punjab,LUDHIANA,november,wheat 
+Punjab,LUDHIANA,july,bajra
+Uttar Pradesh,AGRA,january,rice
+Uttar Pradesh,AGRA,february,mango
+Uttar Pradesh,AGRA,march,potato
+Uttar Pradesh,AGRA,april,tomato
+Uttar Pradesh,AGRA,may,wheat 
+Uttar Pradesh,AGRA,june,bajra
+Uttar Pradesh,AGRA,july,rice
+Uttar Pradesh,AGRA,august,mango
+Uttar Pradesh,AGRA,september,potato
+Uttar Pradesh,AGRA,october,tomato
+Uttar Pradesh,AGRA,november,wheat 
+Uttar Pradesh,AGRA,december,bajra
+Uttar Pradesh,AGRA,march,rice
+Uttar Pradesh,AGRA,june,tomato
+Uttar Pradesh,AGRA,july,wheat 
+Uttar Pradesh,AGRA,june,bajra
+Uttar Pradesh,AGRA,july,rice
+Uttar Pradesh,AGRA,september,mango
+Uttar Pradesh,AGRA,november,potato
+Uttar Pradesh,AGRA,december,tomato
+Uttar Pradesh,AGRA,october,wheat 
+Uttar Pradesh,AGRA,november,bajra
+Uttar Pradesh,AGRA,december,rice
+Uttar Pradesh,AGRA,april,mango
+Uttar Pradesh,AGRA,may,potato
+Uttar Pradesh,AGRA,june,tomato
+Uttar Pradesh,AGRA,november,wheat 
+Uttar Pradesh,AGRA,september,bajra
+Uttar Pradesh,AGRA,october,rice
+Uttar Pradesh,AGRA,november,tomato
+Uttar Pradesh,AGRA,february,wheat 
+Uttar Pradesh,AGRA,march,bajra
+Uttar Pradesh,AGRA,march,rice
+Uttar Pradesh,AGRA,april,mango
+Uttar Pradesh,AGRA,october,potato
+Uttar Pradesh,AGRA,november,tomato
+Uttar Pradesh,AGRA,december,wheat 
+Uttar Pradesh,AGRA,october,bajra
+Uttar Pradesh,AGRA,november,rice
+Uttar Pradesh,AGRA,december,mango
+Uttar Pradesh,AGRA,october,potato
+Uttar Pradesh,AGRA,november,tomato
+Uttar Pradesh,AGRA,january,wheat 
+Uttar Pradesh,AGRA,february,bajra
+Uttar Pradesh,AGRA,march,rice
+Uttar Pradesh,AGRA,september,tomato
+Uttar Pradesh,AGRA,october,wheat 
+Uttar Pradesh,AGRA,september,bajra
+Uttar Pradesh,AGRA,november,rice
+Uttar Pradesh,AGRA,february,mango
+Uttar Pradesh,AGRA,march,potato
+Uttar Pradesh,AGRA,june,tomato
+Uttar Pradesh,AGRA,july,wheat 
+Uttar Pradesh,AGRA,august,bajra
+Uttar Pradesh,AGRA,september,rice
+Uttar Pradesh,AGRA,october,mango
+Uttar Pradesh,AGRA,november,potato
+Uttar Pradesh,AGRA,december,tomato
+Uttar Pradesh,AGRA,october,wheat 
+Uttar Pradesh,AGRA,september,bajra
+Uttar Pradesh,AGRA,october,rice
+Uttar Pradesh,AGRA,november,tomato
+Uttar Pradesh,AGRA,august,wheat 
+Uttar Pradesh,AGRA,september,bajra
+Uttar Pradesh,AGRA,october,rice
+Uttar Pradesh,AGRA,november,mango
+Uttar Pradesh,AGRA,january,potato
+Uttar Pradesh,AGRA,october,tomato
+Uttar Pradesh,AGRA,november,wheat 
+Uttar Pradesh,ALIGARH,january,bajra
+Uttar Pradesh,ALIGARH,february,rice
+Uttar Pradesh,ALIGARH,march,mango
+Uttar Pradesh,ALIGARH,april,potato
+Uttar Pradesh,ALIGARH,may,tomato
+Uttar Pradesh,ALIGARH,june,wheat 
+Uttar Pradesh,ALIGARH,july,bajra
+Uttar Pradesh,ALIGARH,august,rice
+Uttar Pradesh,ALIGARH,september,tomato
+Uttar Pradesh,ALIGARH,october,wheat 
+Uttar Pradesh,ALIGARH,november,bajra
+Uttar Pradesh,ALIGARH,december,rice
+Uttar Pradesh,ALIGARH,march,mango
+Uttar Pradesh,ALIGARH,june,potato
+Uttar Pradesh,ALIGARH,july,tomato
+Uttar Pradesh,ALIGARH,june,wheat 
+Uttar Pradesh,ALIGARH,july,bajra
+Uttar Pradesh,ALIGARH,september,rice
+Uttar Pradesh,ALIGARH,november,mango
+Uttar Pradesh,ALIGARH,december,potato
+Uttar Pradesh,ALIGARH,october,tomato
+Uttar Pradesh,ALIGARH,november,wheat 
+Uttar Pradesh,ALIGARH,december,bajra
+Uttar Pradesh,ALIGARH,april,rice
+Uttar Pradesh,ALIGARH,may,tomato
+Uttar Pradesh,ALIGARH,june,wheat 
+Uttar Pradesh,ALIGARH,november,bajra
+Uttar Pradesh,ALIGARH,september,rice
+Uttar Pradesh,ALIGARH,october,mango
+Uttar Pradesh,ALIGARH,november,potato
+Uttar Pradesh,ALIGARH,february,tomato
+Uttar Pradesh,ALIGARH,march,wheat 
+Uttar Pradesh,ALIGARH,march,bajra
+Uttar Pradesh,ALIGARH,april,rice
+Uttar Pradesh,ALIGARH,october,mango
+Uttar Pradesh,ALIGARH,november,potato
+Uttar Pradesh,ALIGARH,december,tomato
+Uttar Pradesh,ALIGARH,october,wheat 
+Uttar Pradesh,ALIGARH,november,bajra
+Uttar Pradesh,ALIGARH,december,rice
+Uttar Pradesh,ALIGARH,october,tomato
+Uttar Pradesh,ALIGARH,november,wheat 
+Uttar Pradesh,ALIGARH,january,bajra
+Uttar Pradesh,ALIGARH,february,rice
+Uttar Pradesh,ALIGARH,march,mango
+Uttar Pradesh,ALIGARH,september,potato
+Uttar Pradesh,ALIGARH,october,tomato
+Uttar Pradesh,ALIGARH,september,wheat 
+Uttar Pradesh,ALIGARH,november,bajra
+Uttar Pradesh,ALIGARH,february,rice
+Uttar Pradesh,ALIGARH,march,mango
+Uttar Pradesh,ALIGARH,june,potato
+Uttar Pradesh,ALIGARH,july,tomato
+Uttar Pradesh,ALIGARH,august,wheat 
+Uttar Pradesh,ALIGARH,september,bajra
+Uttar Pradesh,ALIGARH,october,rice
+Uttar Pradesh,ALIGARH,november,tomato
+Uttar Pradesh,ALIGARH,december,wheat 
+Uttar Pradesh,ALIGARH,october,bajra
+Uttar Pradesh,ALIGARH,september,rice
+Uttar Pradesh,ALIGARH,october,mango
+Uttar Pradesh,ALIGARH,november,potato
+Uttar Pradesh,ALIGARH,august,tomato
+Uttar Pradesh,ALIGARH,september,wheat 
+Uttar Pradesh,ALIGARH,october,bajra
+Uttar Pradesh,ALIGARH,november,rice
+Uttar Pradesh,ALIGARH,january,mango
+Uttar Pradesh,ALIGARH,october,potato
+Uttar Pradesh,ALIGARH,november,tomato
+Uttar Pradesh,ALLAHABAD,january,wheat 
+Uttar Pradesh,ALLAHABAD,february,bajra
+Uttar Pradesh,ALLAHABAD,march,rice
+Uttar Pradesh,ALLAHABAD,april,tomato
+Uttar Pradesh,ALLAHABAD,may,wheat 
+Uttar Pradesh,ALLAHABAD,june,bajra
+Uttar Pradesh,ALLAHABAD,july,rice
+Uttar Pradesh,ALLAHABAD,august,mango
+Uttar Pradesh,ALLAHABAD,september,potato
+Uttar Pradesh,ALLAHABAD,october,tomato
+Uttar Pradesh,ALLAHABAD,november,wheat 
+Uttar Pradesh,ALLAHABAD,december,bajra
+Uttar Pradesh,ALLAHABAD,march,rice
+Uttar Pradesh,ALLAHABAD,june,mango
+Uttar Pradesh,ALLAHABAD,july,potato
+Uttar Pradesh,ALLAHABAD,june,tomato
+Uttar Pradesh,ALLAHABAD,july,wheat 
+Uttar Pradesh,ALLAHABAD,september,bajra
+Uttar Pradesh,ALLAHABAD,november,rice
+Uttar Pradesh,ALLAHABAD,december,tomato
+Uttar Pradesh,ALLAHABAD,october,wheat 
+Uttar Pradesh,ALLAHABAD,november,bajra
+Uttar Pradesh,ALLAHABAD,december,rice
+Uttar Pradesh,ALLAHABAD,april,mango
+Uttar Pradesh,ALLAHABAD,may,potato
+Uttar Pradesh,ALLAHABAD,june,tomato
+Uttar Pradesh,ALLAHABAD,november,wheat 
+Uttar Pradesh,ALLAHABAD,september,bajra
+Uttar Pradesh,ALLAHABAD,october,rice
+Uttar Pradesh,ALLAHABAD,november,mango
+Uttar Pradesh,ALLAHABAD,february,potato
+Uttar Pradesh,ALLAHABAD,march,tomato
+Uttar Pradesh,ALLAHABAD,march,wheat 
+Uttar Pradesh,ALLAHABAD,april,bajra
+Uttar Pradesh,ALLAHABAD,october,rice
+Uttar Pradesh,ALLAHABAD,november,tomato
+Uttar Pradesh,ALLAHABAD,december,wheat 
+Uttar Pradesh,ALLAHABAD,october,bajra
+Uttar Pradesh,ALLAHABAD,november,rice
+Uttar Pradesh,ALLAHABAD,december,mango
+Uttar Pradesh,ALLAHABAD,october,potato
+Uttar Pradesh,ALLAHABAD,november,tomato
+Uttar Pradesh,ALLAHABAD,january,wheat 
+Uttar Pradesh,ALLAHABAD,february,bajra
+Uttar Pradesh,ALLAHABAD,march,rice
+Uttar Pradesh,ALLAHABAD,september,mango
+Uttar Pradesh,ALLAHABAD,october,potato
+Uttar Pradesh,ALLAHABAD,september,tomato
+Uttar Pradesh,ALLAHABAD,november,wheat 
+Uttar Pradesh,ALLAHABAD,february,bajra
+Uttar Pradesh,ALLAHABAD,march,rice
+Uttar Pradesh,ALLAHABAD,june,tomato
+Uttar Pradesh,ALLAHABAD,july,wheat 
+Uttar Pradesh,ALLAHABAD,august,bajra
+Uttar Pradesh,ALLAHABAD,september,rice
+Uttar Pradesh,ALLAHABAD,october,mango
+Uttar Pradesh,ALLAHABAD,november,potato
+Uttar Pradesh,ALLAHABAD,december,tomato
+Uttar Pradesh,ALLAHABAD,october,wheat 
+Uttar Pradesh,ALLAHABAD,september,bajra
+Uttar Pradesh,ALLAHABAD,october,rice
+Uttar Pradesh,ALLAHABAD,november,mango
+Uttar Pradesh,ALLAHABAD,august,potato
+Uttar Pradesh,ALLAHABAD,september,tomato
+Uttar Pradesh,ALLAHABAD,october,wheat 
+Uttar Pradesh,ALLAHABAD,november,bajra
+Uttar Pradesh,ALLAHABAD,january,rice
+Uttar Pradesh,ALLAHABAD,october,tomato
+Uttar Pradesh,ALLAHABAD,november,wheat 
+Uttar Pradesh,AMBEDKAR NAGAR,january,bajra
+Uttar Pradesh,AMBEDKAR NAGAR,february,rice
+Uttar Pradesh,AMBEDKAR NAGAR,march,mango
+Uttar Pradesh,AMBEDKAR NAGAR,april,potato
+Uttar Pradesh,AMBEDKAR NAGAR,may,tomato
+Uttar Pradesh,AMBEDKAR NAGAR,june,wheat 
+Uttar Pradesh,AMBEDKAR NAGAR,july,bajra
+Uttar Pradesh,AMBEDKAR NAGAR,august,rice
+Uttar Pradesh,AMBEDKAR NAGAR,september,mango
+Uttar Pradesh,AMBEDKAR NAGAR,october,potato
+Uttar Pradesh,AMBEDKAR NAGAR,november,tomato
+Uttar Pradesh,AMBEDKAR NAGAR,december,wheat 
+Uttar Pradesh,AMBEDKAR NAGAR,march,bajra
+Uttar Pradesh,AMBEDKAR NAGAR,june,rice
+Uttar Pradesh,AMBEDKAR NAGAR,july,tomato
+Uttar Pradesh,AMBEDKAR NAGAR,june,wheat 
+Uttar Pradesh,AMBEDKAR NAGAR,july,bajra
+Uttar Pradesh,AMBEDKAR NAGAR,september,rice
+Uttar Pradesh,AMBEDKAR NAGAR,november,mango
+Uttar Pradesh,AMBEDKAR NAGAR,december,potato
+Uttar Pradesh,AMBEDKAR NAGAR,october,tomato
+Uttar Pradesh,AMBEDKAR NAGAR,november,wheat 
+Uttar Pradesh,AMBEDKAR NAGAR,december,bajra
+Uttar Pradesh,AMBEDKAR NAGAR,april,rice
+Uttar Pradesh,AMBEDKAR NAGAR,may,mango
+Uttar Pradesh,AMBEDKAR NAGAR,june,potato
+Uttar Pradesh,AMBEDKAR NAGAR,november,tomato
+Uttar Pradesh,AMBEDKAR NAGAR,september,wheat 
+Uttar Pradesh,AMBEDKAR NAGAR,october,bajra
+Uttar Pradesh,AMBEDKAR NAGAR,november,rice
+Uttar Pradesh,AMBEDKAR NAGAR,february,tomato
+Uttar Pradesh,AMBEDKAR NAGAR,march,wheat 
+Uttar Pradesh,AMBEDKAR NAGAR,march,bajra
+Uttar Pradesh,AMBEDKAR NAGAR,april,rice
+Uttar Pradesh,AMBEDKAR NAGAR,october,mango
+Uttar Pradesh,AMBEDKAR NAGAR,november,potato
+Uttar Pradesh,AMBEDKAR NAGAR,december,tomato
+Uttar Pradesh,AMBEDKAR NAGAR,october,wheat 
+Uttar Pradesh,AMBEDKAR NAGAR,november,bajra
+Uttar Pradesh,AMBEDKAR NAGAR,december,rice
+Uttar Pradesh,AMBEDKAR NAGAR,october,mango
+Uttar Pradesh,AMBEDKAR NAGAR,november,potato
+Uttar Pradesh,AMBEDKAR NAGAR,january,tomato
+Uttar Pradesh,AMBEDKAR NAGAR,february,wheat 
+Uttar Pradesh,AMBEDKAR NAGAR,march,bajra
+Uttar Pradesh,AMBEDKAR NAGAR,september,rice
+Uttar Pradesh,AMBEDKAR NAGAR,october,tomato
+Uttar Pradesh,AMBEDKAR NAGAR,september,wheat 
+Uttar Pradesh,AMBEDKAR NAGAR,november,bajra
+Uttar Pradesh,AMBEDKAR NAGAR,february,rice
+Uttar Pradesh,AMBEDKAR NAGAR,march,mango
+Uttar Pradesh,AMBEDKAR NAGAR,june,potato
+Uttar Pradesh,AMBEDKAR NAGAR,july,tomato
+Uttar Pradesh,AMBEDKAR NAGAR,august,wheat 
+Uttar Pradesh,AMBEDKAR NAGAR,september,bajra
+Uttar Pradesh,AMBEDKAR NAGAR,october,rice
+Uttar Pradesh,AMBEDKAR NAGAR,november,mango
+Uttar Pradesh,AMBEDKAR NAGAR,december,potato
+Uttar Pradesh,AMBEDKAR NAGAR,october,tomato
+Uttar Pradesh,AMBEDKAR NAGAR,september,wheat 
+Uttar Pradesh,AMBEDKAR NAGAR,october,bajra
+Uttar Pradesh,AMBEDKAR NAGAR,november,rice
+Uttar Pradesh,AMBEDKAR NAGAR,august,tomato
+Uttar Pradesh,AMBEDKAR NAGAR,september,wheat 
+Uttar Pradesh,AMBEDKAR NAGAR,october,bajra
+Uttar Pradesh,AMBEDKAR NAGAR,november,rice
+Uttar Pradesh,AMBEDKAR NAGAR,january,mango
+Uttar Pradesh,AMBEDKAR NAGAR,october,potato
+Uttar Pradesh,AMBEDKAR NAGAR,november,tomato
+Uttar Pradesh,AURAIYA,january,wheat 
+Uttar Pradesh,AURAIYA,february,bajra
+Uttar Pradesh,AURAIYA,march,rice
+Uttar Pradesh,AURAIYA,april,mango
+Uttar Pradesh,AURAIYA,may,potato
+Uttar Pradesh,AURAIYA,june,tomato
+Uttar Pradesh,AURAIYA,july,wheat 
+Uttar Pradesh,AURAIYA,august,bajra
+Uttar Pradesh,AURAIYA,september,rice
+Uttar Pradesh,AURAIYA,october,tomato
+Uttar Pradesh,AURAIYA,november,wheat 
+Uttar Pradesh,AURAIYA,december,bajra
+Uttar Pradesh,AURAIYA,march,rice
+Uttar Pradesh,AURAIYA,june,mango
+Uttar Pradesh,AURAIYA,july,potato
+Uttar Pradesh,AURAIYA,june,tomato
+Uttar Pradesh,AURAIYA,july,wheat 
+Uttar Pradesh,AURAIYA,september,bajra
+Uttar Pradesh,AURAIYA,november,rice
+Uttar Pradesh,AURAIYA,december,mango
+Uttar Pradesh,AURAIYA,october,potato
+Uttar Pradesh,AURAIYA,november,tomato
+Uttar Pradesh,AURAIYA,december,wheat 
+Uttar Pradesh,AURAIYA,april,bajra
+Uttar Pradesh,AURAIYA,may,rice
+Uttar Pradesh,AURAIYA,june,tomato
+Uttar Pradesh,AURAIYA,november,wheat 
+Uttar Pradesh,AURAIYA,september,bajra
+Uttar Pradesh,AURAIYA,october,rice
+Uttar Pradesh,AURAIYA,november,mango
+Uttar Pradesh,AURAIYA,february,potato
+Uttar Pradesh,AURAIYA,march,tomato
+Uttar Pradesh,AURAIYA,march,wheat 
+Uttar Pradesh,AURAIYA,april,bajra
+Uttar Pradesh,AURAIYA,october,rice
+Uttar Pradesh,AURAIYA,november,mango
+Uttar Pradesh,AURAIYA,december,potato
+Uttar Pradesh,AURAIYA,october,tomato
+Uttar Pradesh,AURAIYA,november,wheat 
+Uttar Pradesh,AURAIYA,december,bajra
+Uttar Pradesh,AURAIYA,october,rice
+Uttar Pradesh,AURAIYA,november,tomato
+Uttar Pradesh,AURAIYA,january,wheat 
+Uttar Pradesh,AURAIYA,february,bajra
+Uttar Pradesh,AURAIYA,march,rice
+Uttar Pradesh,AURAIYA,september,mango
+Uttar Pradesh,AURAIYA,october,potato
+Uttar Pradesh,AURAIYA,september,tomato
+Uttar Pradesh,AURAIYA,november,wheat 
+Uttar Pradesh,AURAIYA,february,bajra
+Uttar Pradesh,AURAIYA,march,rice
+Uttar Pradesh,AURAIYA,june,mango
+Uttar Pradesh,AURAIYA,july,potato
+Uttar Pradesh,AURAIYA,august,tomato
+Uttar Pradesh,AURAIYA,september,wheat 
+Uttar Pradesh,AURAIYA,october,bajra
+Uttar Pradesh,AURAIYA,november,rice
+Uttar Pradesh,AURAIYA,december,tomato
+Uttar Pradesh,AURAIYA,october,wheat 
+Uttar Pradesh,AURAIYA,september,bajra
+Uttar Pradesh,AURAIYA,october,rice
+Uttar Pradesh,AURAIYA,november,mango
+Uttar Pradesh,AURAIYA,august,potato
+Uttar Pradesh,AURAIYA,september,tomato
+Uttar Pradesh,AURAIYA,october,wheat 
+Uttar Pradesh,AURAIYA,november,bajra
+Uttar Pradesh,AURAIYA,january,rice
+Uttar Pradesh,AURAIYA,october,mango
+Uttar Pradesh,AURAIYA,november,potato
+Uttar Pradesh,AZAMGARH,january,tomato
+Uttar Pradesh,AZAMGARH,february,wheat 
+Uttar Pradesh,AZAMGARH,march,bajra
+Uttar Pradesh,AZAMGARH,april,rice
+Uttar Pradesh,AZAMGARH,may,tomato
+Uttar Pradesh,AZAMGARH,june,wheat 
+Uttar Pradesh,AZAMGARH,july,bajra
+Uttar Pradesh,AZAMGARH,august,rice
+Uttar Pradesh,AZAMGARH,september,mango
+Uttar Pradesh,AZAMGARH,october,potato
+Uttar Pradesh,AZAMGARH,november,tomato
+Uttar Pradesh,AZAMGARH,december,wheat 
+Uttar Pradesh,AZAMGARH,march,bajra
+Uttar Pradesh,AZAMGARH,june,rice
+Uttar Pradesh,AZAMGARH,july,mango
+Uttar Pradesh,AZAMGARH,june,potato
+Uttar Pradesh,AZAMGARH,july,tomato
+Uttar Pradesh,AZAMGARH,september,wheat 
+Uttar Pradesh,AZAMGARH,november,bajra
+Uttar Pradesh,AZAMGARH,december,rice
+Uttar Pradesh,AZAMGARH,october,tomato
+Uttar Pradesh,AZAMGARH,november,wheat 
+Uttar Pradesh,AZAMGARH,december,bajra
+Uttar Pradesh,AZAMGARH,april,rice
+Uttar Pradesh,AZAMGARH,may,mango
+Uttar Pradesh,AZAMGARH,june,potato
+Uttar Pradesh,AZAMGARH,november,tomato
+Uttar Pradesh,AZAMGARH,september,wheat 
+Uttar Pradesh,AZAMGARH,october,bajra
+Uttar Pradesh,AZAMGARH,november,rice
+Uttar Pradesh,AZAMGARH,february,mango
+Uttar Pradesh,AZAMGARH,march,potato
+Uttar Pradesh,AZAMGARH,march,tomato
+Uttar Pradesh,AZAMGARH,april,wheat 
+Uttar Pradesh,AZAMGARH,october,bajra
+Uttar Pradesh,AZAMGARH,november,rice
+Uttar Pradesh,AZAMGARH,december,tomato
+Uttar Pradesh,AZAMGARH,october,wheat 
+Uttar Pradesh,AZAMGARH,november,bajra
+Uttar Pradesh,AZAMGARH,december,rice
+Uttar Pradesh,AZAMGARH,october,mango
+Uttar Pradesh,AZAMGARH,november,potato
+Uttar Pradesh,AZAMGARH,january,tomato
+Uttar Pradesh,AZAMGARH,february,wheat 
+Uttar Pradesh,AZAMGARH,march,bajra
+Uttar Pradesh,AZAMGARH,september,rice
+Uttar Pradesh,AZAMGARH,october,mango
+Uttar Pradesh,AZAMGARH,september,potato
+Uttar Pradesh,AZAMGARH,november,tomato
+Uttar Pradesh,AZAMGARH,february,wheat 
+Uttar Pradesh,AZAMGARH,march,bajra
+Uttar Pradesh,AZAMGARH,june,rice
+Uttar Pradesh,AZAMGARH,july,tomato
+Uttar Pradesh,AZAMGARH,august,wheat 
+Uttar Pradesh,AZAMGARH,september,bajra
+Uttar Pradesh,AZAMGARH,october,rice
+Uttar Pradesh,AZAMGARH,november,mango
+Uttar Pradesh,AZAMGARH,december,potato
+Uttar Pradesh,AZAMGARH,october,tomato
+Uttar Pradesh,AZAMGARH,september,wheat 
+Uttar Pradesh,AZAMGARH,october,bajra
+Uttar Pradesh,AZAMGARH,november,rice
+Uttar Pradesh,AZAMGARH,august,mango
+Uttar Pradesh,AZAMGARH,september,potato
+Uttar Pradesh,AZAMGARH,october,tomato
+Uttar Pradesh,AZAMGARH,november,wheat 
+Uttar Pradesh,AZAMGARH,january,bajra
+Uttar Pradesh,AZAMGARH,october,rice
+Uttar Pradesh,AZAMGARH,november,tomato
+Uttar Pradesh,BALLIA,january,wheat 
+Uttar Pradesh,BALLIA,february,bajra
+Uttar Pradesh,BALLIA,march,rice
+Uttar Pradesh,BALLIA,april,mango
+Uttar Pradesh,BALLIA,may,potato
+Uttar Pradesh,BALLIA,june,tomato
+Uttar Pradesh,BALLIA,july,wheat 
+Uttar Pradesh,BALLIA,august,bajra
+Uttar Pradesh,BALLIA,september,rice
+Uttar Pradesh,BALLIA,october,mango
+Uttar Pradesh,BALLIA,november,potato
+Uttar Pradesh,BALLIA,december,tomato
+Uttar Pradesh,BALLIA,march,wheat 
+Uttar Pradesh,BALLIA,june,bajra
+Uttar Pradesh,BALLIA,july,rice
+Uttar Pradesh,BALLIA,june,tomato
+Uttar Pradesh,BALLIA,july,wheat 
+Uttar Pradesh,BALLIA,september,bajra
+Uttar Pradesh,BALLIA,november,rice
+Uttar Pradesh,BALLIA,december,mango
+Uttar Pradesh,BALLIA,october,potato
+Uttar Pradesh,BALLIA,november,tomato
+Uttar Pradesh,BALLIA,december,wheat 
+Uttar Pradesh,BALLIA,april,bajra
+Uttar Pradesh,BALLIA,may,rice
+Uttar Pradesh,BALLIA,june,mango
+Uttar Pradesh,BALLIA,november,potato
+Uttar Pradesh,BALLIA,september,tomato
+Uttar Pradesh,BALLIA,october,wheat 
+Uttar Pradesh,BALLIA,november,bajra
+Uttar Pradesh,BALLIA,february,rice
+Uttar Pradesh,BALLIA,march,tomato
+Uttar Pradesh,BALLIA,march,wheat 
+Uttar Pradesh,BALLIA,april,bajra
+Uttar Pradesh,BALLIA,october,rice
+Uttar Pradesh,BALLIA,november,mango
+Uttar Pradesh,BALLIA,december,potato
+Uttar Pradesh,BALLIA,october,tomato
+Uttar Pradesh,BALLIA,november,wheat 
+Uttar Pradesh,BALLIA,december,bajra
+Uttar Pradesh,BALLIA,october,rice
+Uttar Pradesh,BALLIA,november,mango
+Uttar Pradesh,BALLIA,january,potato
+Uttar Pradesh,BALLIA,february,tomato
+Uttar Pradesh,BALLIA,march,wheat 
+Uttar Pradesh,BALLIA,september,bajra
+Uttar Pradesh,BALLIA,october,rice
+Uttar Pradesh,BALLIA,september,tomato
+Uttar Pradesh,BALLIA,november,wheat 
+Uttar Pradesh,BALLIA,february,bajra
+Uttar Pradesh,BALLIA,march,rice
+Uttar Pradesh,BALLIA,june,mango
+Uttar Pradesh,BALLIA,july,potato
+Uttar Pradesh,BALLIA,august,tomato
+Uttar Pradesh,BALLIA,september,wheat 
+Uttar Pradesh,BALLIA,october,bajra
+Uttar Pradesh,BALLIA,november,rice
+Uttar Pradesh,BALLIA,december,mango
+Uttar Pradesh,BALLIA,october,potato
+Uttar Pradesh,BALLIA,september,tomato
+Uttar Pradesh,BALLIA,october,wheat 
+Uttar Pradesh,BALLIA,november,bajra
+Uttar Pradesh,BALLIA,august,rice
+Uttar Pradesh,BALLIA,september,tomato
+Uttar Pradesh,BALLIA,october,wheat 
+Uttar Pradesh,BALLIA,november,bajra
+Uttar Pradesh,BALLIA,january,rice
+Uttar Pradesh,BALLIA,october,mango
+Uttar Pradesh,BALLIA,november,potato
+Uttar Pradesh,BAREILLY,january,tomato
+Uttar Pradesh,BAREILLY,february,wheat 
+Uttar Pradesh,BAREILLY,march,bajra
+Uttar Pradesh,BAREILLY,april,rice
+Uttar Pradesh,BAREILLY,may,mango
+Uttar Pradesh,BAREILLY,june,potato
+Uttar Pradesh,BAREILLY,july,tomato
+Uttar Pradesh,BAREILLY,august,wheat 
+Uttar Pradesh,BAREILLY,september,bajra
+Uttar Pradesh,BAREILLY,october,rice
+Uttar Pradesh,BAREILLY,november,tomato
+Uttar Pradesh,BAREILLY,december,wheat 
+Uttar Pradesh,BAREILLY,march,bajra
+Uttar Pradesh,BAREILLY,june,rice
+Uttar Pradesh,BAREILLY,july,mango
+Uttar Pradesh,BAREILLY,june,potato
+Uttar Pradesh,BAREILLY,july,tomato
+Uttar Pradesh,BAREILLY,september,wheat 
+Uttar Pradesh,BAREILLY,november,bajra
+Uttar Pradesh,BAREILLY,december,rice
+Uttar Pradesh,BAREILLY,october,mango
+Uttar Pradesh,BAREILLY,november,potato
+Uttar Pradesh,BAREILLY,december,tomato
+Uttar Pradesh,BAREILLY,april,wheat 
+Uttar Pradesh,BAREILLY,may,bajra
+Uttar Pradesh,BAREILLY,june,rice
+Uttar Pradesh,BAREILLY,november,tomato
+Uttar Pradesh,BAREILLY,september,wheat 
+Uttar Pradesh,BAREILLY,october,bajra
+Uttar Pradesh,BAREILLY,november,rice
+Uttar Pradesh,BAREILLY,february,mango
+Uttar Pradesh,BAREILLY,march,potato
+Uttar Pradesh,BAREILLY,march,tomato
+Uttar Pradesh,BAREILLY,april,wheat 
+Uttar Pradesh,BAREILLY,october,bajra
+Uttar Pradesh,BAREILLY,november,rice
+Uttar Pradesh,BAREILLY,december,mango
+Uttar Pradesh,BAREILLY,october,potato
+Uttar Pradesh,BAREILLY,november,tomato
+Uttar Pradesh,BAREILLY,december,wheat 
+Uttar Pradesh,BAREILLY,october,bajra
+Uttar Pradesh,BAREILLY,november,rice
+Uttar Pradesh,BAREILLY,january,tomato
+Uttar Pradesh,BAREILLY,february,wheat 
+Uttar Pradesh,BAREILLY,march,bajra
+Uttar Pradesh,BAREILLY,september,rice
+Uttar Pradesh,BAREILLY,october,mango
+Uttar Pradesh,BAREILLY,september,potato
+Uttar Pradesh,BAREILLY,november,tomato
+Uttar Pradesh,BAREILLY,february,wheat 
+Uttar Pradesh,BAREILLY,march,bajra
+Uttar Pradesh,BAREILLY,june,rice
+Uttar Pradesh,BAREILLY,july,mango
+Uttar Pradesh,BAREILLY,august,potato
+Uttar Pradesh,BAREILLY,september,tomato
+Uttar Pradesh,BAREILLY,october,wheat 
+Uttar Pradesh,BAREILLY,november,bajra
+Uttar Pradesh,BAREILLY,december,rice
+Uttar Pradesh,BAREILLY,october,tomato
+Uttar Pradesh,BAREILLY,september,wheat 
+Uttar Pradesh,BAREILLY,october,bajra
+Uttar Pradesh,BAREILLY,november,rice
+Uttar Pradesh,BAREILLY,august,mango
+Uttar Pradesh,BAREILLY,september,potato
+Uttar Pradesh,BAREILLY,october,tomato
+Uttar Pradesh,BAREILLY,november,wheat 
+Uttar Pradesh,BAREILLY,january,bajra
+Uttar Pradesh,BAREILLY,october,rice
+Uttar Pradesh,BAREILLY,november,mango
+Uttar Pradesh,BULANDSHAHR,january,potato
+Uttar Pradesh,BULANDSHAHR,february,tomato
+Uttar Pradesh,BULANDSHAHR,march,wheat 
+Uttar Pradesh,BULANDSHAHR,april,bajra
+Uttar Pradesh,BULANDSHAHR,may,rice
+Uttar Pradesh,BULANDSHAHR,june,tomato
+Uttar Pradesh,BULANDSHAHR,july,wheat 
+Uttar Pradesh,BULANDSHAHR,august,bajra
+Uttar Pradesh,BULANDSHAHR,september,rice
+Uttar Pradesh,BULANDSHAHR,october,mango
+Uttar Pradesh,BULANDSHAHR,november,potato
+Uttar Pradesh,BULANDSHAHR,december,tomato
+Uttar Pradesh,BULANDSHAHR,march,wheat 
+Uttar Pradesh,BULANDSHAHR,june,bajra
+Uttar Pradesh,BULANDSHAHR,july,rice
+Uttar Pradesh,BULANDSHAHR,june,mango
+Uttar Pradesh,BULANDSHAHR,july,potato
+Uttar Pradesh,BULANDSHAHR,september,tomato
+Uttar Pradesh,BULANDSHAHR,november,wheat 
+Uttar Pradesh,BULANDSHAHR,december,bajra
+Uttar Pradesh,BULANDSHAHR,october,rice
+Uttar Pradesh,BULANDSHAHR,november,tomato
+Uttar Pradesh,BULANDSHAHR,december,wheat 
+Uttar Pradesh,BULANDSHAHR,april,bajra
+Uttar Pradesh,BULANDSHAHR,may,rice
+Uttar Pradesh,BULANDSHAHR,june,mango
+Uttar Pradesh,BULANDSHAHR,november,potato
+Uttar Pradesh,BULANDSHAHR,september,tomato
+Uttar Pradesh,BULANDSHAHR,october,wheat 
+Uttar Pradesh,BULANDSHAHR,november,bajra
+Uttar Pradesh,BULANDSHAHR,february,rice
+Uttar Pradesh,BULANDSHAHR,march,mango
+Uttar Pradesh,BULANDSHAHR,march,potato
+Uttar Pradesh,BULANDSHAHR,april,tomato
+Uttar Pradesh,BULANDSHAHR,october,wheat 
+Uttar Pradesh,BULANDSHAHR,november,bajra
+Uttar Pradesh,BULANDSHAHR,december,rice
+Uttar Pradesh,BULANDSHAHR,october,tomato
+Uttar Pradesh,BULANDSHAHR,november,wheat 
+Uttar Pradesh,BULANDSHAHR,december,bajra
+Uttar Pradesh,BULANDSHAHR,october,rice
+Uttar Pradesh,BULANDSHAHR,november,mango
+Uttar Pradesh,BULANDSHAHR,january,potato
+Uttar Pradesh,BULANDSHAHR,february,tomato
+Uttar Pradesh,BULANDSHAHR,march,wheat 
+Uttar Pradesh,BULANDSHAHR,september,bajra
+Uttar Pradesh,BULANDSHAHR,october,rice
+Uttar Pradesh,BULANDSHAHR,september,mango
+Uttar Pradesh,BULANDSHAHR,november,potato
+Uttar Pradesh,BULANDSHAHR,february,tomato
+Uttar Pradesh,BULANDSHAHR,march,wheat 
+Uttar Pradesh,BULANDSHAHR,june,bajra
+Uttar Pradesh,BULANDSHAHR,july,rice
+Uttar Pradesh,BULANDSHAHR,august,tomato
+Uttar Pradesh,BULANDSHAHR,september,wheat 
+Uttar Pradesh,BULANDSHAHR,october,bajra
+Uttar Pradesh,BULANDSHAHR,november,rice
+Uttar Pradesh,BULANDSHAHR,december,mango
+Uttar Pradesh,BULANDSHAHR,october,potato
+Uttar Pradesh,BULANDSHAHR,september,tomato
+Uttar Pradesh,BULANDSHAHR,october,wheat 
+Uttar Pradesh,BULANDSHAHR,november,bajra
+Uttar Pradesh,BULANDSHAHR,august,rice
+Uttar Pradesh,BULANDSHAHR,september,mango
+Uttar Pradesh,BULANDSHAHR,october,potato
+Uttar Pradesh,BULANDSHAHR,november,tomato
+Uttar Pradesh,BULANDSHAHR,january,wheat 
+Uttar Pradesh,BULANDSHAHR,october,bajra
+Uttar Pradesh,BULANDSHAHR,november,rice
+Uttar Pradesh,CHANDAULI,january,tomato
+Uttar Pradesh,CHANDAULI,february,wheat 
+Uttar Pradesh,CHANDAULI,march,bajra
+Uttar Pradesh,CHANDAULI,april,rice
+Uttar Pradesh,CHANDAULI,may,mango
+Uttar Pradesh,CHANDAULI,june,potato
+Uttar Pradesh,CHANDAULI,july,tomato
+Uttar Pradesh,CHANDAULI,august,wheat 
+Uttar Pradesh,CHANDAULI,september,bajra
+Uttar Pradesh,CHANDAULI,october,rice
+Uttar Pradesh,CHANDAULI,november,mango
+Uttar Pradesh,CHANDAULI,december,potato
+Uttar Pradesh,CHANDAULI,march,tomato
+Uttar Pradesh,CHANDAULI,june,wheat 
+Uttar Pradesh,CHANDAULI,july,bajra
+Uttar Pradesh,CHANDAULI,june,rice
+Uttar Pradesh,CHANDAULI,july,tomato
+Uttar Pradesh,CHANDAULI,september,wheat 
+Uttar Pradesh,CHANDAULI,november,bajra
+Uttar Pradesh,CHANDAULI,december,rice
+Uttar Pradesh,CHANDAULI,october,mango
+Uttar Pradesh,CHANDAULI,november,potato
+Uttar Pradesh,CHANDAULI,december,tomato
+Uttar Pradesh,CHANDAULI,april,wheat 
+Uttar Pradesh,CHANDAULI,may,bajra
+Uttar Pradesh,CHANDAULI,june,rice
+Uttar Pradesh,CHANDAULI,november,mango
+Uttar Pradesh,CHANDAULI,september,potato
+Uttar Pradesh,CHANDAULI,october,tomato
+Uttar Pradesh,CHANDAULI,november,wheat 
+Uttar Pradesh,CHANDAULI,february,bajra
+Uttar Pradesh,CHANDAULI,march,rice
+Uttar Pradesh,CHANDAULI,march,tomato
+Uttar Pradesh,CHANDAULI,april,wheat 
+Uttar Pradesh,CHANDAULI,october,bajra
+Uttar Pradesh,CHANDAULI,november,rice
+Uttar Pradesh,CHANDAULI,december,mango
+Uttar Pradesh,CHANDAULI,october,potato
+Uttar Pradesh,CHANDAULI,november,tomato
+Uttar Pradesh,CHANDAULI,december,wheat 
+Uttar Pradesh,CHANDAULI,october,bajra
+Uttar Pradesh,CHANDAULI,november,rice
+Uttar Pradesh,CHANDAULI,january,mango
+Uttar Pradesh,CHANDAULI,february,potato
+Uttar Pradesh,CHANDAULI,march,tomato
+Uttar Pradesh,CHANDAULI,september,wheat 
+Uttar Pradesh,CHANDAULI,october,bajra
+Uttar Pradesh,CHANDAULI,september,rice
+Uttar Pradesh,CHANDAULI,november,tomato
+Uttar Pradesh,CHANDAULI,february,wheat 
+Uttar Pradesh,CHANDAULI,march,bajra
+Uttar Pradesh,CHANDAULI,june,rice
+Uttar Pradesh,CHANDAULI,july,mango
+Uttar Pradesh,CHANDAULI,august,potato
+Uttar Pradesh,CHANDAULI,september,tomato
+Uttar Pradesh,CHANDAULI,october,wheat 
+Uttar Pradesh,CHANDAULI,november,bajra
+Uttar Pradesh,CHANDAULI,december,rice
+Uttar Pradesh,CHANDAULI,october,mango
+Uttar Pradesh,CHANDAULI,september,potato
+Uttar Pradesh,CHANDAULI,october,tomato
+Uttar Pradesh,CHANDAULI,november,wheat 
+Uttar Pradesh,CHANDAULI,august,bajra
+Uttar Pradesh,CHANDAULI,september,rice
+Uttar Pradesh,CHANDAULI,october,tomato
+Uttar Pradesh,CHANDAULI,november,wheat 
+Uttar Pradesh,CHANDAULI,january,bajra
+Uttar Pradesh,CHANDAULI,october,rice
+Uttar Pradesh,CHANDAULI,november,mango
+Uttar Pradesh,DEORIA,january,potato
+Uttar Pradesh,DEORIA,february,tomato
+Uttar Pradesh,DEORIA,march,wheat 
+Uttar Pradesh,DEORIA,april,bajra
+Uttar Pradesh,DEORIA,may,rice
+Uttar Pradesh,DEORIA,june,mango
+Uttar Pradesh,DEORIA,july,potato
+Uttar Pradesh,DEORIA,august,tomato
+Uttar Pradesh,DEORIA,september,wheat 
+Uttar Pradesh,DEORIA,october,bajra
+Uttar Pradesh,DEORIA,november,rice
+Uttar Pradesh,DEORIA,december,tomato
+Uttar Pradesh,DEORIA,march,wheat 
+Uttar Pradesh,DEORIA,june,bajra
+Uttar Pradesh,DEORIA,july,rice
+Uttar Pradesh,DEORIA,june,mango
+Uttar Pradesh,DEORIA,july,potato
+Uttar Pradesh,DEORIA,september,tomato
+Uttar Pradesh,DEORIA,november,wheat 
+Uttar Pradesh,DEORIA,december,bajra
+Uttar Pradesh,DEORIA,october,rice
+Uttar Pradesh,DEORIA,november,mango
+Uttar Pradesh,DEORIA,december,potato
+Uttar Pradesh,DEORIA,april,tomato
+Uttar Pradesh,DEORIA,may,wheat 
+Uttar Pradesh,DEORIA,june,bajra
+Uttar Pradesh,DEORIA,november,rice
+Uttar Pradesh,DEORIA,september,tomato
+Uttar Pradesh,DEORIA,october,wheat 
+Uttar Pradesh,DEORIA,november,bajra
+Uttar Pradesh,DEORIA,february,rice
+Uttar Pradesh,DEORIA,march,mango
+Uttar Pradesh,DEORIA,march,potato
+Uttar Pradesh,DEORIA,april,tomato
+Uttar Pradesh,DEORIA,october,wheat 
+Uttar Pradesh,DEORIA,november,bajra
+Uttar Pradesh,DEORIA,december,rice
+Uttar Pradesh,DEORIA,october,mango
+Uttar Pradesh,DEORIA,november,potato
+Uttar Pradesh,DEORIA,december,tomato
+Uttar Pradesh,DEORIA,october,wheat 
+Uttar Pradesh,DEORIA,november,bajra
+Uttar Pradesh,DEORIA,january,rice
+Uttar Pradesh,DEORIA,february,tomato
+Uttar Pradesh,DEORIA,march,wheat 
+Uttar Pradesh,DEORIA,september,bajra
+Uttar Pradesh,DEORIA,october,rice
+Uttar Pradesh,DEORIA,september,mango
+Uttar Pradesh,DEORIA,november,potato
+Uttar Pradesh,DEORIA,february,tomato
+Uttar Pradesh,DEORIA,march,wheat 
+Uttar Pradesh,DEORIA,june,bajra
+Uttar Pradesh,DEORIA,july,rice
+Uttar Pradesh,DEORIA,august,mango
+Uttar Pradesh,DEORIA,september,potato
+Uttar Pradesh,DEORIA,october,tomato
+Uttar Pradesh,DEORIA,november,wheat 
+Uttar Pradesh,DEORIA,december,bajra
+Uttar Pradesh,DEORIA,october,rice
+Uttar Pradesh,DEORIA,september,tomato
+Uttar Pradesh,DEORIA,october,wheat 
+Uttar Pradesh,DEORIA,november,bajra
+Uttar Pradesh,DEORIA,august,rice
+Uttar Pradesh,DEORIA,september,mango
+Uttar Pradesh,DEORIA,october,potato
+Uttar Pradesh,DEORIA,november,tomato
+Uttar Pradesh,DEORIA,january,wheat 
+Uttar Pradesh,DEORIA,october,bajra
+Uttar Pradesh,DEORIA,november,rice
+Uttar Pradesh,ETAH,january,mango
+Uttar Pradesh,ETAH,february,potato
+Uttar Pradesh,ETAH,march,tomato
+Uttar Pradesh,ETAH,april,wheat 
+Uttar Pradesh,ETAH,may,bajra
+Uttar Pradesh,ETAH,june,rice
+Uttar Pradesh,ETAH,july,tomato
+Uttar Pradesh,ETAH,august,wheat 
+Uttar Pradesh,ETAH,september,bajra
+Uttar Pradesh,ETAH,october,rice
+Uttar Pradesh,ETAH,november,mango
+Uttar Pradesh,ETAH,december,potato
+Uttar Pradesh,ETAH,march,tomato
+Uttar Pradesh,ETAH,june,wheat 
+Uttar Pradesh,ETAH,july,bajra
+Uttar Pradesh,ETAH,june,rice
+Uttar Pradesh,ETAH,july,mango
+Uttar Pradesh,ETAH,september,potato
+Uttar Pradesh,ETAH,november,tomato
+Uttar Pradesh,ETAH,december,wheat 
+Uttar Pradesh,ETAH,october,bajra
+Uttar Pradesh,ETAH,november,rice
+Uttar Pradesh,ETAH,december,tomato
+Uttar Pradesh,ETAH,april,wheat 
+Uttar Pradesh,ETAH,may,bajra
+Uttar Pradesh,ETAH,june,rice
+Uttar Pradesh,ETAH,november,mango
+Uttar Pradesh,ETAH,september,potato
+Uttar Pradesh,ETAH,october,tomato
+Uttar Pradesh,ETAH,november,wheat 
+Uttar Pradesh,ETAH,february,bajra
+Uttar Pradesh,ETAH,march,rice
+Uttar Pradesh,ETAH,march,mango
+Uttar Pradesh,ETAH,april,potato
+Uttar Pradesh,ETAH,october,tomato
+Uttar Pradesh,ETAH,november,wheat 
+Uttar Pradesh,ETAH,december,bajra
+Uttar Pradesh,ETAH,october,rice
+Uttar Pradesh,ETAH,november,tomato
+Uttar Pradesh,ETAH,december,wheat 
+Uttar Pradesh,ETAH,october,bajra
+Uttar Pradesh,ETAH,november,rice
+Uttar Pradesh,ETAH,january,mango
+Uttar Pradesh,ETAH,february,potato
+Uttar Pradesh,ETAH,march,tomato
+Uttar Pradesh,ETAH,september,wheat 
+Uttar Pradesh,ETAH,october,bajra
+Uttar Pradesh,ETAH,september,rice
+Uttar Pradesh,ETAH,november,mango
+Uttar Pradesh,ETAH,february,potato
+Uttar Pradesh,ETAH,march,tomato
+Uttar Pradesh,ETAH,june,wheat 
+Uttar Pradesh,ETAH,july,bajra
+Uttar Pradesh,ETAH,august,rice
+Uttar Pradesh,ETAH,september,tomato
+Uttar Pradesh,ETAH,october,wheat 
+Uttar Pradesh,ETAH,november,bajra
+Uttar Pradesh,ETAH,december,rice
+Uttar Pradesh,ETAH,october,mango
+Uttar Pradesh,ETAH,september,potato
+Uttar Pradesh,ETAH,october,tomato
+Uttar Pradesh,ETAH,november,wheat 
+Uttar Pradesh,ETAH,august,bajra
+Uttar Pradesh,ETAH,september,rice
+Uttar Pradesh,ETAH,october,mango
+Uttar Pradesh,ETAH,november,potato
+Uttar Pradesh,ETAH,january,tomato
+Uttar Pradesh,ETAH,october,wheat 
+Uttar Pradesh,ETAH,november,bajra
+Uttar Pradesh,FAIZABAD,january,rice
+Uttar Pradesh,FAIZABAD,february,tomato
+Uttar Pradesh,FAIZABAD,march,wheat 
+Uttar Pradesh,FAIZABAD,april,bajra
+Uttar Pradesh,FAIZABAD,may,rice
+Uttar Pradesh,FAIZABAD,june,mango
+Uttar Pradesh,FAIZABAD,july,potato
+Uttar Pradesh,FAIZABAD,august,tomato
+Uttar Pradesh,FAIZABAD,september,wheat 
+Uttar Pradesh,FAIZABAD,october,bajra
+Uttar Pradesh,FAIZABAD,november,rice
+Uttar Pradesh,FAIZABAD,december,mango
+Uttar Pradesh,FAIZABAD,march,potato
+Uttar Pradesh,FAIZABAD,june,tomato
+Uttar Pradesh,FAIZABAD,july,wheat 
+Uttar Pradesh,FAIZABAD,june,bajra
+Uttar Pradesh,FAIZABAD,july,rice
+Uttar Pradesh,FAIZABAD,september,tomato
+Uttar Pradesh,FAIZABAD,november,wheat 
+Uttar Pradesh,FAIZABAD,december,bajra
+Uttar Pradesh,FAIZABAD,october,rice
+Uttar Pradesh,FAIZABAD,november,mango
+Uttar Pradesh,FAIZABAD,december,potato
+Uttar Pradesh,FAIZABAD,april,tomato
+Uttar Pradesh,FAIZABAD,may,wheat 
+Uttar Pradesh,FAIZABAD,june,bajra
+Uttar Pradesh,FAIZABAD,november,rice
+Uttar Pradesh,FAIZABAD,september,mango
+Uttar Pradesh,FAIZABAD,october,potato
+Uttar Pradesh,FAIZABAD,november,tomato
+Uttar Pradesh,FAIZABAD,february,wheat 
+Uttar Pradesh,FAIZABAD,march,bajra
+Uttar Pradesh,FAIZABAD,march,rice
+Uttar Pradesh,FAIZABAD,april,tomato
+Uttar Pradesh,FAIZABAD,october,wheat 
+Uttar Pradesh,FAIZABAD,november,bajra
+Uttar Pradesh,FAIZABAD,december,rice
+Uttar Pradesh,FAIZABAD,october,mango
+Uttar Pradesh,FAIZABAD,november,potato
+Uttar Pradesh,FAIZABAD,december,tomato
+Uttar Pradesh,FAIZABAD,october,wheat 
+Uttar Pradesh,FAIZABAD,november,bajra
+Uttar Pradesh,FAIZABAD,january,rice
+Uttar Pradesh,FAIZABAD,february,mango
+Uttar Pradesh,FAIZABAD,march,potato
+Uttar Pradesh,FAIZABAD,september,tomato
+Uttar Pradesh,FAIZABAD,october,wheat 
+Uttar Pradesh,FAIZABAD,september,bajra
+Uttar Pradesh,FAIZABAD,november,rice
+Uttar Pradesh,FAIZABAD,february,tomato
+Uttar Pradesh,FAIZABAD,march,wheat 
+Uttar Pradesh,FAIZABAD,june,bajra
+Uttar Pradesh,FAIZABAD,july,rice
+Uttar Pradesh,FAIZABAD,august,mango
+Uttar Pradesh,FAIZABAD,september,potato
+Uttar Pradesh,FAIZABAD,october,tomato
+Uttar Pradesh,FAIZABAD,november,wheat 
+Uttar Pradesh,FAIZABAD,december,bajra
+Uttar Pradesh,FAIZABAD,october,rice
+Uttar Pradesh,FAIZABAD,september,mango
+Uttar Pradesh,FAIZABAD,october,potato
+Uttar Pradesh,FAIZABAD,november,tomato
+Uttar Pradesh,FAIZABAD,august,wheat 
+Uttar Pradesh,FAIZABAD,september,bajra
+Uttar Pradesh,FAIZABAD,october,rice
+Uttar Pradesh,FAIZABAD,november,tomato
+Uttar Pradesh,FAIZABAD,january,wheat 
+Uttar Pradesh,FAIZABAD,october,bajra
+Uttar Pradesh,FAIZABAD,november,rice
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,mango
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,potato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,tomato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,wheat 
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,bajra
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,rice
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,mango
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,potato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,tomato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,wheat 
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,bajra
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,rice
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,tomato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,wheat 
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,bajra
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,rice
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,mango
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,potato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,tomato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,wheat 
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,bajra
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,rice
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,mango
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,potato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,tomato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,wheat 
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,bajra
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,rice
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,tomato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,wheat 
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,bajra
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,rice
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,mango
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,potato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,tomato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,wheat 
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,bajra
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,rice
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,mango
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,potato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,tomato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,wheat 
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,bajra
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,rice
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,tomato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,wheat 
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,bajra
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,rice
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,mango
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,potato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,tomato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,wheat 
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,bajra
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,rice
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,mango
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,potato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,tomato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,wheat 
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,bajra
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,rice
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,tomato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,wheat 
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,bajra
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,rice
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,mango
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,potato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,tomato
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,wheat 
+Uttar Pradesh,GAUTAM BUDDHA NAGAR,,bajra
+Uttar Pradesh,GHAZIABAD,january,rice
+Uttar Pradesh,GHAZIABAD,february,mango
+Uttar Pradesh,GHAZIABAD,march,potato
+Uttar Pradesh,GHAZIABAD,april,tomato
+Uttar Pradesh,GHAZIABAD,may,wheat 
+Uttar Pradesh,GHAZIABAD,june,bajra
+Uttar Pradesh,GHAZIABAD,july,rice
+Uttar Pradesh,GHAZIABAD,august,tomato
+Uttar Pradesh,GHAZIABAD,september,wheat 
+Uttar Pradesh,GHAZIABAD,october,bajra
+Uttar Pradesh,GHAZIABAD,november,rice
+Uttar Pradesh,GHAZIABAD,december,mango
+Uttar Pradesh,GHAZIABAD,march,potato
+Uttar Pradesh,GHAZIABAD,june,tomato
+Uttar Pradesh,GHAZIABAD,july,wheat 
+Uttar Pradesh,GHAZIABAD,june,bajra
+Uttar Pradesh,GHAZIABAD,july,rice
+Uttar Pradesh,GHAZIABAD,september,mango
+Uttar Pradesh,GHAZIABAD,november,potato
+Uttar Pradesh,GHAZIABAD,december,tomato
+Uttar Pradesh,GHAZIABAD,october,wheat 
+Uttar Pradesh,GHAZIABAD,november,bajra
+Uttar Pradesh,GHAZIABAD,december,rice
+Uttar Pradesh,GHAZIABAD,april,tomato
+Uttar Pradesh,GHAZIABAD,may,wheat 
+Uttar Pradesh,GHAZIABAD,june,bajra
+Uttar Pradesh,GHAZIABAD,november,rice
+Uttar Pradesh,GHAZIABAD,september,mango
+Uttar Pradesh,GHAZIABAD,october,potato
+Uttar Pradesh,GHAZIABAD,november,tomato
+Uttar Pradesh,GHAZIABAD,february,wheat 
+Uttar Pradesh,GHAZIABAD,march,bajra
+Uttar Pradesh,GHAZIABAD,march,rice
+Uttar Pradesh,GHAZIABAD,april,mango
+Uttar Pradesh,GHAZIABAD,october,potato
+Uttar Pradesh,GHAZIABAD,november,tomato
+Uttar Pradesh,GHAZIABAD,december,wheat 
+Uttar Pradesh,GHAZIABAD,october,bajra
+Uttar Pradesh,GHAZIABAD,november,rice
+Uttar Pradesh,GHAZIABAD,december,tomato
+Uttar Pradesh,GHAZIABAD,october,wheat 
+Uttar Pradesh,GHAZIABAD,november,bajra
+Uttar Pradesh,GHAZIABAD,january,rice
+Uttar Pradesh,GHAZIABAD,february,mango
+Uttar Pradesh,GHAZIABAD,march,potato
+Uttar Pradesh,GHAZIABAD,september,tomato
+Uttar Pradesh,GHAZIABAD,october,wheat 
+Uttar Pradesh,GHAZIABAD,september,bajra
+Uttar Pradesh,GHAZIABAD,november,rice
+Uttar Pradesh,GHAZIABAD,february,mango
+Uttar Pradesh,GHAZIABAD,march,potato
+Uttar Pradesh,GHAZIABAD,june,tomato
+Uttar Pradesh,GHAZIABAD,july,wheat 
+Uttar Pradesh,GHAZIABAD,august,bajra
+Uttar Pradesh,GHAZIABAD,september,rice
+Uttar Pradesh,GHAZIABAD,october,tomato
+Uttar Pradesh,GHAZIABAD,november,wheat 
+Uttar Pradesh,GHAZIABAD,december,bajra
+Uttar Pradesh,GHAZIABAD,october,rice
+Uttar Pradesh,GHAZIABAD,september,mango
+Uttar Pradesh,GHAZIABAD,october,potato
+Uttar Pradesh,GHAZIABAD,november,tomato
+Uttar Pradesh,GHAZIABAD,august,wheat 
+Uttar Pradesh,GHAZIABAD,september,bajra
+Uttar Pradesh,GHAZIABAD,october,rice
+Uttar Pradesh,GHAZIABAD,november,mango
+Uttar Pradesh,GHAZIABAD,january,potato
+Uttar Pradesh,GHAZIABAD,october,tomato
+Uttar Pradesh,GHAZIABAD,november,wheat 
+Uttar Pradesh,GHAZIPUR,january,bajra
+Uttar Pradesh,GHAZIPUR,february,rice
+Uttar Pradesh,GHAZIPUR,march,tomato
+Uttar Pradesh,GHAZIPUR,april,wheat 
+Uttar Pradesh,GHAZIPUR,may,wheat 
+Uttar Pradesh,GHAZIPUR,june,bajra
+Uttar Pradesh,GHAZIPUR,july,rice
+Uttar Pradesh,GHAZIPUR,august,mango
+Uttar Pradesh,GHAZIPUR,september,potato
+Uttar Pradesh,GHAZIPUR,october,tomato
+Uttar Pradesh,GHAZIPUR,november,wheat 
+Uttar Pradesh,GHAZIPUR,december,bajra
+Uttar Pradesh,GHAZIPUR,march,rice
+Uttar Pradesh,GHAZIPUR,june,tomato
+Uttar Pradesh,GHAZIPUR,july,wheat 
+Uttar Pradesh,GHAZIPUR,june,wheat 
+Uttar Pradesh,GHAZIPUR,july,bajra
+Uttar Pradesh,GHAZIPUR,september,rice
+Uttar Pradesh,GHAZIPUR,november,mango
+Uttar Pradesh,GHAZIPUR,december,potato
+Uttar Pradesh,GHAZIPUR,october,tomato
+Uttar Pradesh,GHAZIPUR,november,wheat 
+Uttar Pradesh,GHAZIPUR,december,bajra
+Uttar Pradesh,GHAZIPUR,april,rice
+Uttar Pradesh,GHAZIPUR,may,tomato
+Uttar Pradesh,GHAZIPUR,june,wheat 
+Uttar Pradesh,GHAZIPUR,november,wheat 
+Uttar Pradesh,GHAZIPUR,september,bajra
+Uttar Pradesh,GHAZIPUR,october,rice
+Uttar Pradesh,GHAZIPUR,november,mango
+Uttar Pradesh,GHAZIPUR,february,potato
+Uttar Pradesh,GHAZIPUR,march,tomato
+Uttar Pradesh,GHAZIPUR,march,wheat 
+Uttar Pradesh,GHAZIPUR,april,bajra
+Uttar Pradesh,GHAZIPUR,october,rice
+Uttar Pradesh,GHAZIPUR,november,tomato
+Uttar Pradesh,GHAZIPUR,december,wheat 
+Uttar Pradesh,GHAZIPUR,october,wheat 
+Uttar Pradesh,GHAZIPUR,november,bajra
+Uttar Pradesh,GHAZIPUR,december,rice
+Uttar Pradesh,GHAZIPUR,october,mango
+Uttar Pradesh,GHAZIPUR,november,potato
+Uttar Pradesh,GHAZIPUR,january,tomato
+Uttar Pradesh,GHAZIPUR,february,wheat 
+Uttar Pradesh,GHAZIPUR,march,bajra
+Uttar Pradesh,GHAZIPUR,september,rice
+Uttar Pradesh,GHAZIPUR,october,tomato
+Uttar Pradesh,GHAZIPUR,september,wheat 
+Uttar Pradesh,GHAZIPUR,november,wheat 
+Uttar Pradesh,GHAZIPUR,february,bajra
+Uttar Pradesh,GHAZIPUR,march,rice
+Uttar Pradesh,GHAZIPUR,june,mango
+Uttar Pradesh,GHAZIPUR,july,potato
+Uttar Pradesh,GHAZIPUR,august,tomato
+Uttar Pradesh,GHAZIPUR,september,wheat 
+Uttar Pradesh,GHAZIPUR,october,bajra
+Uttar Pradesh,GHAZIPUR,november,rice
+Uttar Pradesh,GHAZIPUR,december,tomato
+Uttar Pradesh,GHAZIPUR,october,wheat 
+Uttar Pradesh,GHAZIPUR,september,wheat 
+Uttar Pradesh,GHAZIPUR,october,bajra
+Uttar Pradesh,GHAZIPUR,november,rice
+Uttar Pradesh,GHAZIPUR,august,mango
+Uttar Pradesh,GHAZIPUR,september,potato
+Uttar Pradesh,GHAZIPUR,october,tomato
+Uttar Pradesh,GHAZIPUR,november,wheat 
+Uttar Pradesh,GHAZIPUR,january,bajra
+Uttar Pradesh,GHAZIPUR,october,rice
+Uttar Pradesh,GHAZIPUR,november,tomato
+Uttar Pradesh,GORAKHPUR,january,wheat 
+Uttar Pradesh,GORAKHPUR,february,wheat 
+Uttar Pradesh,GORAKHPUR,march,bajra
+Uttar Pradesh,GORAKHPUR,april,rice
+Uttar Pradesh,GORAKHPUR,may,mango
+Uttar Pradesh,GORAKHPUR,june,potato
+Uttar Pradesh,GORAKHPUR,july,tomato
+Uttar Pradesh,GORAKHPUR,august,wheat 
+Uttar Pradesh,GORAKHPUR,september,bajra
+Uttar Pradesh,GORAKHPUR,october,rice
+Uttar Pradesh,GORAKHPUR,november,tomato
+Uttar Pradesh,GORAKHPUR,december,wheat 
+Uttar Pradesh,GORAKHPUR,march,wheat 
+Uttar Pradesh,GORAKHPUR,june,bajra
+Uttar Pradesh,GORAKHPUR,july,rice
+Uttar Pradesh,GORAKHPUR,june,mango
+Uttar Pradesh,GORAKHPUR,july,potato
+Uttar Pradesh,GORAKHPUR,september,tomato
+Uttar Pradesh,GORAKHPUR,november,wheat 
+Uttar Pradesh,GORAKHPUR,december,bajra
+Uttar Pradesh,GORAKHPUR,october,rice
+Uttar Pradesh,GORAKHPUR,november,tomato
+Uttar Pradesh,GORAKHPUR,december,wheat 
+Uttar Pradesh,GORAKHPUR,april,wheat 
+Uttar Pradesh,GORAKHPUR,may,bajra
+Uttar Pradesh,GORAKHPUR,june,rice
+Uttar Pradesh,GORAKHPUR,november,mango
+Uttar Pradesh,GORAKHPUR,september,potato
+Uttar Pradesh,GORAKHPUR,october,tomato
+Uttar Pradesh,GORAKHPUR,november,wheat 
+Uttar Pradesh,GORAKHPUR,february,bajra
+Uttar Pradesh,GORAKHPUR,march,rice
+Uttar Pradesh,GORAKHPUR,march,tomato
+Uttar Pradesh,GORAKHPUR,april,wheat 
+Uttar Pradesh,GORAKHPUR,october,wheat 
+Uttar Pradesh,GORAKHPUR,november,bajra
+Uttar Pradesh,GORAKHPUR,december,rice
+Uttar Pradesh,GORAKHPUR,october,mango
+Uttar Pradesh,GORAKHPUR,november,potato
+Uttar Pradesh,GORAKHPUR,december,tomato
+Uttar Pradesh,GORAKHPUR,october,wheat 
+Uttar Pradesh,GORAKHPUR,november,bajra
+Uttar Pradesh,GORAKHPUR,january,rice
+Uttar Pradesh,GORAKHPUR,february,tomato
+Uttar Pradesh,GORAKHPUR,march,wheat 
+Uttar Pradesh,GORAKHPUR,september,wheat 
+Uttar Pradesh,GORAKHPUR,october,bajra
+Uttar Pradesh,GORAKHPUR,september,rice
+Uttar Pradesh,GORAKHPUR,november,mango
+Uttar Pradesh,GORAKHPUR,february,potato
+Uttar Pradesh,GORAKHPUR,march,tomato
+Uttar Pradesh,GORAKHPUR,june,wheat 
+Uttar Pradesh,GORAKHPUR,july,bajra
+Uttar Pradesh,GORAKHPUR,august,rice
+Uttar Pradesh,GORAKHPUR,september,tomato
+Uttar Pradesh,GORAKHPUR,october,wheat 
+Uttar Pradesh,GORAKHPUR,november,wheat 
+Uttar Pradesh,GORAKHPUR,december,bajra
+Uttar Pradesh,GORAKHPUR,october,rice
+Uttar Pradesh,GORAKHPUR,september,mango
+Uttar Pradesh,GORAKHPUR,october,potato
+Uttar Pradesh,GORAKHPUR,november,tomato
+Uttar Pradesh,GORAKHPUR,august,wheat 
+Uttar Pradesh,GORAKHPUR,september,bajra
+Uttar Pradesh,GORAKHPUR,october,rice
+Uttar Pradesh,GORAKHPUR,november,tomato
+Uttar Pradesh,GORAKHPUR,january,wheat 
+Uttar Pradesh,GORAKHPUR,october,wheat 
+Uttar Pradesh,GORAKHPUR,november,bajra
+Uttar Pradesh,JAUNPUR,january,rice
+Uttar Pradesh,JAUNPUR,february,mango
+Uttar Pradesh,JAUNPUR,march,potato
+Uttar Pradesh,JAUNPUR,april,tomato
+Uttar Pradesh,JAUNPUR,may,wheat 
+Uttar Pradesh,JAUNPUR,june,bajra
+Uttar Pradesh,JAUNPUR,july,rice
+Uttar Pradesh,JAUNPUR,august,tomato
+Uttar Pradesh,JAUNPUR,september,wheat 
+Uttar Pradesh,JAUNPUR,october,wheat 
+Uttar Pradesh,JAUNPUR,november,bajra
+Uttar Pradesh,JAUNPUR,december,rice
+Uttar Pradesh,JAUNPUR,march,mango
+Uttar Pradesh,JAUNPUR,june,potato
+Uttar Pradesh,JAUNPUR,july,tomato
+Uttar Pradesh,JAUNPUR,june,wheat 
+Uttar Pradesh,JAUNPUR,july,bajra
+Uttar Pradesh,JAUNPUR,september,rice
+Uttar Pradesh,JAUNPUR,november,tomato
+Uttar Pradesh,JAUNPUR,december,wheat 
+Uttar Pradesh,JAUNPUR,october,wheat 
+Uttar Pradesh,JAUNPUR,november,bajra
+Uttar Pradesh,JAUNPUR,december,rice
+Uttar Pradesh,JAUNPUR,april,mango
+Uttar Pradesh,JAUNPUR,may,potato
+Uttar Pradesh,JAUNPUR,june,tomato
+Uttar Pradesh,JAUNPUR,november,wheat 
+Uttar Pradesh,JAUNPUR,september,bajra
+Uttar Pradesh,JAUNPUR,october,rice
+Uttar Pradesh,JAUNPUR,november,tomato
+Uttar Pradesh,JAUNPUR,february,wheat 
+Uttar Pradesh,JAUNPUR,march,wheat 
+Uttar Pradesh,JAUNPUR,march,bajra
+Uttar Pradesh,JAUNPUR,april,rice
+Uttar Pradesh,JAUNPUR,october,mango
+Uttar Pradesh,JAUNPUR,november,potato
+Uttar Pradesh,JAUNPUR,december,tomato
+Uttar Pradesh,JAUNPUR,october,wheat 
+Uttar Pradesh,JAUNPUR,november,bajra
+Uttar Pradesh,JAUNPUR,december,rice
+Uttar Pradesh,JAUNPUR,october,tomato
+Uttar Pradesh,JAUNPUR,november,wheat 
+Uttar Pradesh,JAUNPUR,january,wheat 
+Uttar Pradesh,JAUNPUR,february,bajra
+Uttar Pradesh,JAUNPUR,march,rice
+Uttar Pradesh,JAUNPUR,september,mango
+Uttar Pradesh,JAUNPUR,october,potato
+Uttar Pradesh,JAUNPUR,september,tomato
+Uttar Pradesh,JAUNPUR,november,wheat 
+Uttar Pradesh,JAUNPUR,february,bajra
+Uttar Pradesh,JAUNPUR,march,rice
+Uttar Pradesh,JAUNPUR,june,tomato
+Uttar Pradesh,JAUNPUR,july,wheat 
+Uttar Pradesh,JAUNPUR,august,wheat 
+Uttar Pradesh,JAUNPUR,september,bajra
+Uttar Pradesh,JAUNPUR,october,rice
+Uttar Pradesh,JAUNPUR,november,mango
+Uttar Pradesh,JAUNPUR,december,potato
+Uttar Pradesh,JAUNPUR,october,tomato
+Uttar Pradesh,JAUNPUR,september,wheat 
+Uttar Pradesh,JAUNPUR,october,bajra
+Uttar Pradesh,JAUNPUR,november,rice
+Uttar Pradesh,JAUNPUR,august,tomato
+Uttar Pradesh,JAUNPUR,september,wheat 
+Uttar Pradesh,JAUNPUR,october,wheat 
+Uttar Pradesh,JAUNPUR,november,bajra
+Uttar Pradesh,JAUNPUR,january,rice
+Uttar Pradesh,JAUNPUR,october,mango
+Uttar Pradesh,JAUNPUR,november,potato
+Uttar Pradesh,JHANSI,january,tomato
+Uttar Pradesh,JHANSI,february,wheat 
+Uttar Pradesh,JHANSI,march,bajra
+Uttar Pradesh,JHANSI,april,rice
+Uttar Pradesh,JHANSI,may,tomato
+Uttar Pradesh,JHANSI,june,wheat 
+Uttar Pradesh,JHANSI,july,wheat 
+Uttar Pradesh,JHANSI,august,bajra
+Uttar Pradesh,JHANSI,september,rice
+Uttar Pradesh,JHANSI,october,mango
+Uttar Pradesh,JHANSI,november,potato
+Uttar Pradesh,JHANSI,december,tomato
+Uttar Pradesh,JHANSI,march,wheat 
+Uttar Pradesh,JHANSI,june,bajra
+Uttar Pradesh,JHANSI,july,rice
+Uttar Pradesh,JHANSI,june,tomato
+Uttar Pradesh,JHANSI,july,wheat 
+Uttar Pradesh,JHANSI,september,wheat 
+Uttar Pradesh,JHANSI,november,bajra
+Uttar Pradesh,JHANSI,december,rice
+Uttar Pradesh,JHANSI,october,mango
+Uttar Pradesh,JHANSI,november,potato
+Uttar Pradesh,JHANSI,december,tomato
+Uttar Pradesh,JHANSI,april,wheat 
+Uttar Pradesh,JHANSI,may,bajra
+Uttar Pradesh,JHANSI,june,rice
+Uttar Pradesh,JHANSI,november,tomato
+Uttar Pradesh,JHANSI,september,wheat 
+Uttar Pradesh,JHANSI,october,wheat 
+Uttar Pradesh,JHANSI,november,bajra
+Uttar Pradesh,JHANSI,february,rice
+Uttar Pradesh,JHANSI,march,mango
+Uttar Pradesh,JHANSI,march,potato
+Uttar Pradesh,JHANSI,april,tomato
+Uttar Pradesh,JHANSI,october,wheat 
+Uttar Pradesh,JHANSI,november,bajra
+Uttar Pradesh,JHANSI,december,rice
+Uttar Pradesh,JHANSI,october,tomato
+Uttar Pradesh,JHANSI,november,wheat 
+Uttar Pradesh,JHANSI,december,wheat 
+Uttar Pradesh,JHANSI,october,bajra
+Uttar Pradesh,JHANSI,november,rice
+Uttar Pradesh,JHANSI,january,mango
+Uttar Pradesh,JHANSI,february,potato
+Uttar Pradesh,JHANSI,march,tomato
+Uttar Pradesh,JHANSI,september,wheat 
+Uttar Pradesh,JHANSI,october,bajra
+Uttar Pradesh,JHANSI,september,rice
+Uttar Pradesh,JHANSI,november,tomato
+Uttar Pradesh,JHANSI,february,wheat 
+Uttar Pradesh,JHANSI,march,wheat 
+Uttar Pradesh,JHANSI,june,bajra
+Uttar Pradesh,JHANSI,july,rice
+Uttar Pradesh,JHANSI,august,mango
+Uttar Pradesh,JHANSI,september,potato
+Uttar Pradesh,JHANSI,october,tomato
+Uttar Pradesh,JHANSI,november,wheat 
+Uttar Pradesh,JHANSI,december,bajra
+Uttar Pradesh,JHANSI,october,rice
+Uttar Pradesh,JHANSI,september,tomato
+Uttar Pradesh,JHANSI,october,wheat 
+Uttar Pradesh,JHANSI,november,wheat 
+Uttar Pradesh,JHANSI,august,bajra
+Uttar Pradesh,JHANSI,september,rice
+Uttar Pradesh,JHANSI,october,mango
+Uttar Pradesh,JHANSI,november,potato
+Uttar Pradesh,JHANSI,january,tomato
+Uttar Pradesh,JHANSI,october,wheat 
+Uttar Pradesh,JHANSI,november,bajra
+Uttar Pradesh,KAUSHAMBI,january,rice
+Uttar Pradesh,KAUSHAMBI,february,tomato
+Uttar Pradesh,KAUSHAMBI,march,wheat 
+Uttar Pradesh,KAUSHAMBI,april,wheat 
+Uttar Pradesh,KAUSHAMBI,may,bajra
+Uttar Pradesh,KAUSHAMBI,june,rice
+Uttar Pradesh,KAUSHAMBI,july,mango
+Uttar Pradesh,KAUSHAMBI,august,potato
+Uttar Pradesh,KAUSHAMBI,september,tomato
+Uttar Pradesh,KAUSHAMBI,october,wheat 
+Uttar Pradesh,KAUSHAMBI,november,bajra
+Uttar Pradesh,KAUSHAMBI,december,rice
+Uttar Pradesh,KAUSHAMBI,march,tomato
+Uttar Pradesh,KAUSHAMBI,june,wheat 
+Uttar Pradesh,KAUSHAMBI,july,wheat 
+Uttar Pradesh,KAUSHAMBI,june,bajra
+Uttar Pradesh,KAUSHAMBI,july,rice
+Uttar Pradesh,KAUSHAMBI,september,mango
+Uttar Pradesh,KAUSHAMBI,november,potato
+Uttar Pradesh,KAUSHAMBI,december,tomato
+Uttar Pradesh,KAUSHAMBI,october,wheat 
+Uttar Pradesh,KAUSHAMBI,november,bajra
+Uttar Pradesh,KAUSHAMBI,december,rice
+Uttar Pradesh,KAUSHAMBI,april,tomato
+Uttar Pradesh,KAUSHAMBI,may,wheat 
+Uttar Pradesh,KAUSHAMBI,june,wheat 
+Uttar Pradesh,KAUSHAMBI,november,bajra
+Uttar Pradesh,KAUSHAMBI,september,rice
+Uttar Pradesh,KAUSHAMBI,october,mango
+Uttar Pradesh,KAUSHAMBI,november,potato
+Uttar Pradesh,KAUSHAMBI,february,tomato
+Uttar Pradesh,KAUSHAMBI,march,wheat 
+Uttar Pradesh,KAUSHAMBI,march,bajra
+Uttar Pradesh,KAUSHAMBI,april,rice
+Uttar Pradesh,KAUSHAMBI,october,tomato
+Uttar Pradesh,KAUSHAMBI,november,wheat 
+Uttar Pradesh,KAUSHAMBI,december,wheat 
+Uttar Pradesh,KAUSHAMBI,october,bajra
+Uttar Pradesh,KAUSHAMBI,november,rice
+Uttar Pradesh,KAUSHAMBI,december,mango
+Uttar Pradesh,KAUSHAMBI,october,potato
+Uttar Pradesh,KAUSHAMBI,november,tomato
+Uttar Pradesh,KAUSHAMBI,january,wheat 
+Uttar Pradesh,KAUSHAMBI,february,bajra
+Uttar Pradesh,KAUSHAMBI,march,rice
+Uttar Pradesh,KAUSHAMBI,september,tomato
+Uttar Pradesh,KAUSHAMBI,october,wheat 
+Uttar Pradesh,KAUSHAMBI,september,wheat 
+Uttar Pradesh,KAUSHAMBI,november,bajra
+Uttar Pradesh,KAUSHAMBI,february,rice
+Uttar Pradesh,KAUSHAMBI,march,mango
+Uttar Pradesh,KAUSHAMBI,june,potato
+Uttar Pradesh,KAUSHAMBI,july,tomato
+Uttar Pradesh,KAUSHAMBI,august,wheat 
+Uttar Pradesh,KAUSHAMBI,september,bajra
+Uttar Pradesh,KAUSHAMBI,october,rice
+Uttar Pradesh,KAUSHAMBI,november,tomato
+Uttar Pradesh,KAUSHAMBI,december,wheat 
+Uttar Pradesh,KAUSHAMBI,october,wheat 
+Uttar Pradesh,KAUSHAMBI,september,bajra
+Uttar Pradesh,KAUSHAMBI,october,rice
+Uttar Pradesh,KAUSHAMBI,november,mango
+Uttar Pradesh,KAUSHAMBI,august,potato
+Uttar Pradesh,KAUSHAMBI,september,tomato
+Uttar Pradesh,KAUSHAMBI,october,wheat 
+Uttar Pradesh,KAUSHAMBI,november,bajra
+Uttar Pradesh,KAUSHAMBI,january,rice
+Uttar Pradesh,KAUSHAMBI,october,tomato
+Uttar Pradesh,KAUSHAMBI,november,wheat 
+Uttar Pradesh,LUCKNOW,january,wheat 
+Uttar Pradesh,LUCKNOW,february,bajra
+Uttar Pradesh,LUCKNOW,march,rice
+Uttar Pradesh,LUCKNOW,april,mango
+Uttar Pradesh,LUCKNOW,may,potato
+Uttar Pradesh,LUCKNOW,june,tomato
+Uttar Pradesh,LUCKNOW,july,wheat 
+Uttar Pradesh,LUCKNOW,august,bajra
+Uttar Pradesh,LUCKNOW,september,rice
+Uttar Pradesh,LUCKNOW,october,tomato
+Uttar Pradesh,LUCKNOW,november,wheat 
+Uttar Pradesh,LUCKNOW,december,wheat 
+Uttar Pradesh,LUCKNOW,march,bajra
+Uttar Pradesh,LUCKNOW,june,rice
+Uttar Pradesh,LUCKNOW,july,mango
+Uttar Pradesh,LUCKNOW,june,potato
+Uttar Pradesh,LUCKNOW,july,tomato
+Uttar Pradesh,LUCKNOW,september,wheat 
+Uttar Pradesh,LUCKNOW,november,bajra
+Uttar Pradesh,LUCKNOW,december,rice
+Uttar Pradesh,LUCKNOW,october,tomato
+Uttar Pradesh,LUCKNOW,november,wheat 
+Uttar Pradesh,LUCKNOW,december,wheat 
+Uttar Pradesh,LUCKNOW,april,bajra
+Uttar Pradesh,LUCKNOW,may,rice
+Uttar Pradesh,LUCKNOW,june,mango
+Uttar Pradesh,LUCKNOW,november,potato
+Uttar Pradesh,LUCKNOW,september,tomato
+Uttar Pradesh,LUCKNOW,october,wheat 
+Uttar Pradesh,LUCKNOW,november,bajra
+Uttar Pradesh,LUCKNOW,february,rice
+Uttar Pradesh,LUCKNOW,march,tomato
+Uttar Pradesh,LUCKNOW,march,wheat 
+Uttar Pradesh,LUCKNOW,april,wheat 
+Uttar Pradesh,LUCKNOW,october,bajra
+Uttar Pradesh,LUCKNOW,november,rice
+Uttar Pradesh,LUCKNOW,december,mango
+Uttar Pradesh,LUCKNOW,october,potato
+Uttar Pradesh,LUCKNOW,november,tomato
+Uttar Pradesh,LUCKNOW,december,wheat 
+Uttar Pradesh,LUCKNOW,october,bajra
+Uttar Pradesh,LUCKNOW,november,rice
+Uttar Pradesh,LUCKNOW,january,tomato
+Uttar Pradesh,LUCKNOW,february,wheat 
+Uttar Pradesh,LUCKNOW,march,wheat 
+Uttar Pradesh,LUCKNOW,september,bajra
+Uttar Pradesh,LUCKNOW,october,rice
+Uttar Pradesh,LUCKNOW,september,mango
+Uttar Pradesh,LUCKNOW,november,potato
+Uttar Pradesh,LUCKNOW,february,tomato
+Uttar Pradesh,LUCKNOW,march,wheat 
+Uttar Pradesh,LUCKNOW,june,bajra
+Uttar Pradesh,LUCKNOW,july,rice
+Uttar Pradesh,LUCKNOW,august,tomato
+Uttar Pradesh,LUCKNOW,september,wheat 
+Uttar Pradesh,LUCKNOW,october,wheat 
+Uttar Pradesh,LUCKNOW,november,bajra
+Uttar Pradesh,LUCKNOW,december,rice
+Uttar Pradesh,LUCKNOW,october,mango
+Uttar Pradesh,LUCKNOW,september,potato
+Uttar Pradesh,LUCKNOW,october,tomato
+Uttar Pradesh,LUCKNOW,november,wheat 
+Uttar Pradesh,LUCKNOW,august,bajra
+Uttar Pradesh,LUCKNOW,september,rice
+Uttar Pradesh,LUCKNOW,october,tomato
+Uttar Pradesh,LUCKNOW,november,wheat 
+Uttar Pradesh,LUCKNOW,january,wheat 
+Uttar Pradesh,LUCKNOW,october,bajra
+Uttar Pradesh,LUCKNOW,november,rice
+Uttar Pradesh,MATHURA,january,mango
+Uttar Pradesh,MATHURA,february,potato
+Uttar Pradesh,MATHURA,march,tomato
+Uttar Pradesh,MATHURA,april,wheat 
+Uttar Pradesh,MATHURA,may,bajra
+Uttar Pradesh,MATHURA,june,rice
+Uttar Pradesh,MATHURA,july,tomato
+Uttar Pradesh,MATHURA,august,wheat 
+Uttar Pradesh,MATHURA,september,wheat 
+Uttar Pradesh,MATHURA,october,bajra
+Uttar Pradesh,MATHURA,november,rice
+Uttar Pradesh,MATHURA,december,mango
+Uttar Pradesh,MATHURA,march,potato
+Uttar Pradesh,MATHURA,june,tomato
+Uttar Pradesh,MATHURA,july,wheat 
+Uttar Pradesh,MATHURA,june,bajra
+Uttar Pradesh,MATHURA,july,rice
+Uttar Pradesh,MATHURA,september,tomato
+Uttar Pradesh,MATHURA,november,wheat 
+Uttar Pradesh,MATHURA,december,wheat 
+Uttar Pradesh,MATHURA,october,bajra
+Uttar Pradesh,MATHURA,november,rice
+Uttar Pradesh,MATHURA,december,mango
+Uttar Pradesh,MATHURA,april,potato
+Uttar Pradesh,MATHURA,may,tomato
+Uttar Pradesh,MATHURA,june,wheat 
+Uttar Pradesh,MATHURA,november,bajra
+Uttar Pradesh,MATHURA,september,rice
+Uttar Pradesh,MATHURA,october,tomato
+Uttar Pradesh,MATHURA,november,wheat 
+Uttar Pradesh,MATHURA,february,wheat 
+Uttar Pradesh,MATHURA,march,bajra
+Uttar Pradesh,MATHURA,march,rice
+Uttar Pradesh,MATHURA,april,mango
+Uttar Pradesh,MATHURA,october,potato
+Uttar Pradesh,MATHURA,november,tomato
+Uttar Pradesh,MATHURA,december,wheat 
+Uttar Pradesh,MATHURA,october,bajra
+Uttar Pradesh,MATHURA,november,rice
+Uttar Pradesh,MATHURA,december,tomato
+Uttar Pradesh,MATHURA,october,wheat 
+Uttar Pradesh,MATHURA,november,wheat 
+Uttar Pradesh,MATHURA,january,bajra
+Uttar Pradesh,MATHURA,february,rice
+Uttar Pradesh,MATHURA,march,mango
+Uttar Pradesh,MATHURA,september,potato
+Uttar Pradesh,MATHURA,october,tomato
+Uttar Pradesh,MATHURA,september,wheat 
+Uttar Pradesh,MATHURA,november,bajra
+Uttar Pradesh,MATHURA,february,rice
+Uttar Pradesh,MATHURA,march,tomato
+Uttar Pradesh,MATHURA,june,wheat 
+Uttar Pradesh,MATHURA,july,wheat 
+Uttar Pradesh,MATHURA,august,bajra
+Uttar Pradesh,MATHURA,september,rice
+Uttar Pradesh,MATHURA,october,mango
+Uttar Pradesh,MATHURA,november,potato
+Uttar Pradesh,MATHURA,december,tomato
+Uttar Pradesh,MATHURA,october,wheat 
+Uttar Pradesh,MATHURA,september,bajra
+Uttar Pradesh,MATHURA,october,rice
+Uttar Pradesh,MATHURA,november,tomato
+Uttar Pradesh,MATHURA,august,wheat 
+Uttar Pradesh,MATHURA,september,wheat 
+Uttar Pradesh,MATHURA,october,bajra
+Uttar Pradesh,MATHURA,november,rice
+Uttar Pradesh,MATHURA,january,mango
+Uttar Pradesh,MATHURA,october,potato
+Uttar Pradesh,MATHURA,november,tomato
+Uttar Pradesh,MAU,january,wheat 
+Uttar Pradesh,MAU,february,bajra
+Uttar Pradesh,MAU,march,rice
+Uttar Pradesh,MAU,april,tomato
+Uttar Pradesh,MAU,may,wheat 
+Uttar Pradesh,MAU,june,wheat 
+Uttar Pradesh,MAU,july,bajra
+Uttar Pradesh,MAU,august,rice
+Uttar Pradesh,MAU,september,mango
+Uttar Pradesh,MAU,october,potato
+Uttar Pradesh,MAU,november,tomato
+Uttar Pradesh,MAU,december,wheat 
+Uttar Pradesh,MAU,march,bajra
+Uttar Pradesh,MAU,june,rice
+Uttar Pradesh,MAU,july,tomato
+Uttar Pradesh,MAU,june,wheat 
+Uttar Pradesh,MAU,july,wheat 
+Uttar Pradesh,MAU,september,bajra
+Uttar Pradesh,MAU,november,rice
+Uttar Pradesh,MAU,december,mango
+Uttar Pradesh,MAU,october,potato
+Uttar Pradesh,MAU,november,tomato
+Uttar Pradesh,MAU,december,wheat 
+Uttar Pradesh,MAU,april,bajra
+Uttar Pradesh,MAU,may,rice
+Uttar Pradesh,MAU,june,tomato
+Uttar Pradesh,MAU,november,wheat 
+Uttar Pradesh,MAU,september,wheat 
+Uttar Pradesh,MAU,october,bajra
+Uttar Pradesh,MAU,november,rice
+Uttar Pradesh,MAU,february,mango
+Uttar Pradesh,MAU,march,potato
+Uttar Pradesh,MAU,march,tomato
+Uttar Pradesh,MAU,april,wheat 
+Uttar Pradesh,MAU,october,bajra
+Uttar Pradesh,MAU,november,rice
+Uttar Pradesh,MAU,december,tomato
+Uttar Pradesh,MAU,october,wheat 
+Uttar Pradesh,MAU,november,wheat 
+Uttar Pradesh,MAU,december,bajra
+Uttar Pradesh,MAU,october,rice
+Uttar Pradesh,MAU,november,mango
+Uttar Pradesh,MAU,january,potato
+Uttar Pradesh,MAU,february,tomato
+Uttar Pradesh,MAU,march,wheat 
+Uttar Pradesh,MAU,september,bajra
+Uttar Pradesh,MAU,october,rice
+Uttar Pradesh,MAU,september,tomato
+Uttar Pradesh,MAU,november,wheat 
+Uttar Pradesh,MAU,february,wheat 
+Uttar Pradesh,MAU,march,bajra
+Uttar Pradesh,MAU,june,rice
+Uttar Pradesh,MAU,july,mango
+Uttar Pradesh,MAU,august,potato
+Uttar Pradesh,MAU,september,tomato
+Uttar Pradesh,MAU,october,wheat 
+Uttar Pradesh,MAU,november,bajra
+Uttar Pradesh,MAU,december,rice
+Uttar Pradesh,MAU,october,tomato
+Uttar Pradesh,MAU,september,wheat 
+Uttar Pradesh,MAU,october,wheat 
+Uttar Pradesh,MAU,november,bajra
+Uttar Pradesh,MAU,august,rice
+Uttar Pradesh,MAU,september,mango
+Uttar Pradesh,MAU,october,potato
+Uttar Pradesh,MAU,november,tomato
+Uttar Pradesh,MAU,january,wheat 
+Uttar Pradesh,MAU,october,bajra
+Uttar Pradesh,MAU,november,rice
+Uttar Pradesh,MEERUT,january,tomato
+Uttar Pradesh,MEERUT,february,wheat 
+Uttar Pradesh,MEERUT,march,wheat 
+Uttar Pradesh,MEERUT,april,bajra
+Uttar Pradesh,MEERUT,may,rice
+Uttar Pradesh,MEERUT,june,mango
+Uttar Pradesh,MEERUT,july,potato
+Uttar Pradesh,MEERUT,august,tomato
+Uttar Pradesh,MEERUT,september,wheat 
+Uttar Pradesh,MEERUT,october,bajra
+Uttar Pradesh,MEERUT,november,rice
+Uttar Pradesh,MEERUT,december,tomato
+Uttar Pradesh,MEERUT,march,wheat 
+Uttar Pradesh,MEERUT,june,wheat 
+Uttar Pradesh,MEERUT,july,bajra
+Uttar Pradesh,MEERUT,june,rice
+Uttar Pradesh,MEERUT,july,mango
+Uttar Pradesh,MEERUT,september,potato
+Uttar Pradesh,MEERUT,november,tomato
+Uttar Pradesh,MEERUT,december,wheat 
+Uttar Pradesh,MEERUT,october,bajra
+Uttar Pradesh,MEERUT,november,rice
+Uttar Pradesh,MEERUT,december,tomato
+Uttar Pradesh,MEERUT,april,wheat 
+Uttar Pradesh,MEERUT,may,wheat 
+Uttar Pradesh,MEERUT,june,bajra
+Uttar Pradesh,MEERUT,november,rice
+Uttar Pradesh,MEERUT,september,mango
+Uttar Pradesh,MEERUT,october,potato
+Uttar Pradesh,MEERUT,november,tomato
+Uttar Pradesh,MEERUT,february,wheat 
+Uttar Pradesh,MEERUT,march,bajra
+Uttar Pradesh,MEERUT,march,rice
+Uttar Pradesh,MEERUT,april,tomato
+Uttar Pradesh,MEERUT,october,wheat 
+Uttar Pradesh,MEERUT,november,wheat 
+Uttar Pradesh,MEERUT,december,bajra
+Uttar Pradesh,MEERUT,october,rice
+Uttar Pradesh,MEERUT,november,mango
+Uttar Pradesh,MEERUT,december,potato
+Uttar Pradesh,MEERUT,october,tomato
+Uttar Pradesh,MEERUT,november,wheat 
+Uttar Pradesh,MEERUT,january,bajra
+Uttar Pradesh,MEERUT,february,rice
+Uttar Pradesh,MEERUT,march,tomato
+Uttar Pradesh,MEERUT,september,wheat 
+Uttar Pradesh,MEERUT,october,wheat 
+Uttar Pradesh,MEERUT,september,bajra
+Uttar Pradesh,MEERUT,november,rice
+Uttar Pradesh,MEERUT,february,mango
+Uttar Pradesh,MEERUT,march,potato
+Uttar Pradesh,MEERUT,june,tomato
+Uttar Pradesh,MEERUT,july,wheat 
+Uttar Pradesh,MEERUT,august,bajra
+Uttar Pradesh,MEERUT,september,rice
+Uttar Pradesh,MEERUT,october,tomato
+Uttar Pradesh,MEERUT,november,wheat 
+Uttar Pradesh,MEERUT,december,wheat 
+Uttar Pradesh,MEERUT,october,bajra
+Uttar Pradesh,MEERUT,september,rice
+Uttar Pradesh,MEERUT,october,mango
+Uttar Pradesh,MEERUT,november,potato
+Uttar Pradesh,MEERUT,august,tomato
+Uttar Pradesh,MEERUT,september,wheat 
+Uttar Pradesh,MEERUT,october,bajra
+Uttar Pradesh,MEERUT,november,rice
+Uttar Pradesh,MEERUT,january,tomato
+Uttar Pradesh,MEERUT,october,wheat 
+Uttar Pradesh,MEERUT,november,wheat 
+Uttar Pradesh,MIRZAPUR,january,bajra
+Uttar Pradesh,MIRZAPUR,february,rice
+Uttar Pradesh,MIRZAPUR,march,mango
+Uttar Pradesh,MIRZAPUR,april,potato
+Uttar Pradesh,MIRZAPUR,may,tomato
+Uttar Pradesh,MIRZAPUR,june,wheat 
+Uttar Pradesh,MIRZAPUR,july,bajra
+Uttar Pradesh,MIRZAPUR,august,rice
+Uttar Pradesh,MIRZAPUR,september,tomato
+Uttar Pradesh,MIRZAPUR,october,wheat 
+Uttar Pradesh,MIRZAPUR,november,wheat 
+Uttar Pradesh,MIRZAPUR,december,bajra
+Uttar Pradesh,MIRZAPUR,march,rice
+Uttar Pradesh,MIRZAPUR,june,mango
+Uttar Pradesh,MIRZAPUR,july,potato
+Uttar Pradesh,MIRZAPUR,june,tomato
+Uttar Pradesh,MIRZAPUR,july,wheat 
+Uttar Pradesh,MIRZAPUR,september,bajra
+Uttar Pradesh,MIRZAPUR,november,rice
+Uttar Pradesh,MIRZAPUR,december,tomato
+Uttar Pradesh,MIRZAPUR,october,wheat 
+Uttar Pradesh,MIRZAPUR,november,wheat 
+Uttar Pradesh,MIRZAPUR,december,bajra
+Uttar Pradesh,MIRZAPUR,april,rice
+Uttar Pradesh,MIRZAPUR,may,mango
+Uttar Pradesh,MIRZAPUR,june,potato
+Uttar Pradesh,MIRZAPUR,november,tomato
+Uttar Pradesh,MIRZAPUR,september,wheat 
+Uttar Pradesh,MIRZAPUR,october,bajra
+Uttar Pradesh,MIRZAPUR,november,rice
+Uttar Pradesh,MIRZAPUR,february,tomato
+Uttar Pradesh,MIRZAPUR,march,wheat 
+Uttar Pradesh,MIRZAPUR,march,wheat 
+Uttar Pradesh,MIRZAPUR,april,bajra
+Uttar Pradesh,MIRZAPUR,october,rice
+Uttar Pradesh,MIRZAPUR,november,mango
+Uttar Pradesh,MIRZAPUR,december,potato
+Uttar Pradesh,MIRZAPUR,october,tomato
+Uttar Pradesh,MIRZAPUR,november,wheat 
+Uttar Pradesh,MIRZAPUR,december,bajra
+Uttar Pradesh,MIRZAPUR,october,rice
+Uttar Pradesh,MIRZAPUR,november,tomato
+Uttar Pradesh,MIRZAPUR,january,wheat 
+Uttar Pradesh,MIRZAPUR,february,wheat 
+Uttar Pradesh,MIRZAPUR,march,bajra
+Uttar Pradesh,MIRZAPUR,september,rice
+Uttar Pradesh,MIRZAPUR,october,mango
+Uttar Pradesh,MIRZAPUR,september,potato
+Uttar Pradesh,MIRZAPUR,november,tomato
+Uttar Pradesh,MIRZAPUR,february,wheat 
+Uttar Pradesh,MIRZAPUR,march,bajra
+Uttar Pradesh,MIRZAPUR,june,rice
+Uttar Pradesh,MIRZAPUR,july,tomato
+Uttar Pradesh,MIRZAPUR,august,wheat 
+Uttar Pradesh,MIRZAPUR,september,wheat 
+Uttar Pradesh,MIRZAPUR,october,bajra
+Uttar Pradesh,MIRZAPUR,november,rice
+Uttar Pradesh,MIRZAPUR,december,mango
+Uttar Pradesh,MIRZAPUR,october,potato
+Uttar Pradesh,MIRZAPUR,september,tomato
+Uttar Pradesh,MIRZAPUR,october,wheat 
+Uttar Pradesh,MIRZAPUR,november,bajra
+Uttar Pradesh,MIRZAPUR,august,rice
+Uttar Pradesh,MIRZAPUR,september,tomato
+Uttar Pradesh,MIRZAPUR,october,wheat 
+Uttar Pradesh,MIRZAPUR,november,wheat 
+Uttar Pradesh,MIRZAPUR,january,bajra
+Uttar Pradesh,MIRZAPUR,october,rice
+Uttar Pradesh,MIRZAPUR,november,mango
+Uttar Pradesh,RAMPUR,january,potato
+Uttar Pradesh,RAMPUR,february,tomato
+Uttar Pradesh,RAMPUR,march,wheat 
+Uttar Pradesh,RAMPUR,april,bajra
+Uttar Pradesh,RAMPUR,may,rice
+Uttar Pradesh,RAMPUR,june,tomato
+Uttar Pradesh,RAMPUR,july,wheat 
+Uttar Pradesh,RAMPUR,august,wheat 
+Uttar Pradesh,RAMPUR,september,bajra
+Uttar Pradesh,RAMPUR,october,rice
+Uttar Pradesh,RAMPUR,november,mango
+Uttar Pradesh,RAMPUR,december,potato
+Uttar Pradesh,RAMPUR,march,tomato
+Uttar Pradesh,RAMPUR,june,wheat 
+Uttar Pradesh,RAMPUR,july,bajra
+Uttar Pradesh,RAMPUR,june,rice
+Uttar Pradesh,RAMPUR,july,tomato
+Uttar Pradesh,RAMPUR,september,wheat 
+Uttar Pradesh,RAMPUR,november,wheat 
+Uttar Pradesh,RAMPUR,december,bajra
+Uttar Pradesh,RAMPUR,october,rice
+Uttar Pradesh,RAMPUR,november,mango
+Uttar Pradesh,RAMPUR,december,potato
+Uttar Pradesh,RAMPUR,april,tomato
+Uttar Pradesh,RAMPUR,may,wheat 
+Uttar Pradesh,RAMPUR,june,bajra
+Uttar Pradesh,RAMPUR,november,rice
+Uttar Pradesh,RAMPUR,september,tomato
+Uttar Pradesh,RAMPUR,october,wheat 
+Uttar Pradesh,RAMPUR,november,wheat 
+Uttar Pradesh,RAMPUR,february,bajra
+Uttar Pradesh,RAMPUR,march,rice
+Uttar Pradesh,RAMPUR,march,mango
+Uttar Pradesh,RAMPUR,april,potato
+Uttar Pradesh,RAMPUR,october,tomato
+Uttar Pradesh,RAMPUR,november,wheat 
+Uttar Pradesh,RAMPUR,december,bajra
+Uttar Pradesh,RAMPUR,october,rice
+Uttar Pradesh,RAMPUR,november,tomato
+Uttar Pradesh,RAMPUR,december,wheat 
+Uttar Pradesh,RAMPUR,october,wheat 
+Uttar Pradesh,RAMPUR,november,bajra
+Uttar Pradesh,RAMPUR,january,rice
+Uttar Pradesh,RAMPUR,february,mango
+Uttar Pradesh,RAMPUR,march,potato
+Uttar Pradesh,RAMPUR,september,tomato
+Uttar Pradesh,RAMPUR,october,wheat 
+Uttar Pradesh,RAMPUR,september,bajra
+Uttar Pradesh,RAMPUR,november,rice
+Uttar Pradesh,RAMPUR,february,tomato
+Uttar Pradesh,RAMPUR,march,wheat 
+Uttar Pradesh,RAMPUR,june,wheat 
+Uttar Pradesh,RAMPUR,july,bajra
+Uttar Pradesh,RAMPUR,august,rice
+Uttar Pradesh,RAMPUR,september,mango
+Uttar Pradesh,RAMPUR,october,potato
+Uttar Pradesh,RAMPUR,november,tomato
+Uttar Pradesh,RAMPUR,december,wheat 
+Uttar Pradesh,RAMPUR,october,bajra
+Uttar Pradesh,RAMPUR,september,rice
+Uttar Pradesh,RAMPUR,october,tomato
+Uttar Pradesh,RAMPUR,november,wheat 
+Uttar Pradesh,RAMPUR,august,wheat 
+Uttar Pradesh,RAMPUR,september,bajra
+Uttar Pradesh,RAMPUR,october,rice
+Uttar Pradesh,RAMPUR,november,mango
+Uttar Pradesh,RAMPUR,january,potato
+Uttar Pradesh,RAMPUR,october,tomato
+Uttar Pradesh,RAMPUR,november,wheat 
+Uttar Pradesh,VARANASI,january,bajra
+Uttar Pradesh,VARANASI,february,rice
+Uttar Pradesh,VARANASI,march,tomato
+Uttar Pradesh,VARANASI,april,wheat 
+Uttar Pradesh,VARANASI,may,wheat 
+Uttar Pradesh,VARANASI,june,bajra
+Uttar Pradesh,VARANASI,july,rice
+Uttar Pradesh,VARANASI,august,mango
+Uttar Pradesh,VARANASI,september,potato
+Uttar Pradesh,VARANASI,october,tomato
+Uttar Pradesh,VARANASI,november,wheat 
+Uttar Pradesh,VARANASI,december,bajra
+Uttar Pradesh,VARANASI,march,rice
+Uttar Pradesh,VARANASI,june,tomato
+Uttar Pradesh,VARANASI,july,wheat 
+Uttar Pradesh,VARANASI,june,wheat 
+Uttar Pradesh,VARANASI,july,bajra
+Uttar Pradesh,VARANASI,september,rice
+Uttar Pradesh,VARANASI,november,mango
+Uttar Pradesh,VARANASI,december,potato
+Uttar Pradesh,VARANASI,october,tomato
+Uttar Pradesh,VARANASI,november,wheat 
+Uttar Pradesh,VARANASI,december,bajra
+Uttar Pradesh,VARANASI,april,rice
+Uttar Pradesh,VARANASI,may,tomato
+Uttar Pradesh,VARANASI,june,wheat 
+Uttar Pradesh,VARANASI,november,wheat 
+Uttar Pradesh,VARANASI,september,bajra
+Uttar Pradesh,VARANASI,october,rice
+Uttar Pradesh,VARANASI,november,mango
+Uttar Pradesh,VARANASI,february,potato
+Uttar Pradesh,VARANASI,march,tomato
+Uttar Pradesh,VARANASI,march,wheat 
+Uttar Pradesh,VARANASI,april,bajra
+Uttar Pradesh,VARANASI,october,rice
+Uttar Pradesh,VARANASI,november,tomato
+Uttar Pradesh,VARANASI,december,wheat 
+Uttar Pradesh,VARANASI,october,wheat 
+Uttar Pradesh,VARANASI,november,bajra
+Uttar Pradesh,VARANASI,december,rice
+Uttar Pradesh,VARANASI,october,mango
+Uttar Pradesh,VARANASI,november,potato
+Uttar Pradesh,VARANASI,january,tomato
+Uttar Pradesh,VARANASI,february,wheat 
+Uttar Pradesh,VARANASI,march,bajra
+Uttar Pradesh,VARANASI,september,rice
+Uttar Pradesh,VARANASI,october,tomato
+Uttar Pradesh,VARANASI,september,wheat 
+Uttar Pradesh,VARANASI,november,wheat 
+Uttar Pradesh,VARANASI,february,bajra
+Uttar Pradesh,VARANASI,march,rice
+Uttar Pradesh,VARANASI,june,mango
+Uttar Pradesh,VARANASI,july,potato
+Uttar Pradesh,VARANASI,august,tomato
+Uttar Pradesh,VARANASI,september,wheat 
+Uttar Pradesh,VARANASI,october,bajra
+Uttar Pradesh,VARANASI,november,rice
+Uttar Pradesh,VARANASI,december,tomato
+Uttar Pradesh,VARANASI,october,wheat 
+Uttar Pradesh,VARANASI,september,wheat 
+Uttar Pradesh,VARANASI,october,bajra
+Uttar Pradesh,VARANASI,november,rice
+Uttar Pradesh,VARANASI,august,mango
+Uttar Pradesh,VARANASI,september,potato
+Uttar Pradesh,VARANASI,october,tomato
+Uttar Pradesh,VARANASI,november,wheat 
+Uttar Pradesh,VARANASI,january,bajra
+Uttar Pradesh,VARANASI,october,rice
+Uttar Pradesh,VARANASI,november,tomato

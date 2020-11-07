@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: row;
+  max-width: 70%;
+  margin: auto;
+}
+
+.form-group input {
+  margin: 10px;
+}
+
+.jumbotron {
+  background-color: #3498db;
+  color: white;
+}
+
+.jumbotron hr {
+  background: white;
+}
+
+.btn-outline-primary {
+  /* background-color: white; */
+  color: white;
+  border: 1px solid white;
+}
+.btn-outline-primary:hover {
+  background-color: white;
+  color: black;
+  transform: translateY(2px);
+}
+
+.week-data {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
